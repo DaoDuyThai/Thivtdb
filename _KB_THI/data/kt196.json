@@ -1,0 +1,2354 @@
+[
+ {
+  "n": 1,
+  "q": "Trên góc độ không gian, vận tải là hoạt động nhằm:",
+  "opts": {
+   "A": "Thay đổi hình dáng, kích thước của hàng hóa",
+   "B": "Thay đổi vị trí của hàng hóa và hành khách trong không gian",
+   "C": "Tăng khối lượng hàng hóa được sản xuất",
+   "D": "Lưu kho hàng hóa để tiêu dùng về sau"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 2,
+  "q": "Trên góc độ kỹ thuật, hoạt động vận tải xuất hiện khi:",
+  "opts": {
+   "A": "Có nhu cầu đi lại của hành khách",
+   "B": "Có hợp đồng vận chuyển được ký kết",
+   "C": "Có sự kết hợp và sử dụng phương tiện, tuyến đường, ga, cảng, thiết bị động lực và đối tượng vận chuyển",
+   "D": "Có mức giá cước được Nhà nước quy định"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 3,
+  "q": "Khái niệm vận tải được xem xét trên các góc độ khác nhau, bao gồm:",
+  "opts": {
+   "A": "Kỹ thuật",
+   "B": "Không gian",
+   "C": "Kinh tế",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 4,
+  "q": "Vận tải là quá trình thay đổi (di chuyển) vị trí của hàng hóa, hành khách trong:",
+  "opts": {
+   "A": "Kho bãi và bến cảng",
+   "B": "Không gian và thời gian",
+   "C": "Không gian",
+   "D": "Thời gian"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 5,
+  "q": "Tính chất của vận tải bao gồm:",
+  "opts": {
+   "A": "Sản phẩm vận tải không tồn tại dưới hình thức vật chất",
+   "B": "Môi trường sản xuất vận tải không cố định, luôn thay đổi theo không gian",
+   "C": "Sản xuất vận tải không làm thay đổi hình dáng, kích thước của đối tượng lao động",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 6,
+  "q": "Vì sản phẩm vận tải không thể lưu kho, doanh nghiệp vận tải chỉ có thể dự trữ:",
+  "opts": {
+   "A": "Năng lực vận tải",
+   "B": "Lượng luân chuyển hàng hóa",
+   "C": "Sản phẩm vận tải",
+   "D": "Sản phẩm dở dang"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 7,
+  "q": "Quá trình sản xuất của ngành vận tải:",
+  "opts": {
+   "A": "Làm thay đổi vị trí của hàng hóa và qua đó làm tăng giá trị của hàng hóa vận chuyển",
+   "B": "Làm thay đổi hình dáng, kích thước của hàng hóa",
+   "C": "Tạo ra sản phẩm vật chất mới",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 8,
+  "q": "Vai trò của vận tải hành khách là:",
+  "opts": {
+   "A": "Tạo cầu nối để con người gần lại nhau hơn, mở rộng giao lưu trong và ngoài nước",
+   "B": "Rút ngắn khoảng cách giữa thành thị và nông thôn, giữa đồng bằng và miền núi",
+   "C": "Giúp con người thực hiện các chuyến đi với các mục đích khác nhau như đi làm, đi mua sắm, đi du lịch",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 9,
+  "q": "Vận tải hành khách bằng ô tô có vai trò đặc biệt quan trọng trong lĩnh vực nào, đem lại nguồn thu ngoại tệ đáng kể?",
+  "opts": {
+   "A": "Xuất khẩu nông sản",
+   "B": "Du lịch, đặc biệt là du lịch quốc tế",
+   "C": "Khai thác khoáng sản",
+   "D": "Xây dựng cơ bản"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 10,
+  "q": "Vai trò của vận tải hàng hóa là:",
+  "opts": {
+   "A": "Đóng góp lớn cho ngân sách Nhà nước qua nhiều loại thuế",
+   "B": "Tạo thêm việc làm, góp phần giảm tỷ lệ thất nghiệp",
+   "C": "Đáp ứng yêu cầu nguyên, nhiên vật liệu cho sản xuất, tiêu dùng",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 11,
+  "q": "Chức năng kinh tế của vận tải là:",
+  "opts": {
+   "A": "Thỏa mãn nhu cầu vận chuyển hàng hóa, hành khách và thúc đẩy tăng trưởng kinh tế",
+   "B": "Làm cầu nối giữa các quốc gia",
+   "C": "Giải quyết công ăn việc làm cho xã hội",
+   "D": "Phục vụ an ninh quốc phòng"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 12,
+  "q": "Chức năng xã hội của vận tải bao gồm:",
+  "opts": {
+   "A": "Phục vụ an ninh quốc phòng",
+   "B": "Phục vụ sự đi lại của con người",
+   "C": "Giải quyết công ăn việc làm cho xã hội",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 13,
+  "q": "Nội dung nào KHÔNG thuộc chức năng xã hội của vận tải?",
+  "opts": {
+   "A": "Thực hiện chính sách của Nhà nước",
+   "B": "Làm cầu nối giữa quốc gia này với quốc gia khác",
+   "C": "Phục vụ sự đi lại của con người",
+   "D": "Phục vụ an ninh quốc phòng"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 14,
+  "q": "Vận tải làm cầu nối giữa nơi sản xuất và nơi tiêu thụ, giữa các vùng và giữa các quốc gia. Đây là chức năng:",
+  "opts": {
+   "A": "Xã hội",
+   "B": "Kinh tế",
+   "C": "Quốc tế",
+   "D": "Chính trị"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 15,
+  "q": "Căn cứ vào phương thức thực hiện quá trình vận tải, loại nào sau đây KHÔNG được liệt kê?",
+  "opts": {
+   "A": "Vận tải đường ống",
+   "B": "Vận tải đường thủy",
+   "C": "Vận tải công cộng",
+   "D": "Vận tải hàng không"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 16,
+  "q": "Căn cứ vào tính chất của hoạt động vận tải, vận tải được phân loại thành:",
+  "opts": {
+   "A": "Vận tải đơn phương thức, đa phương thức và vận tải đứt đoạn",
+   "B": "Vận tải công nghệ (nội bộ), vận tải công cộng và vận tải cá nhân",
+   "C": "Vận tải hành khách và vận tải hàng hóa",
+   "D": "Vận tải đường bộ, đường sắt, đường thủy, hàng không và đường ống"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 17,
+  "q": "Căn cứ vào đối tượng vận chuyển, vận tải được phân loại thành:",
+  "opts": {
+   "A": "Vận tải hành khách và vận tải hàng hóa",
+   "B": "Vận tải đơn phương thức và vận tải đa phương thức",
+   "C": "Vận tải công nghệ (nội bộ), vận tải công cộng và vận tải cá nhân",
+   "D": "Vận tải trong nước và vận tải quốc tế"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 18,
+  "q": "Vận tải đơn phương thức, vận tải đa phương thức và vận tải đứt đoạn là cách phân loại căn cứ vào:",
+  "opts": {
+   "A": "Đối tượng vận chuyển",
+   "B": "Cách thức tổ chức quá trình vận tải",
+   "C": "Tính chất của hoạt động vận tải",
+   "D": "Phương thức thực hiện quá trình vận tải"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 19,
+  "q": "Theo phạm vi vận tải, vận tải được chia thành:",
+  "opts": {
+   "A": "Vận tải cự ly dài, trung bình và ngắn",
+   "B": "Vận tải trong nước (trong đô thị, nội tỉnh, liên tỉnh) và vận tải quốc tế",
+   "C": "Vận tải khối lượng lớn, vừa và nhỏ",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 20,
+  "q": "Sản phẩm vận tải là:",
+  "opts": {
+   "A": "Phương tiện vận tải được sản xuất ra",
+   "B": "Tổng doanh thu của doanh nghiệp vận tải",
+   "C": "Sự dịch chuyển một khối lượng hàng hóa và hành khách trên một khoảng cách nhất định",
+   "D": "Số chuyến xe chạy trong một năm"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 21,
+  "q": "Đơn vị đo khối lượng vận chuyển hàng hóa là:",
+  "opts": {
+   "A": "TKm",
+   "B": "Tấn",
+   "C": "Km",
+   "D": "HKKm"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 22,
+  "q": "Đặc điểm của sản phẩm vận tải là:",
+  "opts": {
+   "A": "Có tính dịch chuyển quyền sở hữu",
+   "B": "Chất lượng đồng nhất, dễ đo lường và đánh giá",
+   "C": "Có thể dự trữ, lưu kho để tiêu dùng về sau",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 23,
+  "q": "Đặc điểm của sản phẩm vận tải là:",
+  "opts": {
+   "A": "Quá trình sản xuất và quá trình tiêu thụ diễn ra đồng thời",
+   "B": "Mang tính vô hình",
+   "C": "Không có sản phẩm dở dang và không có sản phẩm dư thừa",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 24,
+  "q": "Năm 1885, ai đã chế tạo thành công ô tô chạy xăng?",
+  "opts": {
+   "A": "Benz và Daimler",
+   "B": "Julio",
+   "C": "Poldunop",
+   "D": "Cubilin"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 25,
+  "q": "Năm 1769, Julio (Pháp) đã có đóng góp gì cho lịch sử ô tô?",
+  "opts": {
+   "A": "Chế tạo ô tô chạy xăng",
+   "B": "Thiết kế ô tô chạy điện",
+   "C": "Đặt động cơ hơi nước lên ô tô",
+   "D": "Chế tạo chiếc ô tô đạp"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 26,
+  "q": "Năm nào được coi là năm đầu tiên của ngành công nghiệp ô tô Việt Nam?",
+  "opts": {
+   "A": "1991",
+   "B": "1912",
+   "C": "1986",
+   "D": "1938"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 27,
+  "q": "Năm 1928, toàn Đông Dương có:",
+  "opts": {
+   "A": "17 tuyến đường bộ và 1.000 xe tải",
+   "B": "1.900 xe vận tải công cộng",
+   "C": "7.479 xe du lịch và 1.532 xe tải",
+   "D": "16.000 xe du lịch và 2.250 xe tải"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 28,
+  "q": "Đặc điểm của vận tải ô tô gồm:",
+  "opts": {
+   "A": "Tiêu hao nhiên liệu lớn",
+   "B": "Tính triệt để và tính cơ động cao, vận chuyển \"từ cửa đến cửa\"",
+   "C": "Tính an toàn thấp",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 29,
+  "q": "Giá thành sản phẩm vận tải ô tô nhỏ khi vận chuyển ở:",
+  "opts": {
+   "A": "Cự ly dài",
+   "B": "Cự ly ngắn",
+   "C": "Tuyến có khối lượng hàng rất lớn",
+   "D": "Tuyến quốc tế"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 30,
+  "q": "Do tính cơ động và triệt để, vận tải ô tô đóng vai trò là:",
+  "opts": {
+   "A": "Phương thức chỉ phục vụ vận tải quốc tế",
+   "B": "Phương thức tiếp chuyển cho các phương thức vận tải khác",
+   "C": "Phương thức chỉ vận chuyển hàng khối lượng lớn",
+   "D": "Phương thức thay thế hoàn toàn đường sắt"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 31,
+  "q": "Giai đoạn đầu tiên của quá trình sản xuất vận tải là:",
+  "opts": {
+   "A": "Giai đoạn lập đoàn phương tiện",
+   "B": "Giai đoạn xếp hàng lên phương tiện",
+   "C": "Giai đoạn chuẩn bị",
+   "D": "Giai đoạn vận chuyển"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 32,
+  "q": "Giai đoạn cuối cùng của quá trình sản xuất vận tải là:",
+  "opts": {
+   "A": "Đưa phương tiện rỗng đến nơi nhận hàng (khách) tiếp theo",
+   "B": "Nhận phương tiện tại nơi đến",
+   "C": "Dỡ hàng (hành khách xuống xe)",
+   "D": "Giải thể đoàn phương tiện"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 33,
+  "q": "\"Lập hóa đơn giao hàng\" thuộc tác nghiệp nào của quá trình vận tải hàng hóa?",
+  "opts": {
+   "A": "Tác nghiệp chuẩn bị",
+   "B": "Tác nghiệp xếp hàng",
+   "C": "Tác nghiệp dỡ hàng",
+   "D": "Tác nghiệp vận chuyển"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 34,
+  "q": "Tác nghiệp vận chuyển trong quá trình vận tải hàng hóa gồm:",
+  "opts": {
+   "A": "Xác định khối lượng hàng hao hụt và lập hóa đơn giao hàng",
+   "B": "Lựa chọn phương tiện phù hợp, lập hành trình, đảm bảo an toàn và cung cấp nhiên liệu trong quá trình vận chuyển",
+   "C": "Chuẩn bị hàng tại nơi giao hàng và hoàn thành thủ tục, giấy tờ",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 35,
+  "q": "Trong vận tải hành khách, \"bán vé và thông báo cho hành khách về thời gian, lịch trình xe chạy\" thuộc tác nghiệp:",
+  "opts": {
+   "A": "Khách lên xe tại bến đầu",
+   "B": "Quản lý xe trên đường",
+   "C": "Khách xuống xe ở bến cuối",
+   "D": "Vận chuyển"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 36,
+  "q": "Các điều kiện khai thác vận tải bao gồm:",
+  "opts": {
+   "A": "Điều kiện về khí hậu, thời tiết",
+   "B": "Điều kiện về tổ chức kỹ thuật",
+   "C": "Điều kiện kinh tế - xã hội",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 37,
+  "q": "\"Chế độ bảo dưỡng sửa chữa phương tiện\" thuộc nhóm điều kiện khai thác nào?",
+  "opts": {
+   "A": "Điều kiện về vận tải",
+   "B": "Điều kiện kinh tế - xã hội",
+   "C": "Điều kiện về tổ chức kỹ thuật",
+   "D": "Điều kiện về đường sá"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 38,
+  "q": "\"Mật độ giao thông trên đường và khả năng thông qua của đường\" thuộc nhóm điều kiện:",
+  "opts": {
+   "A": "Điều kiện khí hậu thời tiết",
+   "B": "Điều kiện về vận tải",
+   "C": "Điều kiện về đường sá",
+   "D": "Điều kiện tổ chức kỹ thuật"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 39,
+  "q": "Cầu vận chuyển được hiểu bởi hai yếu tố là:",
+  "opts": {
+   "A": "Phương tiện và tuyến đường",
+   "B": "Giá cước và chất lượng dịch vụ",
+   "C": "Khả năng vận chuyển và ý muốn vận chuyển",
+   "D": "Khối lượng và cự ly vận chuyển"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 40,
+  "q": "Đặc điểm của nhu cầu vận tải là:",
+  "opts": {
+   "A": "Nhu cầu vận tải co dãn nhanh",
+   "B": "Nhu cầu vận tải là một nhu cầu phát sinh",
+   "C": "Nhu cầu vận tải tăng nhanh hơn nhịp độ phát triển kinh tế",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 41,
+  "q": "Nhóm yếu tố chủ quan ảnh hưởng đến nhu cầu vận tải gồm:",
+  "opts": {
+   "A": "Thu nhập, phong tục tập quán, đặc điểm sinh hoạt, thói quen",
+   "B": "Sự phát triển của mạng lưới giao thông vận tải",
+   "C": "Số lượng, cơ cấu và mật độ dân cư",
+   "D": "Mức độ phát triển kinh tế - xã hội"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 42,
+  "q": "Nội dung nào KHÔNG phải là kết quả của điều tra nghiên cứu nhu cầu vận tải?",
+  "opts": {
+   "A": "Xác định khối lượng, lượng luân chuyển ứng với các mức giá cước",
+   "B": "Xác định số lượng lái xe cần tuyển dụng",
+   "C": "Xác định cơ cấu nhu cầu vận chuyển",
+   "D": "Xác định quy luật biến động của nhu cầu theo thời gian và không gian"
+  },
+  "sec": "PHẦN 1. TỔNG QUAN VỀ VẬN TẢI (42 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 43,
+  "q": "Trong mô hình quá trình sản xuất vận tải (QTSXVT), các yếu tố đầu vào gồm:",
+  "opts": {
+   "A": "Phương tiện, hàng hóa và hành khách",
+   "B": "ΣQ, ΣP và ΣDt",
+   "C": "Vốn cố định (VCĐ), vốn lưu động (VLĐ) và lao động (LĐ)",
+   "D": "Doanh thu, chi phí và lợi nhuận"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 44,
+  "q": "Trong mô hình QTSXVT, kết quả đầu ra được thể hiện bằng:",
+  "opts": {
+   "A": "αT, αVD, β",
+   "B": "VCĐ, VLĐ, LĐ",
+   "C": "ΣQ, ΣP, ΣDt",
+   "D": "VT, VK, Vlh"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 45,
+  "q": "Nhóm chỉ tiêu số lượng phản ánh:",
+  "opts": {
+   "A": "Giá thành sản phẩm vận tải",
+   "B": "Mức độ sử dụng phương tiện",
+   "C": "Chất lượng sử dụng phương tiện",
+   "D": "Hiệu suất sử dụng phương tiện"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 46,
+  "q": "Tổng số ngày xe có của đoàn xe được xác định bằng:",
+  "opts": {
+   "A": "ΣADc = ΣAci × Dci",
+   "B": "ΣADc = ΣADvd × αVD",
+   "C": "ΣADc = ΣADT − ΣADBDSC",
+   "D": "ΣADc = Ac/Dl"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 47,
+  "q": "Số xe có bình quân được xác định bằng:",
+  "opts": {
+   "A": "Ac = ΣADvd/ΣADc",
+   "B": "Ac = ΣADc × Dl",
+   "C": "Ac = ΣADc/Dl",
+   "D": "Ac = ΣADT/ΣADc"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 48,
+  "q": "Tổng số ngày xe tốt được xác định bằng:",
+  "opts": {
+   "A": "ΣADT = ΣADc × αVD",
+   "B": "ΣADT = ΣADvd − ΣADBDSC",
+   "C": "ΣADT = ΣADc − ΣADBDSC",
+   "D": "ΣADT = ΣADc + ΣADBDSC"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 49,
+  "q": "Tổng số ngày xe vận doanh được xác định bằng:",
+  "opts": {
+   "A": "ΣADvd = ΣADc − ΣADBDSC − ΣAD≠",
+   "B": "ΣADvd = ΣADT + ΣAD≠",
+   "C": "ΣADvd = ΣADc + ΣADBDSC",
+   "D": "ΣADvd = ΣADc × Dl"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 50,
+  "q": "Vận tốc kỹ thuật được xác định bằng:",
+  "opts": {
+   "A": "VT = ΣLchg × Tlb",
+   "B": "VT = ΣLchg/(Tlb + Txd + Tđc)",
+   "C": "VT = Lch/Lchg",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 51,
+  "q": "Vận tốc khai thác được xác định bằng:",
+  "opts": {
+   "A": "VK = ΣLchg/Tlb",
+   "B": "VK = (Tlb + Txd)/ΣLchg",
+   "C": "VK = ΣLchg/(Tlb + Txd + Tđc)",
+   "D": "VK = Lch/Tlb"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 52,
+  "q": "Ngoài vận tốc kỹ thuật, lữ hành và khai thác, trong vận tải hành khách công cộng còn có thêm:",
+  "opts": {
+   "A": "Vận tốc O – D",
+   "B": "Vận tốc hãm",
+   "C": "Vận tốc thiết kế",
+   "D": "Vận tốc tối đa"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 53,
+  "q": "Thời gian xe hoạt động bình quân ngày đêm được xác định bằng:",
+  "opts": {
+   "A": "TH = Tlb × Txd",
+   "B": "TH = Tlb + Txd + Tđc",
+   "C": "TH = Tlb − Txd",
+   "D": "TH = Lnđ × VT"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 54,
+  "q": "Quãng đường xe chạy ngày đêm được xác định bằng:",
+  "opts": {
+   "A": "Lnđ = Lch − Lrỗng",
+   "B": "Lnđ = Lhđ + Lch + Lrỗng",
+   "C": "Lnđ = Lch/β",
+   "D": "Lnđ = Lhđ × Lch"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 55,
+  "q": "Cự ly vận chuyển bình quân một tấn hàng được xác định bằng:",
+  "opts": {
+   "A": "lhh = ΣP/ΣQ",
+   "B": "lhh = ΣP × ΣQ",
+   "C": "lhh = ΣLch/ΣZc",
+   "D": "lhh = ΣQ/ΣP"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 56,
+  "q": "Một tuyến có tổng quãng đường xe chạy 140 km, quãng đường xe chạy có hàng 60 km. Hệ số lợi dụng quãng đường β xấp xỉ bằng:",
+  "opts": {
+   "A": "0,43",
+   "B": "2,33",
+   "C": "0,60",
+   "D": "0,57"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 57,
+  "q": "Nhóm chỉ tiêu chất lượng khai thác phương tiện gồm:",
+  "opts": {
+   "A": "Hệ số ngày xe tốt",
+   "B": "Hệ số lợi dụng quãng đường",
+   "C": "Hệ số sử dụng trọng tải",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 58,
+  "q": "Hệ số ngày xe vận doanh được xác định bằng:",
+  "opts": {
+   "A": "αVD = ΣADVD/ΣADc",
+   "B": "αVD = ΣADT/ΣADc",
+   "C": "αVD = ΣADc/ΣADVD",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 59,
+  "q": "Hệ số sử dụng trọng tải tĩnh được xác định bằng:",
+  "opts": {
+   "A": "γT = Ptt/PTK",
+   "B": "γT = Qtt/QTK",
+   "C": "γT = Lch/Lchg",
+   "D": "γT = QTK/Qtt"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 60,
+  "q": "Hệ số sử dụng trọng tải động được xác định bằng:",
+  "opts": {
+   "A": "γđ = Ptt/PTK",
+   "B": "γđ = Lch/Lchg",
+   "C": "γđ = Qtt/QTK",
+   "D": "γđ = PTK/Ptt"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 61,
+  "q": "Hệ số lợi dụng quãng đường β được xác định bằng:",
+  "opts": {
+   "A": "β = Lrỗng/Lchg",
+   "B": "β = Lchg/Lch",
+   "C": "β = Lch/Lrỗng",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 62,
+  "q": "Hệ số thay đổi hành khách được xác định bằng:",
+  "opts": {
+   "A": "ηHK = LHK/LM",
+   "B": "ηHK = LM/LHK",
+   "C": "ηHK = LM × LHK",
+   "D": "ηHK = Qtt/QTK"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 63,
+  "q": "Năng suất phương tiện có thể được tính theo:",
+  "opts": {
+   "A": "Thời gian là giờ, ngày, tháng hoặc năm",
+   "B": "Cách tính cho một đầu xe hoặc một tấn trọng tải",
+   "C": "Đơn vị đo là Tấn (HK) hoặc T.Km (HK.Km)",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 64,
+  "q": "Khối lượng vận chuyển một chuyến xe khách được xác định bằng:",
+  "opts": {
+   "A": "Qc = q/γ",
+   "B": "Qc = q × γ × ηHK (HK)",
+   "C": "Qc = LM × VT",
+   "D": "Qc = q × β × VT"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 65,
+  "q": "Năng suất một tháng xe được xác định bằng:",
+  "opts": {
+   "A": "WQtháng-xe = WQgiờ-xe × 30",
+   "B": "WQtháng-xe = WQngày-xe × 30 × αVD",
+   "C": "WQtháng-xe = WQngày-xe × 365 × αT",
+   "D": "WQtháng-xe = WQngày-xe × 12"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 66,
+  "q": "Ý nghĩa của việc tính năng suất cho một đơn vị trọng tải hoặc một đơn vị thời gian là:",
+  "opts": {
+   "A": "Xác định giá cước vận chuyển",
+   "B": "Tạo khả năng so sánh năng suất giữa các doanh nghiệp, các loại phương tiện có trọng tải khác nhau, hoạt động trong điều kiện khác nhau",
+   "C": "Xác định số lượng lái xe cần thiết",
+   "D": "Tính khấu hao phương tiện"
+  },
+  "sec": "PHẦN 2. QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ (24 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 67,
+  "q": "Tuyến vận tải khách là:",
+  "opts": {
+   "A": "Tuyến được xác định để xe ô tô khách vận chuyển khách từ bến xe thuộc địa danh này đến bến xe thuộc địa danh khác",
+   "B": "Tổng hợp các lịch trình chạy xe trên tuyến",
+   "C": "Việc sử dụng xe ô tô vận chuyển khách có thu tiền",
+   "D": "Thời gian xác định cho một hành trình chạy xe"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 68,
+  "q": "Hành trình chạy xe là:",
+  "opts": {
+   "A": "Thời gian từ khi xuất phát đến khi kết thúc chuyến xe",
+   "B": "Khoảng thời gian giữa hai chuyến xe liên tiếp",
+   "C": "Tuyến vận tải khách được xác định cụ thể, có quy định điểm đi, điểm đến và các điểm dừng, đỗ",
+   "D": "Tổng hợp các lịch trình của các chuyến xe"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 69,
+  "q": "Lịch trình chạy xe của một chuyến xe là:",
+  "opts": {
+   "A": "Thời gian được xác định cho một hành trình chạy xe từ khi xuất phát đến khi kết thúc chuyến xe",
+   "B": "Danh sách các điểm dừng đỗ dọc đường",
+   "C": "Tổng hợp các hành trình trên tuyến",
+   "D": "Đường đi của xe từ điểm đầu đến điểm cuối"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 70,
+  "q": "Biểu đồ chạy xe trên một tuyến vận tải khách là:",
+  "opts": {
+   "A": "Danh sách lái xe trên tuyến",
+   "B": "Tổng hợp các lịch trình chạy xe của các chuyến xe tham gia khai thác trên tuyến trong một thời gian nhất định",
+   "C": "Bản đồ lộ trình tuyến",
+   "D": "Lịch trình của một chuyến xe"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 71,
+  "q": "Vận tải hành khách công cộng bằng xe buýt là hoạt động vận tải khách bằng ô tô:",
+  "opts": {
+   "A": "Không theo tuyến cố định, theo yêu cầu của khách",
+   "B": "Theo tuyến cố định, có các điểm dừng đón, trả khách và chạy theo biểu đồ vận hành",
+   "C": "Theo hợp đồng thuê xe trọn chuyến",
+   "D": "Chỉ phục vụ khách du lịch"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 72,
+  "q": "Vận tải hành khách theo tuyến cố định có đặc điểm:",
+  "opts": {
+   "A": "Không cần lịch trình cụ thể",
+   "B": "Chỉ hoạt động trong nội đô",
+   "C": "Xe dừng đón khách bất kỳ đâu",
+   "D": "Bến đi, bến đến là bến xe khách và xe chạy theo hành trình, lịch trình quy định"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 73,
+  "q": "Kinh doanh vận tải khách bằng ô tô là:",
+  "opts": {
+   "A": "Việc bán phương tiện vận tải",
+   "B": "Việc vận chuyển nhân viên nội bộ không thu tiền",
+   "C": "Việc sử dụng xe ô tô để vận chuyển khách có thu tiền",
+   "D": "Việc cho thuê bến bãi"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 74,
+  "q": "Bước đầu tiên trong công tác tổ chức vận tải hành khách bằng ô tô là:",
+  "opts": {
+   "A": "Lập kế hoạch tác nghiệp",
+   "B": "Chỉ đạo thực hiện kế hoạch tác nghiệp",
+   "C": "Điều tra hành khách",
+   "D": "Tính toán, phân tích kết quả sản xuất vận tải"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 75,
+  "q": "Về luồng hành khách, phát biểu nào sau đây là đúng?",
+  "opts": {
+   "A": "Luồng hành khách phản ánh số lượng hành khách theo từng đoạn và cả hành trình trong một đơn vị thời gian",
+   "B": "Luồng hành khách có thể là thường xuyên hoặc không thường xuyên",
+   "C": "Luồng hành khách có thể là một chiều hoặc hai chiều",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 76,
+  "q": "Ở các đô thị, luồng hành khách có sự biến động rõ rệt theo:",
+  "opts": {
+   "A": "Năm",
+   "B": "Thập kỷ",
+   "C": "Mùa vụ nông nghiệp",
+   "D": "Giờ trong ngày"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 77,
+  "q": "Các phương pháp điều tra luồng hành khách bao gồm:",
+  "opts": {
+   "A": "Phương pháp phát thẻ",
+   "B": "Phương pháp điều tra mặt cắt",
+   "C": "Phương pháp điều tra bảng ghi",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 78,
+  "q": "Quãng đường chạy xe theo hành trình từ điểm đầu đến điểm cuối và quay trở về điểm đầu gọi là:",
+  "opts": {
+   "A": "Chuyến",
+   "B": "Lượt",
+   "C": "Tuyến",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 79,
+  "q": "Hành trình chạy xe được đặc trưng bởi:",
+  "opts": {
+   "A": "Điểm đầu, điểm cuối và số lượng điểm đỗ",
+   "B": "Loại phương tiện",
+   "C": "Giá vé",
+   "D": "Số lượng lái xe"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 80,
+  "q": "Yêu cầu đối với hành trình chạy xe khách là:",
+  "opts": {
+   "A": "Điểm đầu, điểm cuối của hành trình là bến xe khách",
+   "B": "Phải phối hợp với các phương thức vận tải khác",
+   "C": "Phải đi qua các điểm thu hút hành khách lớn",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 81,
+  "q": "Trình tự đúng của quy trình lập hành trình chạy xe là:",
+  "opts": {
+   "A": "Xác định điểm dừng đỗ → xác định điểm đầu, cuối → kiểm tra sự phù hợp → xác định lộ trình",
+   "B": "Xác định điểm đầu, cuối → xác định lộ trình → xác định điểm dừng đỗ → kiểm tra sự phù hợp",
+   "C": "Kiểm tra sự phù hợp → xác định lộ trình → xác định điểm đầu, cuối → xác định điểm dừng đỗ",
+   "D": "Xác định lộ trình → kiểm tra sự phù hợp → xác định điểm dừng đỗ → xác định điểm đầu, cuối"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 82,
+  "q": "Lựa chọn và bố trí phương tiện vào hành trình gồm hai bước:",
+  "opts": {
+   "A": "Lựa chọn theo trọng tải và theo động cơ",
+   "B": "Lựa chọn sơ bộ và lựa chọn chi tiết",
+   "C": "Lựa chọn trong nước và lựa chọn nhập khẩu",
+   "D": "Lựa chọn kỹ thuật và lựa chọn kinh tế"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 83,
+  "q": "Mục đích của lựa chọn sơ bộ phương tiện là:",
+  "opts": {
+   "A": "Lập biểu đồ chạy xe",
+   "B": "Xác định lợi nhuận tối đa",
+   "C": "Lựa chọn được mác, kiểu xe phù hợp nhất với điều kiện khai thác trên tuyến",
+   "D": "Xác định số lái xe cần thiết"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 84,
+  "q": "Căn cứ để lựa chọn CHI TIẾT phương tiện là:",
+  "opts": {
+   "A": "Điều kiện đường sá",
+   "B": "Điều kiện thời tiết khí hậu",
+   "C": "Năng suất, chi phí nhiên liệu, giá thành vận chuyển, vốn đầu tư, doanh thu và lợi nhuận",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 85,
+  "q": "Nhóm chỉ tiêu về vận tốc khi xác định chỉ tiêu khai thác kỹ thuật gồm:",
+  "opts": {
+   "A": "Vận tốc kỹ thuật",
+   "B": "Vận tốc khai thác",
+   "C": "Vận tốc lữ hành",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 86,
+  "q": "Thời gian biểu chạy xe là:",
+  "opts": {
+   "A": "Tài liệu định mức cơ bản về tổ chức công tác vận tải của phương tiện hoạt động theo hành trình",
+   "B": "Hợp đồng vận chuyển hành khách",
+   "C": "Kế hoạch bảo dưỡng phương tiện",
+   "D": "Bảng lương của lái xe"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 87,
+  "q": "Về biểu đồ chạy xe, phát biểu nào sau đây là đúng?",
+  "opts": {
+   "A": "Biểu đồ chạy xe giống nhau cho mọi ngày trong năm",
+   "B": "Biểu đồ chạy xe chỉ phục vụ bộ phận bán vé",
+   "C": "Biểu đồ chạy xe khác nhau giữa ngày làm việc và ngày nghỉ",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 88,
+  "q": "Độ dài ca làm việc của lái xe buýt nội tỉnh và thành phố không nên lớn hơn:",
+  "opts": {
+   "A": "8 giờ/ngày",
+   "B": "10 giờ/ngày",
+   "C": "14 giờ/ngày",
+   "D": "12 giờ/ngày"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 89,
+  "q": "Độ dài ca làm việc của lái xe trên tuyến liên tỉnh không nên lớn hơn:",
+  "opts": {
+   "A": "12 giờ/ngày",
+   "B": "16 giờ/ngày",
+   "C": "10 giờ/ngày",
+   "D": "8 giờ/ngày"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 90,
+  "q": "Thời gian chuẩn bị và kết thúc ca làm việc của lái xe là:",
+  "opts": {
+   "A": "15 – 20 phút",
+   "B": "5 – 10 phút",
+   "C": "60 phút",
+   "D": "30 – 45 phút"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 91,
+  "q": "Hình thức khoán cho lái xe mà các doanh nghiệp vận tải áp dụng có thể là:",
+  "opts": {
+   "A": "Tổ chức cho lái xe làm việc theo ca",
+   "B": "1 xe 1 lái",
+   "C": "1 xe 2 lái",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 92,
+  "q": "Hình thức quản lý xe trên đường chặt chẽ nhất là:",
+  "opts": {
+   "A": "Quản lý tập trung",
+   "B": "Quản lý theo tổ đội",
+   "C": "Khoán trắng cho lái xe",
+   "D": "Quản lý phân tán"
+  },
+  "sec": "PHẦN 3. TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ (26 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 93,
+  "q": "Hàng hóa là:",
+  "opts": {
+   "A": "Nguyên vật liệu phục vụ sản xuất",
+   "B": "Mọi vật thể được vận chuyển bằng ô tô",
+   "C": "Sản phẩm lao động của xã hội thỏa mãn nhu cầu nào đó của con người, được đưa ra trao đổi, mua bán trên thị trường",
+   "D": "Sản phẩm vô hình của ngành vận tải"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 94,
+  "q": "Lượng luân chuyển hàng hóa được xác định bằng:",
+  "opts": {
+   "A": "Tích số của khối lượng hàng với khoảng cách vận chuyển (TKm)",
+   "B": "Số chuyến xe nhân với trọng tải",
+   "C": "Thương số giữa khối lượng hàng và khoảng cách",
+   "D": "Tổng khối lượng hàng vận chuyển (T)"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 95,
+  "q": "Trong vận tải hàng hóa, chiều thuận (chiều đi) của luồng hàng là:",
+  "opts": {
+   "A": "Chiều xe chạy rỗng",
+   "B": "Chiều có khối lượng hàng hóa nhỏ hơn",
+   "C": "Chiều từ thành phố về nông thôn",
+   "D": "Chiều có khối lượng hàng hóa lớn hơn"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 96,
+  "q": "Công suất luồng hàng là:",
+  "opts": {
+   "A": "Khối lượng hàng tồn kho",
+   "B": "Khối lượng hàng vận chuyển qua một mặt cắt trong một đơn vị thời gian",
+   "C": "Số xe chạy qua một điểm trong một giờ",
+   "D": "Tổng trọng tải của đoàn xe"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 97,
+  "q": "Cường độ vận chuyển là:",
+  "opts": {
+   "A": "Số tấn hàng chuyên chở qua một kilômét của tuyến đường trong một đơn vị thời gian",
+   "B": "Số xe ô tô có trong doanh nghiệp",
+   "C": "Số chuyến xe trong một tháng",
+   "D": "Tổng quãng đường xe chạy trong ngày"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 98,
+  "q": "1 tấn sản phẩm được vận chuyển từ nhà máy đến tổng kho, rồi từ tổng kho đến đại lý bán lẻ. Khối lượng vận chuyển được tính là:",
+  "opts": {
+   "A": "2 tấn",
+   "B": "1 tấn",
+   "C": "3 tấn",
+   "D": "0,5 tấn"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 99,
+  "q": "Theo bao bì, hàng hóa được chia thành:",
+  "opts": {
+   "A": "Hàng bình thường và hàng quá khổ",
+   "B": "Hàng thể rắn, thể lỏng và thể khí",
+   "C": "Hàng có bao gói và hàng không có bao gói",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 100,
+  "q": "Theo tính chất hàng hóa, thực phẩm tươi sống thuộc nhóm:",
+  "opts": {
+   "A": "Hàng chóng hỏng",
+   "B": "Hàng thông dụng",
+   "C": "Hàng rời",
+   "D": "Hàng lỏng"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 101,
+  "q": "Cát, đá, sỏi không có bao bì, được đổ đống thuộc nhóm:",
+  "opts": {
+   "A": "Hàng thông dụng",
+   "B": "Hàng rời",
+   "C": "Hàng dễ vỡ",
+   "D": "Hàng quá khổ"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 102,
+  "q": "Theo tính chất nguy hiểm, hàng hóa được chia thành:",
+  "opts": {
+   "A": "5 loại",
+   "B": "6 loại",
+   "C": "7 loại",
+   "D": "4 loại"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 103,
+  "q": "Theo tính chất nguy hiểm, chất lỏng dễ gây bỏng như axít, kiềm, xút thuộc loại:",
+  "opts": {
+   "A": "Loại 4",
+   "B": "Loại 7",
+   "C": "Loại 5",
+   "D": "Loại 2"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 104,
+  "q": "Theo tính chất nguy hiểm, chất độc, chất phóng xạ, chất nổ thuộc loại:",
+  "opts": {
+   "A": "Loại 1",
+   "B": "Loại 7",
+   "C": "Loại 6",
+   "D": "Loại 4"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 105,
+  "q": "Theo tỷ trọng, hàng hóa loại 1 là loại đảm bảo sử dụng:",
+  "opts": {
+   "A": "71 – 99% trọng tải phương tiện",
+   "B": "Dưới 40% trọng tải phương tiện",
+   "C": "100% trọng tải phương tiện",
+   "D": "51 – 70% trọng tải phương tiện"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 106,
+  "q": "Đối với hàng lỏng không có bao bì, về nguyên tắc phải sử dụng:",
+  "opts": {
+   "A": "Xe chuyên dụng (xitec)",
+   "B": "Xe khách",
+   "C": "Rơ moóc thông thường",
+   "D": "Xe tải thùng hở"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 107,
+  "q": "Yêu cầu khi vận chuyển hàng dễ cháy nổ là:",
+  "opts": {
+   "A": "Đi thành đoàn với một khoảng cách an toàn",
+   "B": "Chạy với tốc độ thấp",
+   "C": "Không xếp hàng với khối lượng lớn (không đủ tải)",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 108,
+  "q": "Yêu cầu đối với hàng dễ vỡ là:",
+  "opts": {
+   "A": "Dùng vật liệu lót đệm giữa các lớp hàng để hạn chế va đập",
+   "B": "Phải có bao bì",
+   "C": "Bao bì phải dán các nhãn hiệu chuyên dụng",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 109,
+  "q": "Đối với hàng lương thực dạng rời, yêu cầu vận chuyển là:",
+  "opts": {
+   "A": "Phải có bao bì để đảm bảo chất lượng và hạn chế hao hụt",
+   "B": "Không cần bao bì",
+   "C": "Phải chạy thành đoàn",
+   "D": "Phải dùng xe xitec"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 110,
+  "q": "Hàng hóa trong container có thể bị hiện tượng điểm sương là do:",
+  "opts": {
+   "A": "Xếp dỡ bằng cơ giới",
+   "B": "Container bị hở",
+   "C": "Thời gian vận chuyển dài, chênh lệch nhiệt độ lớn",
+   "D": "Container quá nặng"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 111,
+  "q": "Công tác điều tra khai thác luồng hàng giúp xác định được:",
+  "opts": {
+   "A": "Khối lượng hàng hóa, loại hàng",
+   "B": "Chủ hàng giao nhận, khoảng cách vận chuyển",
+   "C": "Thời gian giao nhận và các yêu cầu về bảo quản hàng hóa",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 112,
+  "q": "Theo hợp đồng vận chuyển hàng hóa, bên thuê vận chuyển có nghĩa vụ:",
+  "opts": {
+   "A": "Bảo dưỡng phương tiện",
+   "B": "Cung cấp phương tiện vận tải",
+   "C": "Trả cho bên vận tải một khoản tiền gọi là cước phí vận chuyển",
+   "D": "Chịu trách nhiệm lái xe"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 113,
+  "q": "Hành trình con thoi là hành trình mà phương tiện vận chuyển:",
+  "opts": {
+   "A": "Qua nhiều điểm tạo thành đường khép kín",
+   "B": "Không có điểm cố định",
+   "C": "Giữa hai điểm trên cùng một trục",
+   "D": "Theo nhiều tuyến khác nhau"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 114,
+  "q": "Loại hành trình con thoi nào được coi là hợp lý nhất, năng suất vận chuyển cao nhất?",
+  "opts": {
+   "A": "Con thoi có hàng hai chiều",
+   "B": "Con thoi một phần đường về có hàng",
+   "C": "Hành trình đường vòng đơn giản",
+   "D": "Con thoi có hàng một chiều"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 115,
+  "q": "Trên hành trình con thoi có hàng một chiều (Lch = LAB; LM = 2LAB), hệ số lợi dụng quãng đường β bằng:",
+  "opts": {
+   "A": "2,0",
+   "B": "0,5",
+   "C": "0,75",
+   "D": "1,0"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 116,
+  "q": "Trên hành trình con thoi có hàng hai chiều:",
+  "opts": {
+   "A": "Quãng đường có hàng Lch = LAB",
+   "B": "Số chuyến có hàng trên hành trình n = 1",
+   "C": "Chiều dài hành trình LM = 4LAB",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 117,
+  "q": "Hành trình đường vòng là:",
+  "opts": {
+   "A": "Hành trình xe chạy rỗng",
+   "B": "Hành trình giữa hai điểm trên cùng một trục",
+   "C": "Hành trình có nhiều điểm giao nhận hàng hóa mà xe chạy tạo thành một đường khép kín",
+   "D": "Hành trình chỉ có hàng một chiều"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 118,
+  "q": "Về phương pháp toán học lập hành trình vận chuyển, phát biểu nào đúng?",
+  "opts": {
+   "A": "Dựa trên sơ đồ địa lý tự nhiên để phân chia việc vận chuyển",
+   "B": "Sử dụng mô hình quy hoạch tuyến tính, độ chính xác cao nhưng khối lượng tính toán lớn",
+   "C": "Không đòi hỏi dữ liệu đầu vào chính xác",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 4. TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ (26 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 119,
+  "q": "Chi phí biên là:",
+  "opts": {
+   "A": "Mức tăng tổng chi phí khi sản lượng tăng thêm 1 đơn vị",
+   "B": "Chi phí tối thiểu để sản xuất một mức sản lượng",
+   "C": "Chi phí cố định bình quân",
+   "D": "Khoản mất mát do không sử dụng nguồn lực tối ưu"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 120,
+  "q": "Chi phí cơ hội là:",
+  "opts": {
+   "A": "Chi phí tối thiểu trong ngắn hạn",
+   "B": "Khoản bị mất mát do không sử dụng nguồn lực theo phương thức sử dụng tối ưu nhất",
+   "C": "Chi phí khấu hao tài sản cố định",
+   "D": "Mức tăng tổng chi phí khi sản lượng tăng thêm 1 đơn vị"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 121,
+  "q": "Theo nội dung kinh tế, chi phí được phân thành:",
+  "opts": {
+   "A": "Chi phí về nguyên, nhiên vật liệu (C2)",
+   "B": "Chi phí tiền lương và bảo hiểm xã hội cho người lao động (v)",
+   "C": "Chi phí khấu hao máy móc thiết bị (C1)",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 122,
+  "q": "Theo tính chất biến động, chi phí được phân thành:",
+  "opts": {
+   "A": "Chi phí trực tiếp và chi phí gián tiếp",
+   "B": "Chi phí trích trước và chi phí chờ phân bổ",
+   "C": "Chi phí ở đội xe và chi phí ở xưởng",
+   "D": "Chi phí cố định (định phí) và chi phí biến đổi (biến phí)"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 123,
+  "q": "\"Dài hạn\" trong phân tích chi phí là:",
+  "opts": {
+   "A": "Giai đoạn đủ dài để doanh nghiệp có thể điều chỉnh tất cả các loại đầu vào một cách tối ưu",
+   "B": "Giai đoạn trên 5 năm",
+   "C": "Giai đoạn doanh nghiệp chỉ điều chỉnh được một phần đầu vào",
+   "D": "Giai đoạn khấu hao hết phương tiện"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 124,
+  "q": "Giá thành sản phẩm là:",
+  "opts": {
+   "A": "Tổng chi phí cố định của doanh nghiệp",
+   "B": "Hao phí lao động sống và lao động vật hóa kết tinh trong một đơn vị sản phẩm, biểu thị bằng tiền",
+   "C": "Giá bán sản phẩm trên thị trường",
+   "D": "Tổng doanh thu chia cho số lao động"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 125,
+  "q": "Loại giá thành được sử dụng để dự toán nhu cầu về tài chính là:",
+  "opts": {
+   "A": "Giá thành hạch toán nội bộ",
+   "B": "Giá thành dự toán",
+   "C": "Giá thành định mức",
+   "D": "Giá thành kế hoạch"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 126,
+  "q": "Giá thành kế hoạch là giá thành:",
+  "opts": {
+   "A": "Được xác định trên cơ sở định mức lao động, vật tư, tài chính hiện hành",
+   "B": "Được xây dựng trên cơ sở số liệu dự kiến hoặc dự báo, thường dùng làm công cụ kiểm tra thực tế thực hiện",
+   "C": "Chỉ xét đến các khoản chi phí trực tiếp phát sinh ở các bộ phận",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 127,
+  "q": "Yếu tố nào sau đây thuộc nhóm yếu tố CHỦ QUAN ảnh hưởng đến giá thành vận tải?",
+  "opts": {
+   "A": "Trình độ tổ chức quản lý và công tác điều độ phương tiện",
+   "B": "Điều kiện đường sá, khí hậu",
+   "C": "Giá nhiên liệu trên thị trường",
+   "D": "Chính sách thuế của Nhà nước"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 128,
+  "q": "Nhóm yếu tố khách quan ảnh hưởng đến giá thành vận tải gồm:",
+  "opts": {
+   "A": "Chính sách thuế, lệ phí, chế độ bảo hiểm, chế độ khấu hao",
+   "B": "Giá cả nhiên liệu, săm lốp, vật tư phụ tùng",
+   "C": "Điều kiện đường xá, khí hậu, hàng hóa, hành khách",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 129,
+  "q": "Công thức S = (V + C1 + C2 + Ck)/ΣP dùng để hạch toán giá thành theo:",
+  "opts": {
+   "A": "Yếu tố chi phí (nội dung kinh tế)",
+   "B": "Chi phí trực tiếp và gián tiếp",
+   "C": "Khoản mục",
+   "D": "Định phí và biến phí"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 130,
+  "q": "Các khoản trích theo lương bao gồm:",
+  "opts": {
+   "A": "Bảo hiểm thất nghiệp",
+   "B": "Bảo hiểm xã hội",
+   "C": "Bảo hiểm y tế",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 131,
+  "q": "Tiền lương phụ xe (nếu có) thường được lấy bằng bao nhiêu phần trăm lương lái xe?",
+  "opts": {
+   "A": "100%",
+   "B": "15 – 20%",
+   "C": "70 – 80%",
+   "D": "50 – 60%"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 132,
+  "q": "Mức tiêu hao vật liệu bôi trơn đối với xe chạy dầu (điêden) được định mức bằng:",
+  "opts": {
+   "A": "1% mức tiêu hao nhiên liệu chính",
+   "B": "4 – 5% mức tiêu hao nhiên liệu chính",
+   "C": "10 – 12% mức tiêu hao nhiên liệu chính",
+   "D": "3 – 4% mức tiêu hao nhiên liệu chính"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 133,
+  "q": "Chi phí quản lý xưởng BDSC thường được lấy bằng:",
+  "opts": {
+   "A": "5 – 12% doanh thu",
+   "B": "20 – 30% tổng chi phí tiền lương thợ và vật tư phụ tùng BDSC",
+   "C": "50 – 60% khấu hao cơ bản",
+   "D": "1% giá trị phương tiện"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 134,
+  "q": "Khoản mục \"Trích trước sửa chữa lớn\" thường bằng:",
+  "opts": {
+   "A": "20 – 30% chi phí nhiên liệu",
+   "B": "50 – 60% khoản mục trích khấu hao cơ bản",
+   "C": "100% khấu hao cơ bản",
+   "D": "10% doanh thu"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 135,
+  "q": "Chi phí bảo hiểm phương tiện theo quy định thường được tính theo:",
+  "opts": {
+   "A": "2 – 5% giá vé",
+   "B": "10% giá trị phương tiện",
+   "C": "5% giá trị phương tiện",
+   "D": "1% giá trị phương tiện"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 136,
+  "q": "Theo quy định, lệ phí bán vé trong vận tải hành khách quyến cố định hiện nay được lấy từ:",
+  "opts": {
+   "A": "50% giá vé",
+   "B": "10 – 15% giá vé",
+   "C": "20 – 30% giá vé",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 137,
+  "q": "Về phương pháp khấu hao theo mức độ sử dụng, phát biểu nào đúng?",
+  "opts": {
+   "A": "Độ chính xác cao, mức khấu hao gắn liền với mức độ sử dụng phương tiện",
+   "B": "Tính toán rất đơn giản",
+   "C": "Tách rời mức độ hao mòn và giá trị khấu hao",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 138,
+  "q": "Chi phí quản lý thường được tính theo tỷ lệ % các khoản mục chi phí và lấy từ:",
+  "opts": {
+   "A": "50 – 60%",
+   "B": "20 – 30%",
+   "C": "5 – 12%",
+   "D": "1 – 2%"
+  },
+  "sec": "PHẦN 5. XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI (20 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 139,
+  "q": "Kế hoạch là:",
+  "opts": {
+   "A": "Báo cáo kết quả kinh doanh năm trước",
+   "B": "Tập hợp các định mức kỹ thuật",
+   "C": "Một bản dự kiến về mục đích, nội dung cũng như phương thức và các điều kiện để thực hiện một hoạt động nào đó",
+   "D": "Hợp đồng giữa doanh nghiệp và khách hàng"
+  },
+  "sec": "PHẦN 6. KẾ HOẠCH KINH DOANH (12 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 140,
+  "q": "Nguyên tắc của kế hoạch hóa là:",
+  "opts": {
+   "A": "Đảm bảo tính khoa học và tính thực tiễn",
+   "B": "Đảm bảo tính toàn diện, cân đối và mang tính hệ thống cao",
+   "C": "Đảm bảo tính hiệu quả",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 6. KẾ HOẠCH KINH DOANH (12 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 141,
+  "q": "Theo tiêu thức thời gian, kế hoạch dài hạn là kế hoạch có thời hạn:",
+  "opts": {
+   "A": "Từ 5 năm trở lên",
+   "B": "1 năm",
+   "C": "Từ 15 – 20 năm",
+   "D": "Dưới 1 năm"
+  },
+  "sec": "PHẦN 6. KẾ HOẠCH KINH DOANH (12 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 142,
+  "q": "Kế hoạch siêu dài hạn có thời hạn:",
+  "opts": {
+   "A": "Từ 1 – 3 năm",
+   "B": "Trên 50 năm",
+   "C": "Từ 15 – 20 năm",
+   "D": "Từ 5 năm trở lên"
+  },
+  "sec": "PHẦN 6. KẾ HOẠCH KINH DOANH (12 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 143,
+  "q": "Kế hoạch ngắn hạn còn được gọi là:",
+  "opts": {
+   "A": "Kế hoạch chiến lược",
+   "B": "Kế hoạch năm",
+   "C": "Kế hoạch tác nghiệp",
+   "D": "Kế hoạch ngành"
+  },
+  "sec": "PHẦN 6. KẾ HOẠCH KINH DOANH (12 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 144,
+  "q": "Theo cấp quản lý, kế hoạch được chia thành:",
+  "opts": {
+   "A": "Kế hoạch sản xuất và kế hoạch tài chính",
+   "B": "Ngắn hạn, trung hạn và dài hạn",
+   "C": "Kế hoạch nền kinh tế quốc dân, kế hoạch ngành và kế hoạch doanh nghiệp",
+   "D": "Kế hoạch lao động và kế hoạch tiền lương"
+  },
+  "sec": "PHẦN 6. KẾ HOẠCH KINH DOANH (12 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 145,
+  "q": "Theo nội dung, kế hoạch của doanh nghiệp vận tải bao gồm:",
+  "opts": {
+   "A": "Kế hoạch sản xuất và tiêu thụ sản phẩm vận tải",
+   "B": "Kế hoạch lao động – tiền lương",
+   "C": "Kế hoạch chi phí – giá thành sản phẩm vận tải",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 6. KẾ HOẠCH KINH DOANH (12 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 146,
+  "q": "Thực chất của phương pháp cân đối trong xây dựng kế hoạch là:",
+  "opts": {
+   "A": "Áp dụng kinh nghiệm từ nơi khác",
+   "B": "So sánh giữa nhu cầu và khả năng của doanh nghiệp",
+   "C": "Tính chỉ số tăng trưởng bình quân",
+   "D": "Dự báo bằng hàm xu thế"
+  },
+  "sec": "PHẦN 6. KẾ HOẠCH KINH DOANH (12 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 147,
+  "q": "Mối cân đối quan trọng nhất, là cơ sở cho các mối cân đối khác, là cân đối giữa:",
+  "opts": {
+   "A": "Vốn cố định và vốn lưu động",
+   "B": "Thời gian và không gian",
+   "C": "Năng lực sản xuất kinh doanh và khả năng tiêu thụ sản phẩm vận tải trên thị trường",
+   "D": "Lao động và tiền lương"
+  },
+  "sec": "PHẦN 6. KẾ HOẠCH KINH DOANH (12 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 148,
+  "q": "Phương pháp toán thống kê thường được dùng để xây dựng:",
+  "opts": {
+   "A": "Chỉ kế hoạch ngắn hạn dưới 1 tháng",
+   "B": "Chỉ kế hoạch tác nghiệp hằng ngày",
+   "C": "Chỉ kế hoạch theo ca làm việc",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 6. KẾ HOẠCH KINH DOANH (12 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 149,
+  "q": "Phương pháp tương tự có các dạng:",
+  "opts": {
+   "A": "Tương tự về quy luật vận động của hiện tượng",
+   "B": "Tương tự về bản chất của hiện tượng",
+   "C": "Tương tự về hình thức biểu hiện của hiện tượng",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 6. KẾ HOẠCH KINH DOANH (12 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 150,
+  "q": "Ưu điểm của phương pháp tương tự là:",
+  "opts": {
+   "A": "Không cần dữ liệu",
+   "B": "Dễ tìm được hiện tượng tương tự hoàn toàn",
+   "C": "Có thể giải quyết vấn đề thiếu kinh nghiệm thực tế cũng như thiếu thông tin",
+   "D": "Độ chính xác tuyệt đối"
+  },
+  "sec": "PHẦN 6. KẾ HOẠCH KINH DOANH (12 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 151,
+  "q": "Theo mô tả quá trình sản xuất vận tải trên quan điểm hệ thống, lao động là một trong bao nhiêu yếu tố đầu vào của hoạt động sản xuất kinh doanh?",
+  "opts": {
+   "A": "2",
+   "B": "5",
+   "C": "3",
+   "D": "4"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 152,
+  "q": "Kế hoạch lao động tiền lương gồm các bộ phận:",
+  "opts": {
+   "A": "Kế hoạch bảo dưỡng, sửa chữa và khấu hao",
+   "B": "Kế hoạch tăng NSLĐ, kế hoạch lao động và kế hoạch quỹ tiền lương",
+   "C": "Kế hoạch sản xuất, kế hoạch tài chính và kế hoạch đầu tư",
+   "D": "Kế hoạch nhiên liệu, săm lốp và vật tư"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 153,
+  "q": "Theo nghề nghiệp, lao động trong doanh nghiệp vận tải gồm:",
+  "opts": {
+   "A": "Lái xe và nhân viên phục v",
+   "B": "Lao động quản lý",
+   "C": "Công nhân bảo dưỡng sửa chữa",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 154,
+  "q": "Cách phân loại nào sau đây KHÔNG thuộc phân loại theo chế độ sử dụng lao động?",
+  "opts": {
+   "A": "Lao động hợp đồng dài hạn",
+   "B": "Lao động đã qua đào tạo",
+   "C": "Lao động thời vụ",
+   "D": "Lao động chính thức"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 155,
+  "q": "Năng suất lao động tính bằng chỉ tiêu giá trị được xác định bằng:",
+  "opts": {
+   "A": "Tổng doanh thu/Số lượng lao động",
+   "B": "Tổng số lượng sản phẩm/Số lượng lao động",
+   "C": "Tổng quỹ lương/Số lượng lao động",
+   "D": "Số lượng lao động/Tổng doanh thu"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 156,
+  "q": "Các phương pháp xác định năng suất lao động kỳ kế hoạch gồm:",
+  "opts": {
+   "A": "Phương pháp tốc độ tăng trưởng bình quân",
+   "B": "Phương pháp thống kê (phương pháp tương quan)",
+   "C": "Phương pháp giả định",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 157,
+  "q": "Theo phương pháp định biên, nhu cầu lái xe được xác định bằng:",
+  "opts": {
+   "A": "NLX = ΣQTL/TLBQ",
+   "B": "NLX = Ac/k",
+   "C": "NLX = ΣTH/QTGLX",
+   "D": "NLX = Ac × k"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 158,
+  "q": "Theo phương pháp định biên, số lượng nhân viên phục vụ được xác định:",
+  "opts": {
+   "A": "Bằng số lượng lái xe",
+   "B": "Bằng 50% số lái xe",
+   "C": "Bằng số lượng thợ BDSC",
+   "D": "Bằng 15 – 20% số lái xe"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 159,
+  "q": "Thợ bảo dưỡng sửa chữa thường chiếm bao nhiêu phần trăm so với lao động lái xe?",
+  "opts": {
+   "A": "8 – 12%",
+   "B": "15 – 20%",
+   "C": "30 – 40%",
+   "D": "50%"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 160,
+  "q": "Lao động gián tiếp thường chiếm bao nhiêu phần trăm so với tổng số lái xe và thợ BDSC?",
+  "opts": {
+   "A": "20 – 30%",
+   "B": "8 – 12%",
+   "C": "15 – 20%",
+   "D": "3 – 5%"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 161,
+  "q": "Quỹ thời gian làm việc của lái xe trong một năm được xác định bằng:",
+  "opts": {
+   "A": "QTGLX = 365 × 8",
+   "B": "QTGLX = 300 × 10",
+   "C": "QTGLX = [365 − (DCN + Dlễ + Dphép + Dkhác)] × 8",
+   "D": "QTGLX = [365 + Dlễ + Dphép] × 8"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 162,
+  "q": "Nhược điểm của phương pháp tính nhu cầu lao động theo quỹ thời gian làm việc là:",
+  "opts": {
+   "A": "Mới chỉ xét đến số lượng lao động, chưa xét đến chất lượng công việc và hiệu quả sử dụng lao động",
+   "B": "Không gắn được số lao động với khối lượng công việc",
+   "C": "Độ chính xác thấp hơn phương pháp định biên",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 163,
+  "q": "Theo phương pháp định mức lao động tổng hợp, định mức được tính bình quân cho:",
+  "opts": {
+   "A": "10.000 T.Km (hay HK.Km)",
+   "B": "1 tấn hàng",
+   "C": "100 T.Km",
+   "D": "1.000 T.Km"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 164,
+  "q": "Trong phương pháp cân đối khả năng về nguồn chi trả lương, quỹ tiền lương tối đa (QTLmax) ứng với trường hợp:",
+  "opts": {
+   "A": "Lãi còn lại bằng lãi định mức",
+   "B": "Lãi còn lại sau khi bù đắp chi phí và nộp ngân sách bằng 0",
+   "C": "Doanh thu bằng 0",
+   "D": "Chi phí bằng 0"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 165,
+  "q": "Nguyên tắc trả lương bao gồm:",
+  "opts": {
+   "A": "Lao động như nhau cần được trả lương như nhau",
+   "B": "Tiền lương không được thấp hơn tiền lương tối thiểu do Nhà nước quy định",
+   "C": "Trả lương theo số lượng và chất lượng lao động",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 166,
+  "q": "Tiền lương thực tế là:",
+  "opts": {
+   "A": "Tiền lương được trả bằng tiền",
+   "B": "Tiền lương tối thiểu do Nhà nước quy định",
+   "C": "Tiền lương danh nghĩa được quy đổi ra các vật phẩm cần thiết theo giá thị trường",
+   "D": "Tiền lương cộng tiền thưởng"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 167,
+  "q": "Nếu chỉ số tăng NSLĐ nhỏ hơn chỉ số tăng tiền lương bình quân (IWlđ < ITLbq) thì doanh nghiệp:",
+  "opts": {
+   "A": "Có tích lũy để phát triển sản xuất",
+   "B": "Có thể tái sản xuất mở rộng",
+   "C": "Vẫn đảm bảo được tái sản xuất giản đơn",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 168,
+  "q": "Thành phần của tiền lương gồm:",
+  "opts": {
+   "A": "Lương chính",
+   "B": "Lương phụ",
+   "C": "Tiền thưởng",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 7. LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG (18 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 169,
+  "q": "Mục đích của tổ chức quản lý kỹ thuật phương tiện là:",
+  "opts": {
+   "A": "Giảm số lượng lái xe",
+   "B": "Nâng cao hiệu quả sử dụng tính năng kỹ thuật trên cơ sở duy trì tình trạng kỹ thuật phương tiện ở trạng thái tối ưu",
+   "C": "Tăng số lượng phương tiện của doanh nghiệp",
+   "D": "Tăng giá cước vận chuyển"
+  },
+  "sec": "PHẦN 8. TỔ CHỨC QUẢN LÝ KỸ THUẬT PHƯƠNG TIỆN (12 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 170,
+  "q": "Nội dung quản lý kỹ thuật phương tiện vận tải gồm quản lý trong khâu:",
+  "opts": {
+   "A": "Khai thác, sử dụng",
+   "B": "Bảo dưỡng sửa chữa",
+   "C": "Giữ gìn, bảo quản",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 8. TỔ CHỨC QUẢN LÝ KỸ THUẬT PHƯƠNG TIỆN (12 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 171,
+  "q": "Mục đích của công tác bảo dưỡng sửa chữa là:",
+  "opts": {
+   "A": "Hạn chế mức độ hao mòn phương tiện trong quá trình khai thác",
+   "B": "Phục hồi các tính năng khai thác kỹ thuật của phương tiện",
+   "C": "Duy trì phương tiện trong tình trạng kỹ thuật tối ưu",
+   "D": "Tất cả các phương án đều đúng"
+  },
+  "sec": "PHẦN 8. TỔ CHỨC QUẢN LÝ KỸ THUẬT PHƯƠNG TIỆN (12 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 172,
+  "q": "Trong cơ chế thị trường, công tác bảo dưỡng sửa chữa luôn được xem xét trong mối quan hệ giữa:",
+  "opts": {
+   "A": "Chất lượng kỹ thuật phương tiện – hiệu quả sử dụng phương tiện – chi phí để đạt được tình trạng kỹ thuật đó",
+   "B": "Tốc độ – quãng đường – thời gian",
+   "C": "Lái xe – phụ xe – hành khách",
+   "D": "Doanh thu – thuế – lợi nhuận"
+  },
+  "sec": "PHẦN 8. TỔ CHỨC QUẢN LÝ KỸ THUẬT PHƯƠNG TIỆN (12 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 173,
+  "q": "Văn bản quy định chế độ bảo dưỡng kỹ thuật và sửa chữa phương tiện mới nhất theo hiện hành là:",
+  "opts": {
+   "A": "Quyết định 992/2003/QĐ-BGTVT",
+   "B": "Quyết định 694/QĐ/KT4",
+   "C": "Thông tư 53/2014/TT-BGTVT",
+   "D": "Luật Giao thông đường bộ 2008"
+  },
+  "sec": "PHẦN 8. TỔ CHỨC QUẢN LÝ KỸ THUẬT PHƯƠNG TIỆN (12 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 174,
+  "q": "Tổng quãng đường xe chạy kế hoạch là 600.000 km, định ngạch sửa chữa lớn LSCL = 300.000 km. Số lần sửa chữa lớn NSCL là:",
+  "opts": {
+   "A": "1 lần",
+   "B": "0,5 lần",
+   "C": "2 lần",
+   "D": "3 lần"
+  },
+  "sec": "PHẦN 8. TỔ CHỨC QUẢN LÝ KỸ THUẬT PHƯƠNG TIỆN (12 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 175,
+  "q": "Với ΣLchg = 600.000 km, LBD2 = 10.000 km và NSCL = 2, số lần bảo dưỡng cấp 2 (NBD2) là:",
+  "opts": {
+   "A": "58 lần",
+   "B": "62 lần",
+   "C": "60 lần",
+   "D": "30 lần"
+  },
+  "sec": "PHẦN 8. TỔ CHỨC QUẢN LÝ KỸ THUẬT PHƯƠNG TIỆN (12 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 176,
+  "q": "Nhu cầu bảo dưỡng cấp 1 được xác định bằng:",
+  "opts": {
+   "A": "NBD1 = ΣLchg/LBD1 + NSCL + NBD2",
+   "B": "NBD1= ΣLchg/LBD2 − NBD2",
+   "C": "NBD1 = ΣLchg/LBD1 − NSCL",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 8. TỔ CHỨC QUẢN LÝ KỸ THUẬT PHƯƠNG TIỆN (12 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 177,
+  "q": "Nhu cầu bảo dưỡng thường xuyên được xác định bằng:",
+  "opts": {
+   "A": "NBDTX = ΣADc − ΣADvd",
+   "B": "NBDTX = ΣLchg/LBD1",
+   "C": "NBDTX  = a × ΣADvd",
+   "D": "NBDTX = a/ΣADvd"
+  },
+  "sec": "PHẦN 8. TỔ CHỨC QUẢN LÝ KỸ THUẬT PHƯƠNG TIỆN (12 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 178,
+  "q": "Tổng giờ công sửa chữa thường xuyên được xác định trên cơ sở định mức giờ công tính bình quân cho:",
+  "opts": {
+   "A": "1.000 km xe chạy",
+   "B": "1 ngày xe vận doanh",
+   "C": "100 km xe chạy",
+   "D": "10.000 km xe chạy"
+  },
+  "sec": "PHẦN 8. TỔ CHỨC QUẢN LÝ KỸ THUẬT PHƯƠNG TIỆN (12 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 179,
+  "q": "Phương pháp xác định nhu cầu bảo dưỡng sửa chữa gồm:",
+  "opts": {
+   "A": "Phương pháp phát thẻ",
+   "B": "Phương pháp tương tự",
+   "C": "Phương pháp biểu đồ và phương pháp phân tích tính toán",
+   "D": "Tất cả các phương án đều sai"
+  },
+  "sec": "PHẦN 8. TỔ CHỨC QUẢN LÝ KỸ THUẬT PHƯƠNG TIỆN (12 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 180,
+  "q": "Hệ số ngày xe tốt được xác định bằng:",
+  "opts": {
+   "A": "αT = (ΣADc − ΣADBDSC)/ΣADc",
+   "B": "αT = (ΣADc + ΣADBDSC)/ΣADc",
+   "C": "αT = ΣADBDSC/ΣADc",
+   "D": "αT = ΣADc/(ΣADc − ΣADBDSC) BÀI TẬP 1 Yêu cầu 1 – Năng suất của 1 tấn trọng tải / 1 ghế xe"
+  },
+  "sec": "PHẦN 8. TỔ CHỨC QUẢN LÝ KỸ THUẬT PHƯƠNG TIỆN (12 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 181,
+  "q": "Một doanh nghiệp vận tải hàng hóa bằng ô tô có 25 xe trọng tải 10 tấn và 15 xe trọng tải 15 tấn; γ = 0,85; αVD = 0,8; β = 0,75; VT = 45 km/h; txd = 0,5 h; Zc = 2 chuyến/ngày; Lnđ = 200 km; TH = 8 h. Năng suất phương tiện bình quân của 1 tấn trọng tải trong 1 giờ (giá trị và đơn vị) là:",
+  "opts": {
+   "A": "0,31 T/xe-giờ",
+   "B": "0,38 T/Tấn.xe-giờ",
+   "C": "0,31 T/Tấn.xe-giờ",
+   "D": "2,48 T/Tấn.xe-giờ"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 182,
+  "q": "Một doanh nghiệp vận tải hàng hóa bằng ô tô có 25 xe trọng tải 10 tấn và 15 xe trọng tải 15 tấn; γ = 0,85; αVD = 0,8; β = 0,75; VT = 45 km/h; txd = 0,5 h; Zc = 2 chuyến/ngày; Lnđ = 200 km; TH = 8 h. Năng suất phương tiện bình quân của 1 tấn trọng tải trong 1 ngày và trong 1 tháng lần lượt là:",
+  "opts": {
+   "A": "2,48 T/Tấn.xe-ngày và 59,52 T/Tấn.xe-tháng",
+   "B": "2,48 T/Tấn.xe-ngày và 74,4 T/Tấn.xe-tháng",
+   "C": "3,72 T/Tấn.xe-ngày và 89,28 T/Tấn.xe-tháng",
+   "D": "0,31 T/Tấn.xe-ngày và 7,44 T/Tấn.xe-tháng Yêu cầu 2 – Năng suất của 1 xe"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 183,
+  "q": "Một doanh nghiệp vận tải hàng hóa bằng ô tô có 25 xe trọng tải 10 tấn và 15 xe trọng tải 15 tấn; γ = 0,85; αVD = 0,8; β = 0,75; VT = 45 km/h; txd = 0,5 h; Zc = 2 chuyến/ngày; Lnđ = 200 km; TH = 8 h. Năng suất phương tiện bình quân của 1 xe trong 1 ngày là:",
+  "opts": {
+   "A": "31,00 T/xe-ngày",
+   "B": "29,45 T/xe-ngày",
+   "C": "59,52 T/xe-ngày",
+   "D": "706,8 T/xe-ngày"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 184,
+  "q": "Một doanh nghiệp vận tải hàng hóa bằng ô tô có 25 xe trọng tải 10 tấn và 15 xe trọng tải 15 tấn; γ = 0,85; αVD = 0,8; β = 0,75; VT = 45 km/h; txd = 0,5 h; Zc = 2 chuyến/ngày; Lnđ = 200 km; TH = 8 h. Phát biểu nào sau đây là SAI?",
+  "opts": {
+   "A": "Trọng tải thiết kế bình quân của đoàn xe là 11,875 tấn",
+   "B": "Năng suất bình quân của 1 xe trong 1 tháng là 706,8 T/xe-tháng",
+   "C": "Năng suất bình quân của 1 xe trong 1 năm là 10.602 T/xe-năm",
+   "D": "Năng suất bình quân của 1 xe trong 1 năm gấp 12 lần năng suất 1 xe trong 1 tháng BÀI TẬP 2 Yêu cầu 1 – Năng suất của 1 tấn trọng tải / 1 ghế xe"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 185,
+  "q": "Một doanh nghiệp vận tải hành khách bằng ô tô có 20 xe 35 chỗ và 10 xe 45 chỗ; γ = 0,85; αVD = 0,8; VT = 45 km/h; TH = 12 h; tdđ = 0,5 h; ηHK = 3; LM = 80 km. Biểu thức nào dưới đây tính đúng năng suất phương tiện bình quân của 1 ghế xe trong 1 giờ?",
+  "opts": {
+   "A": "45×0,85×3 / 80",
+   "B": "45×0,85 / (80 + 45×0,5)",
+   "C": "45×3 / (80 + 45×0,5×0,85)",
+   "D": "45×0,85×3 / (80 + 45×0,5)"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 186,
+  "q": "Một doanh nghiệp vận tải hành khách bằng ô tô có 20 xe 35 chỗ và 10 xe 45 chỗ; γ = 0,85; αVD = 0,8; VT = 45 km/h; TH = 12 h; tdđ = 0,5 h; ηHK = 3; LM = 80 km. Năng suất phương tiện bình quân của 1 ghế xe trong 1 tháng là:",
+  "opts": {
+   "A": "403,2 HK/ghế.xe-tháng",
+   "B": "322,56 HK/ghế.xe-tháng",
+   "C": "26,88 HK/ghế.xe-tháng",
+   "D": "10,75 HK/ghế.xe-tháng Yêu cầu 2 – Năng suất của 1 xe"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 187,
+  "q": "Một doanh nghiệp vận tải hành khách bằng ô tô có 20 xe 35 chỗ và 10 xe 45 chỗ; γ = 0,85; αVD = 0,8; VT = 45 km/h; TH = 12 h; tdđ = 0,5 h; ηHK = 3; LM = 80 km. Năng suất phương tiện bình quân của 1 xe trong 1 ngày là:",
+  "opts": {
+   "A": "515,16 HK/xe-ngày",
+   "B": "537,6 HK/xe-ngày",
+   "C": "13,44 HK/xe-ngày",
+   "D": "42,93 HK/xe-ngày"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 188,
+  "q": "Một doanh nghiệp vận tải hành khách bằng ô tô có 20 xe 35 chỗ và 10 xe 45 chỗ; γ = 0,85; αVD = 0,8; VT = 45 km/h; TH = 12 h; tdđ = 0,5 h; ηHK = 3; LM = 80 km. Năng suất phương tiện bình quân của 1 xe trong 1 năm là:",
+  "opts": {
+   "A": "185.457,6 HK/xe-năm",
+   "B": "12.363,84 HK/xe-năm",
+   "C": "3.870,72 HK/xe-năm",
+   "D": "148.366 HK/xe-năm BÀI TẬP 3 Yêu cầu 1 – Năng suất của 1 tấn trọng tải / 1 ghế xe"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 189,
+  "q": "Một doanh nghiệp vận tải hàng hóa bằng ô tô có 30 xe trọng tải 10 tấn và 10 xe trọng tải 15 tấn; γ = 0,8; αVD = 0,85; β = 0,75; VT = 45 km/h; txd = 0,5 h/chuyến; Zc = 2 chuyến/ngày; Lnđ = 300 km; TH = 8 h. Năng suất phương tiện bình quân của 1 tấn trọng tải trong 1 giờ là:",
+  "opts": {
+   "A": "0,209 T/Tấn.xe-giờ",
+   "B": "0,240 T/Tấn.xe-giờ",
+   "C": "0,261 T/Tấn.xe-giờ",
+   "D": "0,162 T/Tấn.xe-giờ"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 190,
+  "q": "Một doanh nghiệp vận tải hàng hóa bằng ô tô có 30 xe trọng tải 10 tấn và 10 xe trọng tải 15 tấn; γ = 0,8; αVD = 0,85; β = 0,75; VT = 45 km/h; txd = 0,5 h/chuyến; Zc = 2 chuyến/ngày; Lnđ = 300 km; TH = 8 h. Năng suất phương tiện bình quân của 1 tấn trọng tải trong 1 tháng là:",
+  "opts": {
+   "A": "50,16 T/Tấn.xe-tháng",
+   "B": "1,672 T/Tấn.xe-tháng",
+   "C": "42,636 T/Tấn.xe-tháng",
+   "D": "40,128 T/Tấn.xe-tháng Yêu cầu 2 – Năng suất của 1 xe"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 191,
+  "q": "Một doanh nghiệp vận tải hàng hóa bằng ô tô có 30 xe trọng tải 10 tấn và 10 xe trọng tải 15 tấn; γ = 0,8; αVD = 0,85; β = 0,75; VT = 45 km/h; txd = 0,5 h/chuyến; Zc = 2 chuyến/ngày; Lnđ = 300 km; TH = 8 h. Năng suất phương tiện bình quân của 1 xe trong 1 tháng là:",
+  "opts": {
+   "A": "564,3 T/xe-tháng",
+   "B": "479,655 T/xe-tháng",
+   "C": "18,81 T/xe-tháng",
+   "D": "451,44 T/xe-tháng"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 192,
+  "q": "Một doanh nghiệp vận tải hàng hóa bằng ô tô có 30 xe trọng tải 10 tấn và 10 xe trọng tải 15 tấn; γ = 0,8; αVD = 0,85; β = 0,75; VT = 45 km/h; txd = 0,5 h/chuyến; Zc = 2 chuyến/ngày; Lnđ = 300 km; TH = 8 h. Năng suất phương tiện bình quân của 1 xe trong 1 năm (giá trị và đơn vị) là:",
+  "opts": {
+   "A": "5.755,86 T/xe-năm",
+   "B": "5.755,86 T/Tấn.xe-năm",
+   "C": "6.771,6 T/xe-năm",
+   "D": "511,63 T/xe-năm BÀI TẬP 4 Yêu cầu 1 – Năng suất của 1 tấn trọng tải / 1 ghế xe"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "A"
+ },
+ {
+  "n": 193,
+  "q": "Một doanh nghiệp vận tải hành khách bằng ô tô có 30 xe 35 chỗ và 20 xe 45 chỗ; γ = 0,9; αVD = 0,85; VT = 45 km/h; TH = 12 h; tdđ = 0,5 h; ηHK = 2,5; LM = 100 km. Năng suất bình quân của 1 ghế xe trong 1 giờ lần lượt là:",
+  "opts": {
+   "A": "0,70 HK/ghế.xe-giờ",
+   "B": "0,83 HK/ghế.xe-giờ",
+   "C": "1,01 HK/ghế.xe-giờ",
+   "D": "0,92 HK/ghế.xe-giờ"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "B"
+ },
+ {
+  "n": 194,
+  "q": "Một doanh nghiệp vận tải hành khách bằng ô tô có 30 xe 35 chỗ và 20 xe 45 chỗ; γ = 0,9; αVD = 0,85; VT = 45 km/h; TH = 12 h; tdđ = 0,5 h; ηHK = 2,5; LM = 100 km. Năng suất phương tiện bình quân của 1 ghế xe trong 1 ngày và trong 1 tháng lần lượt là:",
+  "opts": {
+   "A": "9,96 HK/ghế.xe-ngày và 298,8 HK/ghế.xe-tháng",
+   "B": "6,64 HK/ghế.xe-ngày và 169,32 HK/ghế.xe-tháng",
+   "C": "9,96 HK/ghế.xe-ngày và 253,98 HK/ghế.xe-tháng",
+   "D": "0,83 HK/ghế.xe-ngày và 21,17 HK/ghế.xe-tháng Yêu cầu 2 – Năng suất của 1 xe"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "C"
+ },
+ {
+  "n": 195,
+  "q": "Một doanh nghiệp vận tải hành khách bằng ô tô có 30 xe 35 chỗ và 20 xe 45 chỗ; γ = 0,9; αVD = 0,85; VT = 45 km/h; TH = 12 h; tdđ = 0,5 h; ηHK = 2,5; LM = 100 km. Năng suất phương tiện bình quân của 1 xe trong 1 ngày là:",
+  "opts": {
+   "A": "398,4 HK/xe-ngày",
+   "B": "32,37 HK/xe-ngày",
+   "C": "408,36 HK/xe-ngày",
+   "D": "388,44 HK/xe-ngày"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "D"
+ },
+ {
+  "n": 196,
+  "q": "Một doanh nghiệp vận tải hành khách bằng ô tô có 30 xe 35 chỗ và 20 xe 45 chỗ; γ = 0,9; αVD = 0,85; VT = 45 km/h; TH = 12 h; tdđ = 0,5 h; ηHK = 2,5; LM = 100 km. Năng suất phương tiện bình quân của 1 xe trong 1 tháng và trong 1 năm lần lượt là:",
+  "opts": {
+   "A": "11.653,2 HK/xe-tháng và 139.838,4 HK/xe-năm",
+   "B": "253,98 HK/xe-tháng và 3.047,76 HK/xe-năm",
+   "C": "10.487,88 HK/xe-tháng và 125.854,56 HK/xe-năm",
+   "D": "9.905,22 HK/xe-tháng và 118.862,64 HK/xe-năm"
+  },
+  "sec": "PHẦN 9. BÀI TẬP VẬN DỤNG TÍNH NĂNG SUẤT PHƯƠNG TIỆN (16 câu)",
+  "ans": "D"
+ }
+]

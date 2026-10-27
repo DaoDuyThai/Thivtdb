@@ -1,0 +1,2511 @@
+
+=====PAGE 1=====
+1 
+ 
+ 
+ 
+BỘ LAO ĐỘNG THƯƠNG BINH VÀ XÃ HỘI 
+TRƯỜNG CAO ĐẲNG DUYÊN HẢI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GIÁO TRÌNH BÀI GIẢNG MÔ ĐUN 
+KHAI THÁC VẬN TẢI ĐƯỜNG BỘ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Giảng viên: Ths. Trần Văn Giang 
+ 
+ 
+ 
+ 
+
+=====PAGE 2=====
+2 
+ 
+ 
+MỤC LỤC 
+PHẦN 1 TỔNG QUAN VỀ VẬN TẢI ............................................................................ 7 
+1. Khái niệm về vận tải ................................................................................................... 7 
+1.1 Trên góc độ không gian. ..............................................................................................................7 
+1.2. Trên góc độ kỹ thuật ...................................................................................................................7 
+1.3. Trên góc độ kinh tế. ....................................................................................................................7 
+2. Tính chất của vận tải .................................................................................................. 7 
+3.Vai trò của vận tải ....................................................................................................... 7 
+3.1 Vai trò của vận tải hành khách ...................................................................................................7 
+3.2 Vai trò của vận tải hàng hóa .......................................................................................................8 
+4. Chức năng của vận tải ................................................................................................ 8 
+4.1 Chức năng kinh tế ........................................................................................................................8 
+4.2 Chức năng xã hội .........................................................................................................................8 
+4.3 Chức năng quốc tế .......................................................................................................................8 
+5. Phân loại vận tải ......................................................................................................... 8 
+5.1. Căn cứ vào tính chất của vận tải ................................................................................................8 
+5.2 Căn cứ vào đối tượng vận chuyển ...........................................................................................10 
+5.3. Căn cứ vào cách thức tổ chức quá trình vận tải.....................................................................10 
+5. 4. Căn cứ vào tiêu thức khác .......................................................................................................11 
+5.5 Theo tiêu chức khác...................................................................................................................11 
+6. Sản phẩm vận tải ...................................................................................................... 11 
+7. Tổng quan về vận tải ô tô ......................................................................................... 12 
+7.1 Lịch sử  hình thành và phát triển của vận tải ô tô trên thế giới ............................................13 
+7.2 Tình hình phát triển của vận tải ô tô ở Việt Nam ...................................................................13 
+7.3 Đặc điểm của vận tải ô tô ..........................................................................................................13 
+7.4 Vai trò của vận tải ô tô ...............................................................................................................13 
+7.5 Quá trình sản của vận tải ...........................................................................................................14 
+7.6 Các tác nghiệp của quá trình vận tải hàng hóa .......................................................................14 
+7.7 Các tác nghiệp của quá trình vận tải hành khách ...................................................................15 
+7.8 Các điều kiện khai thác vận tải .................................................................................................15 
+7.9 Nhu cầu vận tải ...........................................................................................................................17 
+PHẦN 2 PHƯƠNG TIỆN VẬN TẢI Ô TÔ .................................................................. 19 
+1. Khái niệm về phương tiện vận tải ô tô ..................................................................... 19 
+
+=====PAGE 3=====
+3 
+ 
+2. Chi tiêu đánh giá phương tiện vận tải ô tô ............................................................... 20 
+2.1 Chỉ tiêu sử dụng kích thước và trọng tải của xe ....................................................................20 
+2.2 Sức chứa của xe .........................................................................................................................21 
+2.3 Tính sử dụng thuận tiện ............................................................................................................22 
+2.4 Sức kéo và tốc độ của xe ..........................................................................................................22 
+2.5 An toàn chạy xe .........................................................................................................................22 
+PHẦN 3 QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ .......................... 23 
+1. Mô phỏng quá trình sản xuất vận tải ....................................................................... 23 
+2. Chỉ tiêu khai thác sử dụng phương tiện ................................................................... 23 
+2.1 Nhóm chỉ tiêu số lượng .............................................................................................................23 
+2.2 Nhóm chỉ tiêu chất lượng .........................................................................................................25 
+2.3 Nhóm chỉ tiêu tổng hợp ............................................................................................................26 
+PHẦN 4 TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ .................................... 29 
+1. Một số khái niệm có liên quan.................................................................................. 29 
+2. Một số công tác tổ chức vận tải hành khách bằng ô tô ............................................. 29 
+3. Điều tra luồng hành khách ....................................................................................... 30 
+3.1 Quy luật biến động luồng hành khách: ...................................................................................30 
+3.2 Phương pháp điều tra luồng hành khách: ...............................................................................30 
+3.3 Lập hành trình chạy xe ..............................................................................................................31 
+3.4 Lập hành trình chạy xe ..............................................................................................................31 
+3.5 Yêu cầu đối với hành trình chạy xe .........................................................................................31 
+3.6 Quy trình lập hành trình chạy xe .............................................................................................31 
+3.7 Lựa chọn và bố trí phương tiện ................................................................................................31 
+3.8 Xác định chỉ tiêu khai thác kỹ thuật ........................................................................................32 
+3.9 Xây dựng thời gian biểu và biểu đồ chạy xe ..........................................................................34 
+3.10 Tổ chức lao động cho lái xe ....................................................................................................36 
+3.11 Công tác tổ chức thực hiện tác nghiệp...................................................................................37 
+PHẦN 5 TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ .......................................... 39 
+1. Một số khái niệm có liên quan.................................................................................. 39 
+1.1. Hàng hóa. ....................................................................................................................................39 
+1.2. Vận tải hàng hóa ........................................................................................................................39 
+1.3. Hàng hóa vận tải ........................................................................................................................39 
+1.4 Khối lượng, lượng luân chuyển hàng hoá ..............................................................................39 
+1.5 Luồng hàng .................................................................................................................................39 
+
+=====PAGE 4=====
+4 
+ 
+1.6 Công suất luồng hàng. ...............................................................................................................39 
+1.7 Vận chuyển lặp.........................................................................................................................39 
+2 Phân loại hàng hóa ................................................................................................... 39 
+2.1 Phân loại theo bao bì .................................................................................................................39 
+2.2 Phân loại theo kích thước .........................................................................................................40 
+2.3 Phân loại theo tính chất hàng hóa ............................................................................................40 
+3 Yêu cầu vận tải đối với một số loại hàng .................................................................. 40 
+3.1 Hàng lỏng – khô (theo tính chất vật lý) ...................................................................................40 
+3.2 Hàng dễ vỡ - hàng dễ cháy nổ ..................................................................................................41 
+3.3 Hàng rời – hàng đổ đống ...........................................................................................................41 
+3.4 Hàng thùng chứa (container) là những loại hàng xếp trong container ................................41 
+4. Nội dung công tác tổ chức vận tải hàng khách bằng tô tô ........................................ 41 
+5. Điều tra khai thác luồng hàng .................................................................................. 42 
+6. Ký kết hợp đồng vận chuyển .................................................................................... 42 
+7. Lập hành trình vận chuyển ...................................................................................... 42 
+7.1 Hành trình chạy xe .....................................................................................................................42 
+7.2. Hành trình con thoi....................................................................................................................43 
+7.3 Hành trình đường vòng ..............................................................................................................44 
+7.4 Phương pháp lập hành trình vận chuyển .................................................................................45 
+7.5 Phối hợp hoạt động giữa vận tải và xếp dỡ .............................................................................45 
+PHẦN 6  KẾ HOẠCH KINH DOANH ........................................................................ 47 
+1. Khái niệm về kế hoạch ............................................................................................. 47 
+2. Phân loại kế hoạch ................................................................................................... 47 
+2.1 Theo tiêu thức thời gian ............................................................................................................47 
+2.2 Theo cấp quản lý ........................................................................................................................47 
+2.3 Theo nội dung ............................................................................................................................47 
+3. Phương pháp xây dựng kế hoạch ............................................................................. 47 
+3.1 Phương pháp cân đối .................................................................................................................47 
+3.2 Phương pháp phân tích tính toán .............................................................................................48 
+3.3 Phương pháp toán thống kê ......................................................................................................48 
+3.4 Phương pháp tương tự ...............................................................................................................48 
+PHẦN 7 TỔ CHỨC QUẢN LÝ KỸ THUẬT PHƯƠNG TIỆN ................................... 49 
+1. Mục đích, ý nghĩa và nội dung ................................................................................. 49 
+2. Điều kiện khai thác kỹ thuật .................................................................................... 49 
+
+=====PAGE 5=====
+5 
+ 
+3. Nội dung quản lý kỹ thuật phương tiện.................................................................... 49 
+4. Tổ chức quản lý công tác bảo dưỡng sửa chữa......................................................... 49 
+4.1 Mục đích .....................................................................................................................................49 
+4.2 Ảnh hưởng của hoạt động bảo dưỡng sửa chữa.....................................................................50 
+4.3 Nội dung công tác bảo dưỡng sửa chữa ..................................................................................50 
+4.4 Xác định nhiệm vụ bảo dưỡng sửa chữa.................................................................................50 
+4.5 Nhu cầu bảo dưỡng sửa chữa và các yếu tố ảnh hưởng ........................................................50 
+4.6 Chỉ tiêu đánh giá nhu cầu bảo dưỡng sửa chữa .....................................................................50 
+4.7 Xác định nhu cầu bảo dưỡng sửa chữa ...................................................................................50 
+PHẦN 8 LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG ............................................ 53 
+1. Mục đích .................................................................................................................. 53 
+2. Nội dung ................................................................................................................... 53 
+3. Mối quan hệ giữa kế hoạch lao động – tiền lương .................................................... 53 
+4. Phân loại và đặc điểm lao động trong Doanh nghiệp vận tải ................................... 54 
+4.1 Theo nghề nghiệp gồm ..............................................................................................................54 
+4.2 Theo trình độ ..............................................................................................................................54 
+4.3 Theo tính chát tham gia vào hoạt động sản xuất kinh donah của Doanh nghiệp ..............54 
+4.4 Theo chế độ sử dụng lao động .................................................................................................54 
+5 Mục đích của tổ chức lao động ................................................................................. 55 
+6 Nội dung của tổ chức lao động ................................................................................. 55 
+7 Tổ chức lao động ...................................................................................................... 55 
+8 Năng suất lao động ................................................................................................... 55 
+8.1 Phương pháp xác định năng suất lao động kỳ kế hoạch .......................................................56 
+8.2 Phương pháp xác định nhu cầu lao động ................................................................................56 
+9 Tổ chức quản lý tiền lương....................................................................................... 58 
+9.1 Khái niệm tiền lương:................................................................................................................58 
+9.2 Nguyên tắc trả lương .................................................................................................................59 
+9.3 Thành phần của tiền lương .......................................................................................................59 
+9.4 Các hình thức trả lương.............................................................................................................59 
+9.5 Phương pháp xác định Quỹ tiền lương ...................................................................................60 
+PHẦN 9 XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI .............................................. 64 
+1. Một số khái niệm có liên quan .................................................................................. 64 
+2. Phân loại chi phí....................................................................................................... 64 
+3. Giá thành sản phẩm ................................................................................................. 65 
+
+=====PAGE 6=====
+6 
+ 
+3.1. Một số khái niệm .......................................................................................................................65 
+3.2 Các yếu tố ảnh hưởng đến giá thành vận tải ...........................................................................66 
+3.3 Quy trình hạch toán chi phí sản xuất và giá thành sản phẩm ...............................................66 
+3.4 Phương pháp hạch toán chi phí sản xuất và giá thành sản phẩm.........................................67 
+ 
+ 
+ 
+
+=====PAGE 7=====
+7 
+ 
+PHẦN 1. TỔNG QUAN VỀ VẬN TẢI 
+ 
+1. Khái niệm về vận tải 
+1.1 Trên góc độ không gian: Vận tải là một hoạt động nhằm thay đổi vị trí của hàng hóa và 
+hành khách trong không gian, sự thay đổi vị trí này nhằm thỏa mãn nhu cầu của hành khách và 
+chủ hàng. 
+1.2. Trên góc độ kỹ thuật: Hoạt động vận tải sẽ xuất hiện khi có sự kết hợp và sử dụng phương 
+tiện chuyên chở, tuyến đường, ga, cảng, thiết bị động lực, đối tượng vận chuyển, 
+khi đó vận tải sẽ thực hiện được một khoảng cách nào đó. 
+1.3. Trên góc độ kinh tế: Vận tải là một hoạt động có mục đích của con người nhằm đáp 
+ứng nhu cầu di chuyển vị trí của đối tượng vận chuyển (hành khách và hàng hóa) nhằm mục 
+đích tìm kiếm lợi nhuận từ việc bán sản phẩm phục vụ của mình. 
+Vận tải là quá trình thay đổi (di chuyển) vị trí của hàng hoá, hành khách trong không gian 
+và thời gian để nhằm thoả mãn nhu cầu nào đó của con người. 
+2. Tính chất của vận tải 
+2.1  Môi trường sản xuất vận tải là không cố định, nó luôn thay đổi theo không gian nhất định 
+chứ không cố định như những ngành sản xuất vật chất khác ở trong một không gian cố định; 
+2.2  Sản xuất trong vận tải là quá trình thay đổi về mặt không gian đối tượng lao động chứ không 
+phải tác động trực tiếp làm thay đổi về mặt kỹ thuật, do đó không làm thay đổi hình dáng, kích 
+thước của đối tượng lao động; 
+2.3  Sản phẩm vận tải không tồn tại dưới hình thức vật chất và quá trình sản xuất và quá trình 
+tiêu thụ diễn ra đồng thời với nhau. Hay nói cách khác sản phẩm vận tải mang tính vô hình. Do 
+đó sản phẩm vận tải không có khả năng dự trữ, lưu kho để tiêu dùng về sau mà chỉ có khả năng 
+dự trữ năng lực vận tải mà thôi; 
+2.4  Quá trình sản xuất của ngành vận tải không tạo ra sản phẩm vật chất mới mà chỉ làm thay 
+đổi vị trí của hàng hoá và qua đó làm tăng giá trị của hàng hoá vận chuyển. 
+3.Vai trò của vận tải 
+3.1 Vai trò của vận tải hành khách 
+• Sáng tạo ra một phần đáng kể tổng sản phẩm xã hội và  thu nhập quốc dân. 
+• Đáp ứng nhu cầu ngày càng tăng về số lượng hành khách cần di chuyển ở phạm vi trong 
+nước và ngoài nước. 
+• Tạo ra cầu nối để con người gần lại nhau hơn, đặc biệt là những người sống ở các vùng 
+có nền văn hóa khác nhau, mở rộng giao lưu trong nước và ngoài nước. 
+• Rút ngắn khoảng cách giữa thành thị và nông thôn, giữa đồng bằng và miền núi, góp phần 
+cải thiện và nâng cao chất lượng cuộc sống dân cư, khắc phục sự phát triển không đồng đều giữa 
+các địa phương. 
+• Giúp con người thực hiện các chuyến đi với các mục đích khác nhau như: đi làm, đi mua 
+sắm, đi tham quan, đi du lịch...qua đó làm tăng chất lượng đời sống tinh thần của họ. 
+
+=====PAGE 8=====
+8 
+ 
+ 
+• Tăng sự hiểu biết về xã hội, văn hóa, tăng dân trí, từ đó giúp con người giải quyết các vấn 
+đề nhanh hơn, dễ hơn, năng suất lao động cao hơn, hiệu quả làm việc và học tập cao hơn. 
+• Ngoài ra, vận tải hành khách bằng ô tô còn có vai trò đặc biệt quan trọng trong du lịch 
+nói chung và du lịch quốc tế nói riêng, đem lại nguồn thu ngoại tệ đáng kể cho nền kinh tế. 
+3.2 Vai trò của vận tải hàng hóa 
+• Vận tải hàng hóa nói chung và vận tải hàng hóa bằng ô tô nói riêng có chức năng vận 
+chuyển hàng hóa nhằm đáp ứng yêu cầu nguyên,  nhiên vật liệu cho sản xuất, tiêu dùng. 
+• Vận tải hàng hóa đóng vai trò quan trọng trong hoạt động lưu thông hàng hoá góp phần 
+phát triển kinh tế xã hội. 
+• Vận chuyển hàng hoá sẽ đóng góp một vai trò quan trọng trong sự tăng trưởng 
+nền kinh tế đất nước. 
+• Nó còn đóng góp lớn cho ngân sách Nhà nước qua nhiều loại thuế và nhờ những dịch 
+vụ đi theo được phát triển tạo thêm hàng triệu việc  làm cho người lao động. 
+• Thông qua đó góp phần giảm tỷ lệ thất nghiệp và những tiêu cực xấu trong xã hội. 
+• Sự phát triển của vận tải hàng hoá cũng là sự huy động nguồn vốn về đầu tư trong xã hội 
+rất lớn mà không phải ngành nghề nào cũng có được. 
+4. Chức năng của vận tải 
+4.1  Chức năng kinh tế 
+- Làm thỏa mãi nhu cầu vận chuyển hàng hóa và hành khách; 
+ - Trên cơ sở đó thúc đẩy sự phát triển và tăng trưởng kinh tế 
+4.2  Chức năng xã hội 
+- Vận tải phục vụ sự đi  lại của con người; 
+ - Vận tải giải quyêt công ăn việc làm cho xã hội; 
+- Thực hiện chính sách của Nhà nước 
+- Vận tải phục vụ ANQP 
+4.3  Chức năng quốc tế 
+Vận tải làm cầu nối giữa vùng này với vùng khác; giữa nơi sản xuất và nơi tiêu thụ; giữa 
+quốc gia này với quốc gia khác 
+5. Phân loại vận tải 
+5.1. Căn cứ vào tính chất của vận tải 
+ 
+ 
+ 
+ 
+
+=====PAGE 9=====
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vận tải đường bộ (ô tô) 
+Vận tải đường sắt 
+Vận tải đường ống 
+Vận tải hàng không 
+Vận tải đường thủy 
+
+=====PAGE 10=====
+10 
+ 
+5.2  Căn cứ vào đối tượng vận chuyển 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.3. Căn cứ vào cách thức tổ chức quá trình vận tải 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vận tải công cộng 
+Vận tải công nghệ (nội bộ) 
+Vận tải cá nhân 
+Vận tải hành khách 
+Vận tải hàng hóa 
+
+=====PAGE 11=====
+11 
+ 
+5. 4. Căn cứ vào tiêu thức khác 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.5  Theo tiêu chức khác 
+- Theo khối lượng vận tải: Khối lượng lớn, vừa và nhỏ 
+- Theo cự ly vận chuyển: cư ly dài (lớn); trung bình và ngắn 
+- Theo phạm vi vận tải: trong nước (trong đô thị, nội tỉnh, liên tỉnh) và quốc tế 
+- Ngoài ra, trong vận tải bằng ô tô còn được phân loại theo tuyến đường và loại đường vận 
+chuyển 
+6. Sản phẩm vận tải 
+Sản phẩm vận tải là sự dịch chuyển một khối lượng hàng hóa và hành khách trên một 
+khoảng cách nhất định 
+- Khối lượng vận chuyển (Q): Với vận chuyển hàng hóa đó là khối lượng vận chuyển 
+hàng hóa (đơn vị là tấn); với vận  chuyển hành khách là khối lượng vận chuyển hành khách (đơn 
+vị là hành khách). 
+Vận tải đơn phương thức 
+Vận tải đa phương thức 
+Vận tải đứt đoạn 
+
+=====PAGE 12=====
+12 
+ 
+- Lượng luân chuyển (P): Với vận chuyển hàng hóa đó là lượng luân chuyển hàng hóa 
+(đơn vị là TKm); với vận chuyển hành khách là lượng luân chuyển hành khách  (đơn 
+vị là HKKm) 
+Đặc điểm của sản phẩm vận tải 
+- Sản phẩm vận tải mang tính vô hình. 
+- Quá trình sản xuất và quá trình tiêu thụ diễn ra đồng thời. 
+- Sản phẩm vận tải không thể dự trữ lưu kho, không có sản phẩm dở dang và không có 
+sản phẩm dư thừa. 
+- Sản phẩm vận tải mang tính nhạy cảm cao, chịu sự ảnh hưởng của nhiều nhân tố. 
+- Chất lượng sản phẩm vận tải là không đồng nhất; khó đo lường và đánh giá 
+- Sản phẩm vận tải không có tính dịch chuyển quyền sở hữu. 
+7. Tổng quan về vận tải ô tô 
+ 
+ 
+ 
+
+=====PAGE 13=====
+13 
+ 
+7.1 Lịch sử  hình thành và phát triển của vận tải ô tô trên thế giới 
+- Đường bộ có từ lâu đời nhằm đáp ứng nhu cầu đi lại của  con người. 
+- Đến đầu TK XIX, đường bộ phát triển mạnh mẽ để phục vụ nhu cầu đi lại của ô tô nên 
+được gọi là đường ô tô. 
+- Năm 1751: Chiếc xe chạy đầu tiên của Cubilin ra đời. 
+- Năm 1761: Chiếc xe thứ hai ra đời hoàn thiện hơn (ô tô đạp). 
+- Năm 1763: Poldunop (Nga) thiết kế xe chạy bằng máy  hơi nước. 
+- Năm 1769: Julio (Pháp) đặt động cơ hơi nước lên ô tô. 
+- Năm 1885: Benz và Daimler cùng chế tạo thành công ô tô chạy xăng. 
+7.2 Tình hình phát triển của vận tải ô tô ở Việt Nam 
+- Giao thông vận tải của Việt Nam phát triển chủ yếu trong thời kỳ pháp thuộc, từ đầu thế 
+kỷ XX. 
+- Năm 1912 là năm khởi công xây dựng nhiều tuyến đường bộ tại Đông Dương. 
+- Năm 1918 quy hoạch mạng lưới đường bộ gồm 17 tuyến 
+- Năm 1928 toàn Đông Dương có 7.479 xe du lịch, 1.532 xe tải.  
+- Năm 1938 có 16.000 xe du lịch, 2.250 xe tải và máy kéo, 1900 xe vận tải công cộng. 
+- Năm 1991 được coi là năm đầu tiên của ngành Công nghiệp ô tô Việt Nam, với giấy phép 
+cấp cho liên doanh lắp ráp ô tô cho Công ty liên doanh Mekong 
+7.3 Đặc điểm của vận tải ô tô 
+- Tính triệt để và tính cơ động cao. Vận tải ô tô là phương thức vận tải duy nhất và có thể 
+vận chuyển “ từ cửa đến cửa, từ kho đến kho” hay từ “door to door” 
+- Thời gian đưa hàng ngắn ở những tuyến co cự ly vận chuyển nhỏ bởi khả năng xếp dỡ, 
+thời gian chờ đợi tập kết hàng hóa nhỏ. 
+- Khả năng vận chuyển thấp do trọng tải phương tiện nhỏ. 
+- Năng suất phương tiện và năng suất lao động không cao. 
+- Giá thành sản phẩm vận tải nhỏ ở cự ly vận chuyển ngắn. 
+- Tính an toàn thấp. 
+- Tiêu hao nhiên liệu lớn. 
+- Vốn đầu tưu xây dựng tuyến đường lớn. 
+7.4 Vai trò của vận tải ô tô 
+- Do tính cơ động, triệt để của vận tải ô tô  nên vận tải ô tô là phương thức tiếp chuyển cho 
+các phương thức vận chuyển khác 
+- Vận tải ô tô có thể hoạt động trong mọi điều kiện thời tiết khí hậu, địa hình do vậy vận 
+tải ô tô có thể đi đến mọi chỗ của nền kinh tế. 
+- Phương tiện vận tải ô tô rất đa dạng và nhiều chủng loại khác nhau, đáp ứng việc vận 
+chuyển hàng hóa đa dang với hiệu quả cao. 
+
+=====PAGE 14=====
+14 
+ 
+7.5 Quá trình sản của vận tải 
+Sản suất vận tải là quá trình bao gồm việc thực hiện một số giai đoạn theo một trình tự và 
+nội dung nhất định 
+- 
+Giai đoạn chuẩn bị 
+- 
+Giai đoạn bố trí phương tiện vận chuyển và nhầng hàng (khách). 
+- 
+Giai đoạn xếp hàng lên phương tiện (hành khách lên xe). 
+- 
+Giai đoạn lập đoàn phương tiện 
+- 
+Giai đoạn vận chuyển. 
+- 
+Giai đoạn nhận phương tiện tại nơi đến 
+- 
+Giai đoạn giải thể đoàn phương tiện 
+- 
+Giai đoạn dỡ hàng (Hành khách xuống xe) 
+- 
+ Giai đoạn đưa phương tiện rỗng đến nơi nhận hàng (khách) tiếp theo. 
+7.6 Các tác nghiệp của quá trình vận tải hàng hóa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=====PAGE 15=====
+15 
+ 
+7.7 Các tác nghiệp của quá trình vận tải hành khách 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.8 Các điều kiện khai thác vận tải 
+ 
+7.8.1. Điều kiện về kinh tế - xã hội 
+Bao gồm các yếu tố về phương thức sản xuất của xã hội; các loại hình doanh nghiệp tham 
+gia vào quá trình sản xuất; các chính sách của Chính phủ… Tất cả các yếu tố này tạo điều kiện 
+cho quá trình phát triển của vận tải. 
+- Thu nhập: GNP, GDP, Thu nhập bình quân,… 
+
+=====PAGE 16=====
+16 
+ 
+- Cơ cấu kinh tế (%GDP) 
+- Dân cư và nguồn lao động 
+- Các yếu tố khác: Phong tục tập quán, sự cạnh tranh, chế độ chính sách của Nhà 
+nước… 
+7.8.2 Điều kiện về vận tải 
+Điều kiện vận tải chỉ ra những đặc điểm, yêu cầu của đối tượng vận tải ảnh hưởng tới công 
+tác tổ chức vận tải như thế nào. Nó chủ yếu bao gồm: Môi trường khai thác, điều kiện hành 
+khách, luồng tuyến và cự ly vận chuyển, điều kiện bến bãi. 
+- Tính chất vận tải 
+- Điều kiện về hành khách, hàng hóa 
+- Luồng tuyến, cự ly vận chuyển 
+- Thời hạn vận chuyển 
+- Điều kiện về bến bãi 
+- Điều kiện về xếp dỡ,… 
+7.8.3. Điều kiện về tổ chức kỹ thuật 
+Điều kiện tổ chức kỹ thuật là xem xét ảnh hưởng của một số nhân tố về mặt tổ chức (như 
+chế độ chạy xe, chế độ và tổ chức công tác của lái xe, chế độ bảo dưỡng sửa chữa...) và ảnh 
+hưởng của một số nhân tố về mặt kỹ thuật (như công tác bảo quản xe, trình độ hoàn thiện về 
+thiết bị bảo dưỡng sửa chữa, tình hình cung cấp nhiên liệu...) đến công tác vận tải. 
+- Chế độ bảo quản phương tiện 
+- Chế độ bảo dưỡng sửa chữa phương tiện 
+- Chế độ khai thác xe 
+7.8.4. Điều kiện về thời tiết khí hậu 
+Điều kiện khí hậu có ảnh hưởng rất lớn đến công tác tổ chức vận tải. Mỗi khu vực, vùng 
+miền khác nhau thì kết cấu và tính  năng sử dụng xe cũng khác nhau. 
+- Điều kiện về nhiệt độ 
+- Độ ẩm không khí 
+- Mưa bão 
+7.8.5. Điều kiện về đường sá 
+Điều kiện đường sá ảnh hưởng rất lớn tới hoạt động của phương tiện  trong quá trình 
+vận chuyển hành khách. Các ảnh hưởng đó bao gồm các yếu tố sau: 
+- Kết cấu mặt đường, độ dốc cho phép và độ bằng phẳng của mặt đường 
+- Chiều rộng mặt đường, số làn xe chạy và chiều rộng của làn xe. 
+- Các thông số hình học của con đường (mặt cắt dọc, mặt cắt ngang của con đường, 
+bán kính quay vòng). 
+
+=====PAGE 17=====
+17 
+ 
+- Mật độ giao thông trên đường (số lượng phương tiện tham gia trên đường trong 
+một đơn vị thời gian) và khả năng thông qua của đường 
+- Các công trình phục vụ trên đường (cầu cống, hệ thống đèn tín hiệu,  biển báo). 
+- Các điểm giao cắt và hình thức giao cắt (đồng mức hay khác mức). 
+7.9 Nhu cầu vận tải 
+7.9.1 Khái niệm về nhu cầu vận tải 
+- Cầu vận chuyển được hiểu bởi hai yếu tố là khả năng vận chuyển và  ý muốn vận chuyển. 
+Còn nhu cầu vận chuyển là mong muốn vận chuyển nhưng nó phụ thuộc vào khả năng thuê vận 
+chuyển ở mức giá cước nhất định 
+- Nhu cầu vận chuyển được thể hiện bằng lượng luân chuyển hàng hoá  (TKm), hành khách 
+(HKKm) hoặc khối lượng vận chuyển (Tấn), hành khách (HK) do nền kinh tế quốc dân cũng 
+như do yêu cầu của người dân. 
+7.9.2. Đặc điểm của nhu cầu vận tải 
+- Thứ nhất: Nhu cầu vận tải là một nhu cầu phát sinh 
+- Thứ hai: Nhu cầu vận tải có thể được thưc hiện bằng các loai phương tiện khác nhau 
+- Thứ ba: Nhu cầu vận tải ít có khả năng thay thế 
+- Thứ tư: Giá cả tác động đến nhu cầu vận tải chậm 
+- Thứ năm: Nhu cầu vận tải không phụ thuộc hoàn toàn vào cung và tăng chậm hơn so với 
+nhịp độ phát triển kinh tế 
+- Thứ sáu: Nhu cầu vận tải có nét đặc trưng theo hướng và mang tính thời điểm rõ rệt. 
+- Thứ bảy: Nhu cầu vận tải co dãn chậm 
+- Thú tám: Nhu cầu vận tải mang tính xã hội sâu sắc 
+7.9.3 Các yếu tố ảnh hưởng đến nhu cầu vận tải hàng hóa 
+Nhu cầu vận tải hàng hóa của một vùng (tỉnh, thành phố) phụ thuộc vào: 
+- Khối lượng hàng hóa sản xuất trong vùng 
+- Khối lượng hàng hóa tiêu thụ và dự trữ trong vùng 
+- Khối lượng hàng hóa vận chuyển thông qua vùng 
+Nhóm yếu tố khách quan: 
+- Mức độ phát triển kinh tế - xã hội. 
+- Số lượng, cơ cấp, mật độ dân cư và sự phân bố dân cư. 
+- Sự phát triển của mạng lưới Giao thông vận tải,… 
+Nhóm yếu tố chủ quan: 
+- Thu nhập 
+- Phong tục tập quán 
+- Đặc điểm sinh hoạt 
+
+=====PAGE 18=====
+18 
+ 
+- Thói quen,… 
+7.9.4 Kết quả điều tra nghiên cứu nhu cầu 
+- Một là: xác định khối lượng và lượng luân chuyển hàng hoá (Hành khách) mà doanh 
+nghiệp có thể khai thác được ứng với các mức giá cước khác nhau. 
+- Hai là: Xác định cơ cấu nhu cầu vận chuyển 
+- Ba là: Xác định quy luật biến động của nhu cầu vận tải theo thời gian và không gian 
+ 
+ 
+
+=====PAGE 19=====
+19 
+ 
+PHẦN 2 PHƯƠNG TIỆN VẬN TẢI Ô TÔ 
+ 
+1. Khái niệm về phương tiện vận tải ô tô 
+Phương tiện vận tải ô tô là tất cả các xe ô tô dùng để vận chuyển hàng hóa hoặc hành khách, 
+trừ một số loại xe có công dụng đặc biệt như xe cứu hỏa, cứu thương,.. 
+- Các loại xe ô tô để chở hàng gọi là xe tải, các loại ô tô để chở khách gọi là xe khách 
+- Để vận chuyển có hiệu quả đòi hỏi các loại xe phải phù hợp với loại hàng và yêu cầu 
+ngày càng cao của hành khách, đáp ứng được các điều kiện khai thác. 
+- Hàng hóa, hành khách cũng như các điều kiện khai thác rất đa dạng và phức tạp nên 
+ngành vận tải ô tô cần phải có rất nhiều loại phương tiện để đáp ứng các đòi hỏi trên. 
+ 
+ 
+ 
+
+=====PAGE 20=====
+20 
+ 
+ 
+Phân loại  phương tiện vận tải ô tô 
+ 
+ 
+2. Chi tiêu đánh giá phương tiện vận tải ô tô 
+2.1 Chỉ tiêu sử dụng kích thước và trọng tải của xe 
+- Chiều dài của ô tô (hoặc đầu kéo) LX chiều dài của rơ moóc hoặc sơ mi rơ moóc LR 
+chiều dài của đoàn xe kéo rơ moóc hoặc sơ mi rơ moóc LĐX chiều rộng B và chiều cao H; chiều 
+dài của đoàn xe phụ thuộc vào chiều dài đầu kéo LĐK, chiều dài  càng rơ moóc, chiều dài kéo 
+L’m của rơ moóc. 
+- Kích thước cơ bản của phương tiện: chiều dài lớn nhất, chiều rộng lớn nhất, chiều cao 
+khi xếp hàng… 
+Hệ số đặc chặt: 
+
+=====PAGE 21=====
+21 
+ 
+ 
+     Hệ số sử dụng kích thước cơ bản:  
+ 
+ 
+ 
+     Hệ số sử dụng trọng lượng:  
+ 
+ 
+ 
+2.2 Sức chứa của xe 
+- Sức chứa của phương tiện là số lượng hàng hoá lớn nhất hoặc số lượng hành khách lớn 
+nhất chở được trên xe. Sức chứa của ô tô, rơ moóc được  xác định bằng kích thước bên trong 
+thùng xe, tỷ trọng của hàng hoá và trọng tải giới hạn của nó. 
+- Đối với xe ô tô có thùng hình hộp chữ nhật không mui thì sức chứa được xác định như 
+sau: 
+                      Gch = a.b.( h ± h1 ).Z 
+- Sức chứa hàng hoá đơn vị là tỷ số giữa sức chứa hàng hoá với thể tích thùng xe 
+ 
+                                            
+- Trọng tải riêng của sàn thùng xe là tỷ số giữa trọng tải thiết kế và diện tích sàn 
+thùng xe F:  
+ 
+                              
+ 
+- Đánh giá hệ số sử dụng trọng tải phương tiện bằng hệ số sử dụng trọng tải bình quân. 
+Hệ số         này bằng tỷ số giữa trọng lượng hàng chở được với trọng tải thiết kế của phương tiện 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T/m3 
+T/m3 
+
+=====PAGE 22=====
+22 
+ 
+2.3 Tính sử dụng thuận tiện 
+- Thuận tiện cho công tác xếp dỡ 
+- Thuận tiện cho hành khách 
+- Thuận tiện cho lái xe 
+- Thuận tiện cho công tác bảo dưỡng sửa chữa 
+2.4 Sức kéo và tốc độ của xe 
+- Sức kéo của xe là lực sản sinh ra ở bánh xe chủ động giúp xe thắng được các lực 
+cản và chạy được với tốc độ cao trong các điều kiện đường sá khác nhau. Để đánh giá chất lượng 
+kéo của các loại xe người ta dùng một thông số gọi là nhân tố động lực học của ô tô. 
+- Nhân tố động lực học của xe (D) được xác định như sau:  
+ 
+ 
+ 
+- Sức kéo của phượng tiện ảnh hưởng rất lớn đến tốc độ kỹ thuạt phương tiện. Trong điều 
+kiện thực tế, tốc độ kỹ thuật của ô tô có thể được xác định  như sau: 
+ 
+                                                                                
+ 
+2.5 An toàn chạy xe 
+- Hoàn thiện kết cấu ô tô để nâng cao an toàn chạy xe là một trong những hướng quan 
+trọng để giảm thiểu tác hại của tai nạn giao thông 
+ 
+ 
+- Chỉ tiêu phản ánh an toàn chủ động khi chạy xe liên quan đến kết cấu PT: 
+ 
+ 
+- Đánh giá an toàn chạy xe thụ động có thể dùng chỉ tiêu Nab để xá định hậu quả của tai 
+nạn giao thông 
+ 
+ 
+ 
+ 
+ 
+(Km/h) 
+(đồng/ người)) 
+
+=====PAGE 23=====
+23 
+ 
+PHẦN 3 QUÁ TRÌNH SẢN XUẤT KINH DOANH VẬN TẢI Ô TÔ 
+ 
+1. Mô phỏng quá trình sản xuất vận tải 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Chỉ tiêu khai thác sử dụng phương tiện 
+ 
+2.1 Nhóm chỉ tiêu số lượng 
+- Tổng số  ngày xe có (ADc). Chỉ tiêu này chỉ có với đoàn xe. 
+               ADc = Aci    Dci 
+VCĐ 
+VCĐ’ 
+VLĐ 
+∑Q,∑P,∑Dt
+LĐ 
+LĐ’ 
+Môi trường 
+
+=====PAGE 24=====
+24 
+ 
+- Số xe có bình quân (AC) 
+Ac= ADc/ Dl 
+- Tổng số ngày xe tốt (ADT) 
+ADT = ADc - ADBDSC 
+- Tổng số ngày xe bảo dưỡng sửa chữa (ADBDSC) 
+ADBDSC =  Aci  DBDSCi 
+- Tổng số ngày xe vận doanh (ADvd): 
+ADvd = ADc - ADBDSC - AD 
+- Số xe vận doanh bình quân (Avd ): 
+Avd = Advd  /Dl 
+ 
+- Tổng số tấn xe có: 
+qc = Aci  qTKi 
+- Trọng tải thiết kế bình quân (qc) 
+qc = (Aci  qTKi)/ Aci 
+ 
+- Vận tốc kỹ thuật (VT):  
+ 
+VT = Lchg/Tlb 
+- Vận tốc giao thông (Vgt) – Vận tốc lữ hành (Vlh) 
+Vlh = Lchg/ (Tlb + Tlx) 
+ 
+- Vận tốc khai thác (VK): 
+VK= Lchg/ (Tlb + Txd + Tđc) 
+Ngoài ra, trong vận tải HKCC có thêm vận tốc O – D 
+
+=====PAGE 25=====
+25 
+ 
+- Thời gian xe hoạt động bình quân ngày đêm (TH) 
+TH = Tlb + Txd + Tđc 
+- Thời gian xếp dỡ bình quân một chuyến 
+ 
+ 
+ 
+ 
+ 
+ 
+- Quãng đường xe chạy ngày đêm (Lnđ) 
+ 
+Lnđ = Lhđ+ Lch + Lrỗng 
+- Thời gian vận chuyển hàng hóa 
+ 
+- Quãng đường xe chạy có hàng bình quân một chuyến 
+lch = Lch /Zc 
+- Cự lý vận chuyển bình quân một tấn hàng (lhh) 
+ 
+            lhh= P /Q 
+ 
+2.2 Nhóm chỉ tiêu chất lượng 
+- Hệ số ngày xe tốt (T): 
+T = ADT /Adc 
+- Hệ số  ngày xe vận doanh (vd): 
+VD = ADVD /Adc 
+- Hệ số sử dụng trọng tải () 
+ Hệ số sử dụng trọng tải tĩnh (T). 
+T = Qtt /QTK 
+Hệ số sử dụng trọng tải động (đ).  
+đ = Ptt /PTK 
+Hệ số lợi dụng quãng đường (β) 
+β = Lch/Lchg 
+∑ zC * txd 
+= 
+txd 
+∑ zC  
+tch 
+= 
+VT  
+Lch 
++ txd 
+
+=====PAGE 26=====
+26 
+ 
+Hệ số thay đổi hành khách (ηHK) 
+ηHK = LM/LHK 
+2.3 Nhóm chỉ tiêu tổng hợp 
+Năng suất phương tiện là chỉ tiêu phán ánh tổng hợp việc sử dụng phương tiện 
+Năng suất phương tiện là khối lượng hoặc lượng luân chuyển (hàng hóa hoặc hành khách) 
+mà một đơn vị phương tiện (hay một đơn vị trọng tải phương tiện) có thể thực hiện được trong 
+một đơn vị thời gian (có thể là ngày, giờ, tháng, năm…) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Đối với vận tải hành khách 
+Khối lượng vận chuyển 1 chuyến 
+ 
+QC = q.γ.ηhk (HK) 
+Thời gian một chuyến xe 
+ 
+tc = tlb + tdđ (giờ) 
+Năng suất một xe/giờ 
+           
+ 
+     
+ 
+ 
+ 
+ 
+WQgio-xe = Qc 
+tc 
+HK/giờ-xe 
+ LM  
+tc = tlb + tdđ 
+ =  VT  
++ tdđ  
+ LM + VT.tdđ 
+ =  
+VT  
+
+=====PAGE 27=====
+27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Năng suất tính cho lượng luân chuyển HK 
+ 
+∑P = ∑Q.LHK 
+ 
+ 
+ 
+Năng suất một ngày xe 
+ 
+WQngay-xe = WQgio-xe.TH (HK/xe-ngày) 
+ 
+WQngay-xe = WQgio-xe.TH (HK.Km/xe-ngày) 
+ 
+TH: Thời gian hoạt động trong ngày 
+Năng suất một tháng xe: 
+ 
+WQthang-xe = WQngay-xe.30.αVD (HK/xe-tháng) 
+ 
+WQthang-xe = WQngay-xe. 30.αVD (HK.Km/xe-tháng) 
+Năng suất năm xe: 
+ 
+WQnăm-xe = WQthang-xe.12 (HK/xe-năm) 
+ 
+WQnăm-xe = WQthang-xe. 365.αVD (HK/xe-năm) 
+ 
+WPnăm-xe = WPthang-xe.12 (HK.Km/xe-năm) 
+ 
+WPnăm-xe = WPthang-xe.365 αVD (HK.Km/xe-năm) 
+Tương tự đối với vận tải hàng hóa: 
+Năng suất của một tấn trọng tải trong một giờ xe hoạt động 
+WQ = VT x  x  / ( lch + VT x  x txd)                 (Tấn/ Tấn xe - giờ) 
+= 
+WQgio-xe 
+q.γ.ηhk 
+LM + VT.tdđ 
+VT 
+q.γ.ηhk.VT 
+LM + VT.tdđ 
+= 
+(HK/xe-giờ) 
+(HK.Km/xe – giờ) 
+WQgio-xe 
+q.γ.ηhk.VT.LHK 
+LM + VT.tdđ 
+= 
+
+=====PAGE 28=====
+28 
+ 
+ WP = VT x  x  x lhh / ( lch + VT x  x txd )       (T.Km/ Tấn xe - giờ) 
+Năng suất của một  xe trong 1h xe hoạt động 
+WQ 
+= qxVT x  x  / ( lch + VT x  x txd)      (Tấn/xe - giờ) 
+WP 
+= qxVT x  x  x lhh / ( lch + VT x  x txd)        (T.Km/xe - giờ) 
+Ý nghĩa các loại năng suất: Năng suất được tính cho một đơn vị trọng tải hoặc một đơn vị 
+thời gian nhằm mục đích tạo ra khả năng có thể so sánh được năng suất của các doanh nghiệp, 
+của các loại phương tiện có trọng tải khác nhau hoạt động trong các điều kiện khác nhau 
+Ví dụ: Một doanh nghiệp vận tải hàng hóa bằng ô tô có các thông tin sau: 
+- 
+Số xe có: 30 xe trọng tải 10 tấn và 10 xe trọng tải 15 tấn 
+- 
+Nhiệm vụ được giao vận chuyển 20 triệu TKm/năm. 
+Các chỉ tiêu khai thác – kỹ thuật bình quân: γ = 0.85; αVD = 0.8; β = 0.75; txd = 0.5h/T; 
+Zc = 2 chuyến/ngày; Lnđ = 200 Km. 
++ Tính năng suất phương tiện bình quân của 1 tấn trọng tải trong 1 giờ, trong 1 ngày, trong 
+tháng 
++ Tính năng suất phương tiện bình quân của 1 xe trong 1 ngày, 1 tháng, 1 năm 
++ Xác định  nhu cầu phương tiện cần thiết để vận chuyển hết nhiệm vụ được giao 
+ 
+ 
+
+=====PAGE 29=====
+29 
+ 
+PHẦN 4 TỔ CHỨC VẬN TẢI HÀNH KHÁCH BẰNG Ô TÔ 
+ 
+1. Một số khái niệm có liên quan 
+- Tuyến vận tải khách: là tuyết được xác định để xe ô tô khách vận chuyển khách từ 
+một bến xe thuộc địa danh này đến một bến xe thuộc địa danh khác 
+- Hành trình chạy xe: là tuyến vận tải khách được xác định cụ thể, có quy định điểm 
+đi, điểm đến và các điểm dừng, đỗ để xe ô tô vận tải khách thực hiện trong một chuyến 
+xe 
+- Lịch trình chạy xe: của một chuyến xe vận chuyển khách là thời gian được xác định 
+cho một hành trình chạy xe từ khi xuất phát đến khi kết thúc chuyến xe 
+- Biểu đồ chạy xe trên một tuyến vận tải khách: là tổng hợp các lịch trình chạy xe 
+của các chuyên xe vận tải khách tham gia khai thác trên tuyến trong một thời gian nhất 
+định 
+- Kinh doanh vận tải khách bằng ô tô: là việc sử dụng xe ô tô để vận chuyển khách 
+có thu tiền 
+- Doanh nghiệp vận tải: là các đơn vị kinh doanh vận tải được thành lập theo luật 
+doanh  nghiệp, luật hợp tác xã 
+- Vận tải hành khách theo tuyến cố định: là vận tải khách theo tuyến có bến đi, bến 
+đến là bến xe khách và xe chạy theo hành trình, lịch trình quy định 
+- Vận tải hành khách công cộng bằng xe buýt: là hoạt động vận tải khách bằng ô tô  
+theo tuyến cố định có các điểm dừng đón, trả khách và xe chạy theo biểu đồ vận hành 
+- Vận tải hành khách quốc tế: việc vận chuyển hành  khách kể cả khách du  lịch giữa 
+hai nước được thực hiện bằng phương tiện theo hình thức vận chuyện từ nơi hành khách 
+đi tới nơi hành khách đến giữa 2 quốc gia. Phương tiện vận chuyển theo tuyến xuất pháp 
+và kết thúc tại bến xe theo quy định 
+2. Một số công tác tổ chức vận tải hành khách bằng ô tô 
+ 
+ 
+ 
+ 
+
+=====PAGE 30=====
+30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Điều tra luồng hành khách 
+- Luồng khách hàng: là số lượng hành khách theo một hướng, luồng hành khách có thể là 
+luồn hành  khách thường xuyên hoặc luồng hành khách không thường xuyên, luồng hành khách 
+một chiều hoặc hai chiều 
+- Luồng hành khách phản ánh số lượng hành khách theo từng đoạn và cả hành trình trong 
+một đơn vị thời gian 
+3.1  Quy luật biến động luồng hành khách: 
++ Quy luật biến động luồng hành khách theo thời gian: Biến  động theo  ngày trong tuần 
+và theo tháng trong năm (Ở các đô thi, biến động luồng hành khách theo giờ trong ngày) 
++ Quy luật biến động luồng hành khách theo không gian: Biến động luồng hành khách theo 
+không gian thể hiện rõ nét với luồng hành khách trong thành phố 
+- Để tổ chức vận tải hành khách hợp lý và nâng cao hiệu quả sử dụng phương tiện cần phải 
+nghiên cứu một cách có hệ thống sự biến động của luồng hành  khách theo không gian và 
+thời gian của các hành trình 
+3.2  Phương pháp điều tra luồng hành khách: 
+- 
+Phương pháp điều tra mặt cắt 
+- 
+Phương pháp phát thẻ 
+- 
+Phương pháp điều tra bảng ghi 
+- 
+Phương pháp điều tra bằng mắ 
+ 
+
+=====PAGE 31=====
+31 
+ 
+3.3 Lập hành trình chạy xe 
+- Công tác lập hành trình vận chuyển là công tác lập đường đi của phương 
+tiện để thực hiện nhiệm vụ vận tải, chuyển động của xe từ điểm  đầu đến điểm cuối của hành 
+trình (chuyến). 
+- Quãng đường chạy xe theo hành trình từ điểm đầu đến điểm cuối và quay trở về điểm 
+đầu gọi là vòng. 
+- Hành trình được đặc trưng bởi điểm đầu điểm cuối và số lượng điểm đỗ 
+- Công tác lập hành trình chạy xe có ý nghĩa quan trọng, tạo điều kiện để tăng hệ số sử 
+dụng quãng đường, tăng năng suất phương tiện, xác định hành trình vận chuyển hợp lý. 
+3.4  Lập hành trình chạy xe 
+- Công tác lập hành trình vận chuyển là công tác lập đường đi của phương tiện 
+để thực hiện nhiệm vụ vận tải, chuyển động của xe từ điểm đầu đến điểm cuối của hành trình 
+(chuyến). 
+- Quãng đường chạy xe theo hành trình từ điểm đầu đến điểm cuối và quay trở về điểm 
+đầu gọi là vòng. 
+- Hành trình được đặc trưng bởi điểm đầu điểm cuối và số lượng điểm đỗ. 
+- Công tác lập hành trình chạy xe có ý nghĩa quan trọng, tạo điều kiện để tăng hệ số sử 
+dụng quãng đường, tăng năng suất phương tiện, xác định hành trình vận chuyển hợp lý. 
+3.5  Yêu cầu đối với hành trình chạy xe 
+- Hành trình chạy xe cần phải phối hợp với các phương thức vận tải khác. 
+- Hành trình khi thiết lập đảm bảo thuận tiện cho hành khách sao cho thời gian đi lại là nhỏ 
+nhất và phù hợp với tốc độ giao thông, an toàn giao thông đảm bảo hiệu quả sử dụng phương 
+tiện. 
+- Các hành trình cần phải đi qua các điểm thu hút hành khách lớn như: Các trung tâm thành 
+phố huyện lị đi qua, các trung tâm chợ khu đông dân cư... 
+- Điểm đầu, điểm cuối của hành trình là bến xe khách. 
+3.6  Quy trình lập hành trình chạy xe 
+- Xác định điểm đầu, cuối 
+- Xác định lộ trình vận chuyển 
+- Xác định điểm dừng đỗ 
+- Kiểm tra sự phù hợp của hành trình 
+3.7  Lựa chọn và bố trí phương tiện 
+3.7.1 Mục đích: Tận dụng hết công suất động cơ, phù hợp điều kiện khai  thác, nâng cao 
+năng suất phương tiện, giảm chi phí, giảm giá thành sản phẩm. Mục đích cuối cùng là nâng cao 
+chất lượng phục vụ hành khách, nâng cao hiệu quả sản xuất kinh doanh vận tải của doanh nghiệp 
+
+=====PAGE 32=====
+32 
+ 
+3.7.2 Lựa chọn phương tiện và bố trí phương tiện vào hành trình bao gồm hai bước: Lựa chọn 
+sơ bộ và lựa chọn chi tiết. 
+-Lựa chọn sơ bộ phương tiện: 
++  Mục đích của lựa chọn sơ bộ: Lựa chọn được mác, kiểu xe phù hợp nhất với điều kiện 
+khai thác trên tuyến 
++ Căn cứ để lựa chọn sơ bộ: 
+ Điều kiện vận tải 
+ Điều kiện đường sá 
+ Điều kiện thời tiết khí hậu 
+ Điều kiện về hành khách 
+ Điều kiện phương tiện 
+-Lựa chọn chi tiết phương tiện: 
++ Mục đích của lựa chọn chi tiết: Sau khi tiến hành lựa chọn sơ bộ phương tiện doanh  
+nghiệp sẽ chọn ra được một số loại xe phù hợp với các điều kiện khai thác vận tải trên tuyến đó 
+có hiệu quả nhất 
++ Căn cứ để lựa chọn chi tiết: 
+ Năng suất phương tiện 
+ Chi phí nhiên liệu 
+ Giá thành vận chuyển 
+ Vốn đầu tư phương tiện 
+ Doanh thu, lợi nhận 
+3.8  Xác định chỉ tiêu khai thác kỹ thuật 
+- Nhóm chỉ tiêu về phương tiện: Tổng số xe có, tổng số xe tốt, tổng số xe vận doanh 
+- Nhóm chỉ tiêu về trọng tải (sức chứa): Trọng tải thiết kế, trọng tải thực tế,  hệ số lợi dụng 
+trọng tải,… 
+- Nhóm chỉ tiêu về quãng đường: Chiều dài hành trình, số lượng các điểm dừng đỗ dọc 
+đường, khoảng cách bình quân giữa các điểm dừng đỗ, cự ly đi lại bình quân hành khách, hệ số 
+thay đổi hành  khách trên tuyến. 
+- Nhóm chỉ tiêu về thời gian: Thời gian mở tuyến, thời gian đóng tuyến, thời gian dừng đỗ, 
+thời gian lăn bánh, thời gian 1 chuyến, thời gian 1 vòng xe, thời gian làm việc trong ngày của 
+phương tiện, giãn cách chạy xe 
+- Nhóm chỉ tiêu về vận tốc:  Vận tốc kỹ thuật, vận tốc lữ hành, vận tốc khai thác 
+- Nhóm chỉ tiêu về NSPT  
+
+=====PAGE 33=====
+33 
+ 
+- 
+ 
+ 
+ 
+
+=====PAGE 34=====
+34 
+ 
+ 
+Bảng tổng hợp chi tiêu Kinh tế - Kỹ thuật 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.9  Xây dựng thời gian biểu và biểu đồ chạy xe 
+3.9.1 Mục đích của việc xây dựng thời gian biểu và biểu đồ chạy xe 
+- Thời gian biểu và biểu đồ chạy xe có tác dụng cho việc tổ chức quản  lý phương tiện, 
+lái xe, nâng cao hiệu quả và chất lượng công tác của phương tiện vận tải hành khách hoạt động 
+theo hành trình và thông tin cho hành khách biết. 
+- Thời gian biểu chạy xe là những tài liệu định mức cơ bản về tổ chức công tác vận tải 
+của phương tiện hoạt động theo hành trình. 
+- Thời gian biểu chạy xe không những có tác dụng trong việc tổ chức chạy xe (liên quan 
+tới lái xe, phụ xe, bán vé, điều độ, trạm, bến) mà còn có tác dụng cho các bộ phận phục vụ kỹ 
+thuật, vật tư (bảo dưỡng,  sửa chữa, vật tư, nhiên liệu), bộ phận kiểm tra xe hoạt động trên đường 
+cho hành khách. 
+- Biểu đồ chạy xe khác nhau giữa ngày làm việc và ngày nghỉ. Những hành trình hoạt 
+động liên tục trong năm cũng phải lập riêng. 
+- Hình thức thể hiện thời gian biểu hay biểu đồ chạy xe ở dạng bảng hay dạng biều đồ cho 
+từng hành trình cụ thể sau đó dựa vào yêu cầu của tổ chức quản lý và phục vụ hành khách để 
+
+=====PAGE 35=====
+35 
+ 
+lập. 
++ Thời gian đi, đến ở trạm đầu, cuối (điều độ) 
++ Thời gian làm việc của lái xe (quản lý lái xe) 
++ Thời gian biểu để thoong tin cho hành khách biết ở bến đầu, cuối, dọc đường (bản chỉ 
+dẫn cho hành khách) 
+3.9.2 Các số liệu cần thiết khi lập biểu đồ và thời gian biểu chạy xe 
+- Chiều dài hành trình, chiều dài giữa các điểm đỗ 
+- Tốc độ kỹ thuật cho từng đoạn (giữa hai điểm đỗ), thay đổi theo giờ trong ngày (nếu xác 
+định được) 
+- Thời gian đỗ ở các điểm đỗ 
+- Thời gian một chuyến, một vòng, thời gian hoạt động trong ngày, thời gian và địa điểm 
+nghỉ  ngơi, ăn uống 
+- Quãng đường huy động 
+- Số lượng xe hoạt đồng trong ngày trên hành trình 
+ 
+Ví dụ về thời biểu chạy xe 
+ 
+ 
+ 
+
+=====PAGE 36=====
+36 
+ 
+ 
+Ví dụ về biểu đồ chạy xe 
+ 
+ 
+ 
+3.10 Tổ chức lao động cho lái xe 
+- Mục đích của tổ chức lao động cho lái xe 
++ Sử dụng lao động lái xe một cách hợp lý, phù hợp với điều kiện tổ chức, kỹ thuật, tâm 
+sinh lý của người lái xe nhằm không ngừng nâng cao sức lao động. 
++ Bồi dưỡng cho lái xe có trình độ về văn hóa, kỹ thuật, chuyên môn nghiệp vụ và đặc biệt 
+là đảm bảo mức sống vật chất tinh thần của người lái xe nhằm tái sản xuất mở rộng sức lao động 
+và phát triển toàn diện con người. 
+- Yêu cầu khi tổ chức lao động cho lái xe 
++ Tổng số thời gian làm việc trong 1 tháng bằng quy định về thời gian lao động do Nhà 
+nước quy định. 
++ Độ dài ca làm việc không nên lớn hơn 10 giờ trong một ngày đối với buýt nội tỉnh và 
+thành phố, không nên lớn hơn 12 giờ đối với tuyến liên tỉnh. 
++ Thời gian chuẩn bị và kết thúc ca làm việc: từ 15- 20 phút. 
++ Để tạo điều kiện thuận lợi cho lái xe thông thường ổn định lái xe trên tuyến và lái xe 
+được bố trí theo nốt (chuyến) cụ thể trong tháng. 
++ Tổ chức lao động cho lái xe và tổ chức chạy xe cho các  ngày nghỉ tết, lễ theo chế độ 
+phục vụ công cộng của Nhà nước quy định 
+- 
+Nội dung công tác tổ chức lao động cho lái xe 
++ Hình thành cơ cấu lao động lái xe tối ưu cho doanh nghiệp 
++ Sử dụng hợp lý và tiết kiệm sức lao động 
+
+=====PAGE 37=====
+37 
+ 
++ Đảm bảo yếu tố vật chất cho lái xe 
++ Tổ chức làm việc hợp lý, tăng cường công tác an toàn và bảo hộ lao động 
++ Đào tạo bồi dưỡng nâng cao trình độ lái xe 
+- Hình thức tổ chức lao động cho lái xe 
++ Lái xe và nhân viên bán vé được tổ chức lao động làm hai ca trong một ngày, giờ bắt đầu 
+và giờ kết thúc một ca còn phụ thuộc vào giờ kết thúc một ca còn phu thuộc vào từng tuyến hoạt 
+động cũng như từng nốt xe chạy 
++ Hiện nay hầu hết các doanh nghiệp vận tải đều áp dụng hình thức khoán cho lái xe. Có 
+thể là: 1 xe 1 lái, 1 xe 2 lái hoặc tổ chức cho lái xe làm việc theo ca 
+3.11 Công tác tổ chức thực hiện tác nghiệp 
+- Đưa xe ra hoạt động: Việc lập biểu đồ đưa xe ra hoạt động là công đoạn cuối cùng 
+của công tác vận tải. Khi phương tiện hoạt động cần phải đảm bảo yêu cầu sử dụng xe có hiệu 
+quả, nâng cao chất lượng phục vụ hành khách. 
+- Các căn cứ lập biểu đồ đưa xe ra hoạt động 
++ Nhu cầu vận chuyển hành khách theo không gian, thời gian và theo chiều 
++ Các điểm, trung tam thu hút khoois lượng hành khách lớn 
++ Số lượng xe có và số lượng xe tốt đã chọn để hoạt động trên hành trình 
++ Thời gian hoạt động bình quân của các xe trong ngày 
++ Tổ chức phù hợp cho lái xe 
+- 
+Trước khi đưa xe ra hoạt động cần: 
++ Kiểm tra tình trạng kỹ thuật của phương tiện 
++ Cấp nhiên liệu 
++ Cấp lệnh vận chuyển 
+- Sau đó đưa ra hoạt động theo thời gian biểu và biểu đồ chạy xe 
+- Quản lý hoạt đồng của xe trên đường 
+Việc quản lý hoạt động phương tiện nhằm mục đích nắm bắt tình hình hoạt động thực tế 
+của hoạt động thực tế của phương tiện, kiểm tra giám sát việc thực hiện có đúng với kế hoạch 
+đã lập ra hay không 
++ Chạy đúng hành trình không 
++ Đón và trả khách đúng thời gian và địa điểm không 
++ Trước khi xuất bến phải  kiểm tra số lượng hành khách, sắp xếp hành lý trên xe 
++ Kiểm tra giây phép và lệnh vận chuyển 
++ Kiểm tra việc thực hiện đúng giờ, đúng xe, đúng nốt không? và có bổ nốt tùy tiện không? 
+Trên thực tế có hình thức quản lý tập trung là hình thức quản lý chặt chẽ nhất. Doanh  
+nghiệp vận tải chỉ giao xe cho lái xe khi nhận hợp đồng vận chuyển, khi hết vận chuyển vận 
+
+=====PAGE 38=====
+38 
+ 
+chuyển thì xe lại được trả về cho doanh nghiệp và do doanh  nghiệp quản lý. 
+ 
+ 
+
+=====PAGE 39=====
+39 
+ 
+PHẦN 5 TỔ CHỨC VẬN TẢI HÀNG HÓA BẰNG Ô TÔ 
+ 
+1.  Một số khái niệm có liên quan 
+1.1. Hàng hóa:  là sản phẩm lao động của xã hội thỏa mãn nhu cầu nào đó của con người, được 
+đưa ra trao đổi và mua bán trên thị trường. 
+1.2. Vận tải hàng hóa: Là quá trình thay đổi (di chuyển) vị trí của hàng hóa trong không gian 
+và thời gian nhằm thỏa mãn nhu cầu nào đó của con người. 
+1.3. Hàng hóa vận tải: Hàng hóa trong vận tải là tất cả các loại nguyên vật liệu, bán thành phẩm, 
+thành phẩm tiếp nhận sự di chuyển từ nơi này đến nơi khác. Nói như vậy ta hiểu hàng hóa trong 
+vận tải rất đa dạng về giá trị, tính chất, kích thước, trọng lượng, thậm chí về ý nghĩa của chúng 
+đối với nền kinh tế của đất nước cũng khác nhau. 
+1.4  Khối lượng, lượng luân chuyển hàng hoá: KL hàng được vận chuyển trong một thời gian 
+là tổng lượng hàng được vận chuyển trong thời gian đó tính bằng tấn (viết tắt là T). KL hàng 
+này được phương tiện chuyên chở đi một khoảng cách nhất định. Tích số của khối lượng hàng 
+với khoảng cách vận chuyển là lượng luân chuyển hàng hoá (TKm). 
+1.5 Luồng hàng: Sự giao lưu hàng hoá giữa các khu vực với nhau tạo thành luồng hàng, luồng 
+hàng là số lượng tấn hàng được vận chuyển theo một chiều, trong vận tải hàng hoá quy ước chiều 
+của luồng hàng là chiều nào có khối lượng hàng hoá lớn hơn gọi là chiều thuận (chiều đi), chiều 
+nào có khối lượng hàng hoá nhỏ hơn gọi là chiều ngược (chiều về). 
+1.6  Công suất luồng hàng: Khối lượng hàng vận chuyển qua một mặt cắt trong một đơn vị 
+thời gian gọi là công suất luồng hàng. Cường độ vận chuyển là số tấn hàng chuyên chở qua một 
+kilômét của tuyến đường trong một đơn vị thời gian. Cường độ vận chuyển quyết định cường 
+độ vận hành tức là số lượng xe ô tô chạy qua trong đơn vị thời gian đó. 
+1.7  Vận chuyển lặp: Một sản phẩm có thể được vận chuyển nhiều lần, ví dụ vận chuyển sản 
+phẩm từ nhà máy đến tổng kho phân phối, rồi lại vận chuyển từ tổng kho phân phối đến các đại 
+lý bán lẻ. Như vậy chỉ một tấn sản phẩm của nhà máy sản xuất ra nhưng qua hai lần vận chuyển 
+như trên thì vận tải được tính hai lần khối lượng vận chuyển là 2 tấn. Việc  vận chuyển 
+nhiều lần một khối lượng sản phẩm từ nơi sản xuất đến nơi tiêu thụ được gọi là vận chuyển 
+lặp. 
+2 Phân loại hàng hóa 
+2.1 Phân loại theo bao bì: Tất cả các loại hàng được chia thành  hàng có bao gói và hàng không 
+có bao gói 
+
+=====PAGE 40=====
+40 
+ 
+2.2 Phân loại theo kích thước:  bao gồm hàng bình thường và hàng quá khổ 
+2.3 Phân loại theo tính chất hàng hóa: 
+- Tính chất hàng hóa vận chuyển được phân loại theo các nhóm sau: 
++ Nhóm 1: Bao gồm các hàng hóa dễ cháy, dễ vỡ, chất nổ, nguy hiểm,…. 
++ Nhóm 2: Hàng chóng hỏng là những hàng thực phẩm tươi sống, chống hư theo thời gian 
+và nhiệt độ không khí 
++ Nhóm 3: Hàng lỏng là những loại hàng chất lỏng như: xăng dầu và các chất lỏng khác 
++ Nhóm 4: Hàng có kích thước và trọng lượng lớn đó là những loại hàng dài và những loại 
+hàng có trọng lượng lớn, kích thước quá khổ 
++ Nhóm 5: Hàng rời là những hàng hóa rời không có bao bì được đổ đống như cát, đá, 
+sỏi,…. 
++ Nhóm 6: Hàng thông dụng là hàng bao gồm những loại hàng còn lại không thuộc 5 nhóm 
+đã nêu trên. 
+- Phân loại theo tính chất nguy hiểm chia hàng hóa ra làm 7 loại 
++ Loại 1: Hàng ít nguy hiểm như vật liệu xây dựng, hàng bách hóa, hàng thương nghiệp….. 
++ Loại 2: Hàng dễ cháy như xăng, đồ nhựa….. 
++ Loại 3: Xi  măng, nhựa đường, vôi,… 
++ Loại 4: Chất lỏng dễ gây bỏng như a xít, kiềm, xút,…. 
++ Loại 5: Khí đốt trong các bình chứa vừa dễ cháy, dễ nổ. 
++ Loại 6: Hàng nguy hiểm về kích thước, trọng lượng (quá dài, quá nặng, quá rộng, quá 
+cao) 
++ Loại 7: Chất độc, chất phóng xạ, chất nổ. Khi vận chuyển các loại hàng nguy hiểm phải 
+có những quy định cụ thể 
+- Phân loại theo tính chất vật lý hàng hóa chia ra 3 loại: hàng thể rắn, thể lỏng và thế khí 
+- Phân loại theo tỷ trọng của hàng hóa: 
++ Loại 1: Gồm những loại hàng đảm bảo sử dụng 100% trọng tải 
+phương tiện 
++  Loại 2: Gồm những loại hàng đảm bảo sử dụng từ 71-99% (trung bình tính là 80%) trọng 
+tải phương tiện 
++ Loại 3: Gồm những loại hàng đảm bảo sử dụng từ 51-70% (trung bình tính là 60%) trọng 
+tải phương tiện 
++ Loại 4: Gồm những hàng hóa đảm bảo hệ số sử dụng trọng tải xe nhỏ hơn 40% (trung 
+bình tính là 40%) 
+3 Yêu cầu vận tải đối với một số loại hàng 
+3.1 Hàng lỏng – khô (theo tính chất vật lý): 
+
+=====PAGE 41=====
+41 
+ 
+- Về nguyên tắc đối với hàng hóa, nếu không có bao bì thì phải sử dụng xe chuyên dụng 
+(xitec). Các loại hàng này trong quá trình vận chuyển không có yêu cầu gì đặc biệt trừ một số  
+loại hàng lỏng nguy hiểm như xăng, dầu khi vận chuyển phải hạn chế tốc độ 
+- Các loại hàng khô rất đa dạng, các loại hàng khô không có yêu cầu đặc biệt trong quá 
+trình vận chuyển trừ một số hàng có yêu cầu cần bảo quản 
+3.2 Hàng dễ vỡ - hàng dễ cháy nổ: 
+- Đối với hàng dễ vỡ: quy định đối với các hàng hoá này phải có bao bì và các bao bì có 
+dán các nhãn hiệu chuyên dụng. Phải dùng vật liệu lót đệm giữa các lớp hàng để hạn chế va đập, 
+chấn động. Có nhiều loại vật liệu để đệm lót các loại này có thể quy định cụ thể cho từng khu 
+vực hay từng quốc gia. 
+- Loại hàng dễ cháy nổ đây là loại hàng nguy hiểm trong quá trình vận chuyển xếp dỡ phải 
+hết sức cẩn thận, quá trình vận chuyển phải chạy với tốc độ thấp, xếp hàng không được 
+xếp với khối lượng lớn (không đủ tải), không được đi từng xe một mà phải đi thành một 
+đoàn với một khoảng cách an  toàn. 
+3.3 Hàng rời – hàng đổ đống: 
+Thông thường các loại hàng này là những loại hàng không nguy hiểm, có thể tạo điều kiện 
+cơ giới hoá xếp dỡ. Đối với hàng rời trong quá trình vận chuyển có thể không có bao bì. Nhưng 
+đặc biệt đối với hàng lương thực phải có bao bì để đảm bảo chất lượng và hạn chế hao hụt 
+3.4 Hàng thùng chứa (container) là những loại hàng xếp trong container: 
+ 
+Việc xếp hàng trong container có yêu cầu rất khắt khe. Thông thường container được sử 
+dụng nhiều lần trong quá trình vận chuyển bằng đường biển. Thời gian vận chuyển dài do đó có 
+sự chênh lệch nhiệt độ rất lớn cho nên hàng trong container có hiện tượng điểm sương làm ảnh 
+hưởng đến chất lượng hàng hoá. 
+4. Nội dung công tác tổ chức vận tải hàng khách bằng tô tô 
+
+=====PAGE 42=====
+42 
+ 
+ 
+ 
+5. Điều tra khai thác luồng hàng 
+Công tác điều tra xác minh hàng hóa là bước đầu tiền trong công tác tổ chức vận tải hàng 
+hóa. Công tác này giúp xác định được: 
+- Khối lượng hàng hóa, loại hàng 
+- Chủ hàng giao nhận, khoảng cách vận chuyển 
+- Thời gian giao nhận hàng hóa và các yếu cầu trong vận chuyển: Yêu cầu về thời gian, 
+yêu cầu về cách bảo quản hàng hóa. 
+Các thông tin này phục vụ công tác tiếp theo, đặc biệt là công tác lựa chọn phương tiện, 
+lập hành trình vận chuyển 
+Sau khi điều tra hàng hóa chủ hàng (có thể chủ hàng giao hoặc chủ hàng nhận) và bên vận 
+tải tiến hành hợp đồng vận chuyển 
+6. Ký kết hợp đồng vận chuyển 
+- Hợp đồng vận chuyển hàng hóa là sự thỏa thuận bằng văn bản giữa hai bên vận tải và bên 
+thuê vận tải. Theo đó, bên vận tải có nghĩa vụ vận chuyển một số lượng hàng hóa nhất  định đến 
+địa điểm đã ấn dịnh đúng thời gian và không gian giao hàng cho người nhận hàng. Còn bên thuê 
+vận chuyển có nghĩa vụ phải trả cho bên vận tải một khoản tiền công gọi  là cước phí vận chuyển. 
+- Ký kết hợp đồng vận chuyển: sẽ do chủ hàng và chủ phương tiện ký kết sau khi đã điều 
+tra xác minh hàng hóa và  thống nhất với nhau. 
+7. Lập hành trình vận chuyển 
+7.1 Hành trình chạy xe 
+- Hành trình chạy xe là đường chạy kép kín của xe để thực hiện nhiệm vụ vận tải 
+
+=====PAGE 43=====
+43 
+ 
+- Do tính chất và đặc điểm của nhiệm vụ vận tải khác nhau, kiểu xe khác nhau nên giữa 
+điểm giao nhận hàng hoá, hành trình của xe để hoàn thành nhiệm vụ vận tải cũng khác nhau. 
+Đặc biệt là trong thành phố, điểm giao nhận nhiều, mạng lưới đường sá phức tạp càng dễ thấy 
+hiện tượng này 
+- Khi xe chạy trên những hành trình khác nhau sẽ đạt được những chỉ tiêu công tác khác 
+nhau vì thế việc chọn hành trình chạy xe là rất cần thiết 
+7.2. Hành trình con thoi 
+Hành trình con thỏi là hành trình vận chuyển hàng hóa mà phương tiện vận chuyển giữa hai 
+điểm trên cùng một trục. Hành trình con thoi có 3 loại: 
+7.2.1 Con thoi có hàng một chiều: Trên tuyến AB xe xếp hàng ở điểm A vận chuyển đến hàng 
+B dỡ hàng sau đó xe chạy rỗng (chạy không hàng) về B 
+ 
+ 
+ 
+ 
+ 
+Các chỉ tiêu công tác chủ yếu của xe chạy hành trình bao gồm: 
+- Quãng đường có hàng: Lch = LAB 
+- 
+Chiều dài hành chình: LM = 2* LAB 
+- Số chuyến có hàng trên hành trình bằng số lần xếp dỡ hàng: n=1 
+- 
+Thời gian xe chạy một chuyến có hàng: tch = tLB + tXD 
+- Thời gian xe chạy 1 vòng: 
+ 
+ 
+tv =2*tLB + tXD  
+ 
+7.2.2 Con thoi có hàng hai chiều: 
+ 
+ 
+ 
+ 
+ 
+ 
+Trên tuyến AB xe xếp hàng tại A, vận chuyển hàng đến B dỡ hàng, sau đó tại B xe xếp loại 
+hàng khác lên xe vận chuyển hàng về A dỡ hàng kết thúc hành trình vận chuyển. Trên hành trình 
+này xe chạy cả hai chiều đều có hàng, đây là loại hành trình hợp lý nhất, năng suất vận chuyển 
+
+=====PAGE 44=====
+44 
+ 
+cao nhất 
+Các chỉ tiêu công tác chủ yếu của xe chạy trên hành trình: 
+- 
+Quãng đường có hàng: Lch = 2 * LAB 
+- 
+Chiều dài hành trình: LM = 2 * LAB 
+- Số chuyến có hàng trên hành trình bằng số lần xếp dỡ hàng: n=2ư 
+- Thời gian xe chạy một vòng:  
+ 
+ 
+ 
+7.2.3 Con thoi một phần đường về có hàng: 
+ 
+ 
+ 
+ 
+ 
+ Trên tuyến AB chiều đi xe xếp hàng tại điểm A vận chuyển hàng đến B dỡ hàng, chiều 
+về có các trường hợp sau: Xe xếp hàng tại B vận chuyển hàng đến điểm C trên đường về trả hàng 
+tại C; xe chạy không hàng đến C xếp hàng tại C vận chuyển hàng đến A trả hàng; xe chạy không 
+hàng đến C xếp hàng vận chuyển đến điểm D trả hàng. Hành trình này gọi là hành trình con 
+thoi một phần đường về có hàng 
+ 
+Các chỉ tiêu công tác chủ yếu của xe chạy trên hành chình: 
+- Quãng đường có hàng: Lch = LAB + LBC 
+- Chiều dài hành trình: LM = 2 * LAB 
+- Số chuyến có hàng trên hành trình bằng số lần xếp dỡ hàng: n=2 
+- Thời gian một chuyến: 
+tcAB = txAB + tlbAB + tdAB = tlbAB +txdAB 
+tcBA = txBC + tlbBC + tdBC + tlbCA 
+- Thời gian xe chạy một vòng 
+ 
+ 
+ 
+7.3 Hành trình đường vòng 
+Nếu có  nhiều điềm giao nhận hàng hóa trên một đường mà xe chạy tạo thành một đường 
+khép kín gọi là hành trình kiểu đường vòng. Do vị trí tương đối của các phương hướng vận tải 
+
+=====PAGE 45=====
+45 
+ 
+khác nhau nên hành trình đường vòng cũng có nhiều dạng khác nhau. 
+ 
+- Đường vòng đơn giản 
+ 
+ 
+ 
+ 
+- Đường vòng kiểu thu thập phân phối 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+7.4 Phương pháp lập hành trình vận chuyển 
+- Phương pháp bản đồ địa hình:  dựa trên sơ đồ địa lý tự nhiên để phân chia việc vận chuyển 
+hàng hóa. Phương pháp này đòi hỏi người vận chuyển cần sử dụng thành thạo bản đồ địa lý. 
+Phương pháp này được áp dụng cho hàng hóa phân phối đều và có chu kỳ cho các vùng 
+- Phương pháp toán học: sử dụng các mô hình toán học quy hoạch tuyến tính để giải bài 
+toán vận tải. Ưu điểm của phương pháp này là độ chính xác rất cao, khoa học, giải thích 
+được tất cả các sơ đồ vận chuyển. Nhược điểm là khối lượng tính toán lớn, yêu cầu dữ liệu 
+đưa vào phải chính xác mới có kết quả chính xác 
+7.5 Phối hợp hoạt động giữa vận tải và xếp dỡ 
+- Nhịp làm việc của trạm xếp (hoặc dỡ) là thời gian để hai ô tô kế tiếp nhau xếp hoặc dỡ 
+xong dời khỏi trạm 
+ 
+ 
+ 
+- Khoảng cách thời gian chạy xe:  
+ 
+ 
+ 
+Trong đó:  R: nhịp làm việc của trạm xếp dỡ 
+
+=====PAGE 46=====
+46 
+ 
+  
+ 
+I: Khoảng cách thời gian chạy xe 
+  
+ 
+Xx(d): Số chỗ xếp (dỡ) trong trạm 
+  
+ 
+Av: Số xe đến trạm xếp hoặc dỡ 
+ 
+- Theo đẳng thức trên có thể xác định số lượng chỗ xếp hoặc dỡ cần thiết theo số lượng ô 
+tô hoạt động trên hành trình hoặc xác định số lượng ô tô hoạt động theo số chỗ xếp dỡ cho trước 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=====PAGE 47=====
+47 
+ 
+PHẦN 6  KẾ HOẠCH KINH DOANH 
+ 
+1. Khái niệm về kế hoạch 
+Kế hoạch là một bản dự kiến về mục đích nội dung cũng như phương thức và các điều kiện để 
+thực hiện một hoạt động nào đó của con người 
+Nguyên tắc của kế hoạch hóa: 
+- Đảm bảo tính khoa học và tính thực tiễn của kế hoạch 
+- Đảm bảo tính hiệu quả 
+- Đảm bảo tính toàn diện, cân đối và mang tính hệ thống cao 
+2. Phân loại kế hoạch 
+2.1 Theo tiêu thức thời gian: 
+- Kế hoạch ngắn  hạn (Kế hoạch tác nghiệp) 
+- Kế hoạch trung hạn ( Kế hoạch năm) 
+- Kế hoạch dài hạn (Từ 5 năm trở lên) 
+- Kế hoạch siêu dài hạn (Từ 15-20 năm) 
+2.2 Theo cấp quản lý: 
+- Kế hoạch phát triển chung của nền kinh tế quốc dân 
+- Kế hoạch ngành 
+- Kế hoạch của doanh nghiệp 
+2.3 Theo nội dung 
+- Kế hoạch sản xuất và tiêu thu sản phẩm vận tải 
+- Kế hoạch khai thác và quản lý kỹ thuật phương tiện 
+- Kế hoạch lao động – tiền lương 
+- Kế hoạch chi phí – gia thành của sản phẩm vận tải 
+- Kế hoạch đầu tưu xây dựng cơ ản 
+- Kế hoạch tài chính 
+- Kế hoạch ứng dụng khoa học kỹ thuật 
+3. Phương pháp xây dựng kế hoạch 
+3.1 Phương pháp cân đối 
+- Khái niệm:  Thực chất của cân đối là so sánh giữa nhu cầu và khả năng của doanh nghiệp về 
+một số hoạt động kinh doanh nào đó cũng như một loại nguồn lực nào đó. 
+- Thông thường các mối cân đối chủ yếu trong kế hoạch là: 
++ Cân đối giữa nhu cầu và khả năng về nguồn gốc các yếu tố đầu vào cho quá trình SXKD vận 
+tải (Đầu vào: nguyên, nhiên vật liệu, phụ tùng vật tư, phương tiện vận tải) 
++ Cân đối giữa năng lực sản phẩm kinh doanh của doanh nghiệp và khả năng tiêu thụ sản phẩm 
+
+=====PAGE 48=====
+48 
+ 
+vận tải trên thị trường. Đây là mối cân đối quan trọng nhất là cơ sở cho các mối cân đối khác 
+- Thông thường các mối cân đối chủ yếu trong kế hoạch là: 
++  Cân đối về mặt thời gian và không gian: Thời gian và không gian cũng được coi như là một 
+nguồn lực quan trọng để thực hiện các mục tiêu về kế hoạch của doanh nghiệp bởi vậy khi xác 
+định kế hoạch cần đặc biệt quan tâm đến mói cân đối này 
++ Về mặt thời gian cần cân đối giữa các mục tiêu lâu dài, trung, ngắn hạn còn về mặt không gian 
+vận tải cần cân đối giữa năng lực sản xuất và nhu cầu tối đa. 
+3.2 Phương pháp phân tích tính toán 
+- Phương pháp này thường được sử dụng trong xây dựng kế hoạch trung và ngắn hạn bởi vì nó 
+đi sâu vào phân tích tính toán các chỉ tiêu cụ thể của kế hoạch 
+-  Thông thường khi sử dụng phương pháp này, người ta dùng các chỉ tiêu như chỉ số tăng bình 
+quân, tốc độ tăng trưởng bình quân để tính toán các chi tiểu 
+- Để tính toán cần xác định các nhân tố ảnh hưởng trong kỳ kế hoạch và lượng hóa các mức độ 
+ảnh hưởng của nó đến chi tiểu tính toán và bằng các phương pháp tính toán để xác định mức 
+độ đạt được của từng chỉ tiêu kế hoạch 
+3.3 Phương pháp toán thống kê 
+- Thường được dùng dể xây dựng kế hoạch trung và dài hạn, thực chất là sử dụng các mô hình 
+toán kinh tế được xây dựng trên cơ sở thu thập, xử lý số liệu thống kê qua nhiều năm 
+- Hai dạng mô hình sử dụng phổ biến là: 
+Hàm xu thế 
+Phân thích tương quan nhiều yếu tố (Mô hình hồi quy đa nhân tố) 
+F(x)=F(xi) 
+3.4 Phương pháp tương tự 
+- Bản chất của phương pháp tương tự là phát triển các hiện tượng đã xuất hiện vào các địa điểm 
+và thời gian khác nhưng với điều kiện là bản chất của hai hiện tượng là giống nhau 
+- Nói khác đi phương pháp này là sự vận động các hiện tưởng hay quá trình đã diễn ra ở không 
+gian, thời gian khác vào không gian và thời gian mà ta cần nghiên cứu. Phương pháp tương 
+tự có 3 dạng: 
++ Tương tự về hinh thức biểu hiện của hiện tượng 
++ Tương tự về bản chất của hiện tượng 
++ Tương tự về quy luật vận động của hiện tượng 
+- Ưu điểm: Phương pháp này có thể giải quyết vấn đề thiếu kinh nghiệm thực tế cũng như thiếu 
+thông tin 
+- Nhược điểm: Trong thực tế khó có thể tìm được các hiện tượng có  mực độ tương tự về bản 
+chất cũng như quy định luật vận động giống như hiện tượng ta càn nghiên cứu 
+
+=====PAGE 49=====
+49 
+ 
+PHẦN 7 TỔ CHỨC QUẢN LÝ KỸ THUẬT PHƯƠNG TIỆN 
+ 
+1. Mục đích, ý nghĩa và nội dung 
+Nâng cao hiệu quả sử dụng tính năng kỹ thuật của phương tiện trên cơ sở duy trì tình trạng 
+kỹ thuật phương tiện ở trang thái tối ưu, luôn sẵn sàng tham gia hoạt động vận tải. Ngòa ra còn 
+để duy trì và bảo toàn vốn và nâng cao hiệu quả sử dụng vốn phương tiên 
+2. Điều kiện khai thác kỹ thuật 
+- Điều kiện hàng hóa và hành khách vận chuyện 
+- Điều kiện đường xá, khí hậu 
+- Điều kiện về tổ chức và kỹ thuật 
+- Điều kiện kinh tế - xã hội 
+3. Nội dung quản lý kỹ thuật phương tiện 
+ 
+4. Tổ chức quản lý công tác bảo dưỡng sửa chữa 
+4.1 Mục đích 
+- Duy trì phương tiện trong tình trạng kỹ thuật tối ưu 
+- Hạn chế mức độ hao mòn phương tiện vận tải trong quá trình khai thác sử dụng 
+- Phục hồi các tính năng khai thác kỹ thuật phương tiện vận tải 
+- Ngoài ra còn nhằm nâng cao hệ số ngày xe tốt, tăng hiệu quả sử dụng tính năng khai thác kỹ 
+thuật phương tiện 
+- Công tác bảo dưỡng sửa chữa trong cơ chế thị trường luôn được xem xét trong mối quan hệ 
+giữa: Chất lượng kỹ thuật phương tiện – hiệu quả sử dụng phương tiện – chi phí để đạt được tình 
+trạng kỹ thuật đó 
+
+=====PAGE 50=====
+50 
+ 
+4.2 Ảnh hưởng của hoạt động bảo dưỡng sửa chữa 
+- Chất lượng khai thác phương tiện 
+- Hiệu quả sử dụng phương tiện 
+- Chất lượng sản phẩm vận tải và giá thành vận chuyển 
+Mục đích của việc tổ chức quản lý nhiệm vụ bảo dưỡng sửa chữa nhằm đảm bảo tình trạng kỹ 
+thuật phương tiện tối ưu với các hình thức tổ chức hợp lý  nhằm đạt hiệu quả tối đa với chi phí 
+cho bảo dưỡng sửa chữa là tối thiểu 
+4.3 Nội dung công tác bảo dưỡng sửa chữa 
+- Nghiên cứu đề xuất chế đội bảo dưỡng kỹ thuật và sửa chữa phương tiện phù hợp với loại 
+phương tiện cũng như điều kiện khai thác phương tiện thực tế ở doanh nghiệp 
+- Xác định nhiệm vụ bảo dưỡng sửa chữa của doanh nghiệp 
+- Nghiên cứu áp dụng hình thức tổ chức bảo dưỡng sửa chữa phù hợp và đạt hiệu quả cao gồm: 
++ Lựa chọn công nghệ bảo dưỡng sửa chữa 
++ Lựa chọn hình thức tổ chức lao động cho công nhân bảo dưỡng sửa chữa 
+- Kiểm tra, giám sát việc thực hiện nhiệm vụ và quản lý chất lượng bảo dưỡng sửa chữa 
+4.4 Xác định nhiệm vụ bảo dưỡng sửa chữa 
+Chế độ bảo dưỡng kỹ thuật và sửa chữa phương tiện: 
+- Quyết định 694/QĐ/KT4 ngày 20/03/1979 
+- Quyết định 992/2003/QĐ-BGTVT ngày 09/04/203 
+- Thông tư 53/2014/TT-BGTVT ngày 20/10/2014 
+4.5 Nhu cầu bảo dưỡng sửa chữa và các yếu tố ảnh hưởng 
+- Quy mô, cơ cấu và chất lượng đoàn phương tiện 
+- Điều kiện khai thác kỹ thuật phương tiện 
+- Mức độ và cường dộ khai thác phương tiện 
+- Phương pháp tổ chức và công nghệ bảo dưỡng sửa chữa cũng như trình độ trang thiết bị dùng 
+cho công tác bảo dưỡng sửa chữa 
+- Trình độ công nhân bảo dưỡng sửa chữa và chất lượng công tác tổ chức lao động cho công 
+nhân bảo dưỡng sửa chữa 
+4.6 Chỉ tiêu đánh giá nhu cầu bảo dưỡng sửa chữa 
+- Tổng số lần xe vào bảo dưỡng sửa chữa các cấp (lần cấp) 
+- Tổng giờ cong bảo dưỡng sửa chữa các cấp 
+- Tổng mức hao phí vật tư, phụ tùng cho bảo dưỡng sửa chữa các cấp 
+- Tổng chi phí cho công tác bảo dưỡng sửa chữa các cấp 
+4.7 Xác định nhu cầu bảo dưỡng sửa chữa  
+4.7.1 Căn cứ để xác định nhu cầu bảo dưỡng sửa chữa 
+
+=====PAGE 51=====
+51 
+ 
+- Chế độ bảo dưỡng sửa chữa theo quy định 
+- Các định mức tiêu hao vật tư, kỹ thuật và giờ công cho bảo dưỡng sửa chữa các cấp 
+- Kế hoạch khai thác phương tiện bao gồm: Điều kiện khai thác phượng tiên và tổng quãng 
+đường xe chạy theo kế hoạch 
+- Kết quả phân tích tình hình thực hiện công tác bảo dưỡng sửa chữa ở doanh nghiệp kỳ trước 
+- Các kết quả điều tra, khảo sát và các định mức có liên quan ở doanh nghiệp 
+4.7.2 Phương pháp xác định nhu cầu bảo dưỡng sửa chữa 
+- Phương pháp biểu đồ 
+- Phương pháp phân tích tính toán 
++ Xác định nhu cầu bảo dưỡng sửa chữa bằng phương pháp định ngạch 
+*Xác định số lần bảo dưỡng sửa chữa các cấp 
+ 
+ 
+ 
+ 
+ 
+Nhu cầu BD2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nhu cầu BD1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nhu cầu Bảo dưỡng thường xuyên (BDN) 
+ 
+ 
+ 
+ 
+*Xác định giờ công bảo dưỡng sửa chữa các cấp 
+ 
+ 
+ 
+BBDTX = NBDTX  x  tBDTX 
+
+=====PAGE 52=====
+52 
+ 
+  
+ 
+TBD-1 = NBD-1  x  tBD-1 
+  
+ 
+BBD-2 = NBD-2  x  tBD-2 
+Tổng giờ công sửa chữa thường xuyên được xác định trên cơ sở định mức giờ công sửa chữa 
+thường xuyên tính bình quân cho 1000 km xe chạy 
+ 
+ 
+ 
+ 
+ 
+*Xác định ngày xe nằm bảo dưỡng sửa chữa các cấp 
+ 
+ 
+ 
+ADSCL = NSCL x dSCL 
+ 
+ 
+ 
+ADBD-1 = NBD-1 x dBD-1 
+ 
+ 
+ 
+ADBD-2 = NBD-2 x dBD-2 
+Ngày xe nằm sửa chữa thường xuyên 
+ 
+ 
+ 
+*Tổng nhu cầu vật tư phụ tùng cho bảo dưỡng sửa chữa được xác định như sau: 
+ 
+VTBDSC = NBD-2 x VTBD-2 + NBD-1 x VTBD-1 + NBDTX x VTBDTX   
+ 
+*Xác định hệ số ngày xe tốt (T) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=====PAGE 53=====
+53 
+ 
+PHẦN 8 LẬP KẾ HOẠCH LAO ĐỘNG TIỀN LƯƠNG 
+1. Mục đích 
+- Lao động là một trong 3 yếu tố đầu vào của hoạt động sản xuất  kinh doanh của bất ký Doanh 
+nghiệp nào 
+- Công tác quản lý luôn gắn liên với công tác tổ chức lao động – tiền lương 
+- Làm tốt công tác lao động tiền lương sẽ góp phần nâng cao chất lượng và hiệu quả sử dụng 
+nguồn nhân lực 
+- Công tác lao động tiền lương gắn liền với lợi ích và tác động thường xuyên đến yếu tố con 
+người 
+2. Nội dung 
+- Nghiên cứu nhu cầu và đặc điểm của các loại lao động trong doanh nghiệp 
+- Nghiên cứu áp dụng các chính sách của Nhà nước đối với người lao động vào thực tế của 
+doanh nghiệp 
+- Nghiên cứu điều kiện lao động và đề xuất các hình thức tổ chức lao động hợp lý cho từng loại 
+lao động trong doanh nghiệp 
+- Xây dựng và áp dụng định mức lao động cho các loại lao động trong doanh nghiệp 
+- Đề xuất phương pháp đo năng suất lao động cho từng loại lao động, xây dựng và áp dụng các 
+biện pháp tăng năng suất lao động 
+- Nghiên cứu áp dụng các chính sách tiền lương của Nhà nước vào thực tế của doanh nghiệp 
+- Đề xuất hình thức trả lương, xây dựng phương án tiền lương và các biện pháp khuyến khích 
+vật chát trong doanh nghiệp 
+- Xây dựng và áp dụng các định mức, đơn giá tiền lương trong doanh nghiệp 
+- Lập kế hoạch lao động tiền lương 
+- Tổ chức thực hiện kế hoạch lao động tiền lương 
+- Kiểm tra phân tích đánh giá việc thực hiện công tác lao động tiền lương 
+3. Mối quan hệ giữa kế hoạch lao động – tiền lương 
+
+=====PAGE 54=====
+54 
+ 
+ 
+4. Phân loại và đặc điểm lao động trong Doanh nghiệp vận tải 
+4.1 Theo nghề nghiệp gồm 
+- Lái phụ xe 
+- Công nhân bảo dưỡng sửa chữa 
+- Nhân viên kỹ thuật 
+- Lao động quản lý 
+- Lao động khác 
+4.2 Theo trình độ 
+- Lao động đã qua đào tạo (Sau đại học, đại học, trung cấp) 
+- Lao động chưa qua đào tạo (Lao động phổ thông) 
+4.3 Theo tính chát tham gia vào hoạt động sản xuất kinh donah của Doanh nghiệp 
+- Lao động sản xuất chính 
+- Lao động sản xuất phụ 
+- Lao động gián tiếp 
+4.4 Theo chế độ sử dụng lao động 
+- Lao động trong biên chế 
+- Lao động theo hợp đồng dài hạn 
+- Lao động hợp đồng theo ngắn hạn 
+- Lao động thời vụ 
+
+=====PAGE 55=====
+55 
+ 
+- Đảm bảo điều kiện lao động cần thiết cho người lao động đặc biệt là các điều kiện an toàn và 
+bảo hộ lao động 
+- Đảm bảo chế độ nghỉ ngơi hợp lý 
+- Bảo đảm tiền lương cho  người lao động không thấp hơn mức tiền lương tối thiểu do Nhà 
+nước quy định 
+- Người sử dụng lao động (Đại diện là giám đốc doanh  nghiệp) có nghĩa vụ phải ký hợp đồng 
+lao động với từng cá nhân 
+5 Mục đích của tổ chức lao động 
+- Sử dụng lao động một cách hợp lý phù hợp với điều kiện tổ chức, kỹ thuật, tâm sinh lý người 
+lao đọng, nhắm không ngừng nâng cao sức lao động,  kết hợp chặt chẽ các yếu tốt và các nguồn 
+trong SXKD 
+- Bồi dưỡng cho người lao động có trình độ về văn hóa, kỹ thuật, chuyên môn nghiệp vụ và 
+đặc biệt là đảm bảo mức sống vật chất tinh thần của người lao động nhằm tái sản xuất mở rộng 
+sức lao động và phát triển toàn diện con người 
+6 Nội dung của tổ chức lao động 
+- Hình thành cơ cấp lao động tối ưu trong doanh nghiệp 
+- Sử dụng hợp lý và tiết kiệm sức lao động 
+- Đảm bảo yếu tốt vật chất và tinh thần cho lao động 
+- Tổ chức nơi làm việc hợp lý tăng cường công tác an toàn và bảo hộ lao động 
+- Đào tạo bồi dưỡng nâng cao trình độ nghiệp vụ 
+- Trên một phương diện khác tổ chức lao động được xét đến hai mặt 
++ Quản lý lao động về mặt hình chính nhân  (Yếu tố con người) 
++ Quản lý lao động về mặt sử dụng lao động (Bố trí sử dụng lao động hợp lý) 
+7 Tổ chức lao động 
+- Đối với lái xe: có thể áp dụng phương thức khoán cho lái xe: 1 xe 1 lái, 1 xe 2 lái hoặc tổ chức 
+cho lái xe làm việc theo ca 
+- Đối với thợ bảo dưỡng sửa chữa: Có thể bố trí lao động theo từng tổ, đội, nhóm công nhân 
+chuyên môn hóa theo mác xe, chuyên môn hóa theo từng bộ phần tổng thành của xe 
+- Đối với lao động gián tiếp: Tổ chức lao động theo các phòng ban nghiệp vụ, chuyên môn 
+8 Năng suất lao động 
+- Năng suất lao động là một tiêu chí phản ánh năng lực của một lao động cụ thể (Một tập thể 
+người lao động, một nhóm người lao động hoặc một người lao động) có thể sản xuất một số 
+lượng sản phẩm nhất định trong một đơn vị thời gian (giờ, ngày, tháng, năm…) 
+- Năng suất lao động xã hội: Phản ánh trình độ lao động bình quân của toàn xã hội, trong đó có 
+xét đến cả lao động sống cũng như lao động vật hóa 
+
+=====PAGE 56=====
+56 
+ 
+- Năng suất lao động cụ thể: Chỉ tính đến hao phí và hiệu suất sử dụng lao động sống ít tính 
+đến lao dộng vật hóa 
+- Một  cách khái quát chung, NSLĐ (Wlđ) được xác định như sau: 
+ 
+ 
+Wlđ  = Kết quả lao động/ Số lượng lao động 
+- NSLĐ tính bằng chỉ tiêu hiện vật: 
+ 
+ 
+Wlđ = Tổng số lượng Sản phẩm/ Số lượng lao động 
+- NSLĐ tính bằng chỉ tiểu hiện vận tính đổi: 
+ 
+ 
+Wlđ = Tổng số lượng sản phẩm tính đổi/ Số lượng lao động 
+- NSLĐ tính bằng chỉ tiêu giá trị: 
+ 
+ 
+Wlđ = Tổng doanh thu/ Số lượng lao động 
+8.1  Phương pháp xác định năng suất lao động kỳ kế hoạch 
+- Phương pháp thống kê (Còn gọi là phương pháp tương quan) 
+- Phương pháp tốc độ tăng trưởng bình quân 
+- Phương pháp giả định 
+8.2 Phương pháp xác định nhu cầu lao động 
+- Phương pháp định biên 
++ Đây là phương pháp xác định nhu cầu lao động được sử dụng phổ biến hiện nay 
++Bản chất của phương pháp này là nhu cầu lao động được xác định theo định biên lao động tính 
+bình quân cho một đơn vị công cụ lao động (1 đầu xe, 1 tấn trọng tải) hay một đơn vị lao động 
++ Lái xe được định biên theo số lượng xe có: NLX = Ac x k 
+Trong đó: NLX:  Số lượng lao động lái xe 
+ 
+  
+      K: Hệ số định biên. Trong đó k= a + α 
++ Phụ xe: Số lượng lao động phụ xe sẽ bằng với số lượng lao động lái xe: Nphụ xe =NLX 
++ Thợ bảo dưỡng sửa chữa được xác định theo số lượng xe có hoặc theo tỉ lệ với lái xe. Thường 
+chiếm 15-20% so với lao động lái xe 
++ Lao động giái tiếp thường chiếm 8-12% so với tổng sosos lái xe và thợ Bảo dưỡng sửa chữa. 
+Phương pháp này thường sử dụng để xác định số lượng lao động lái xe và phụ xe 
+- Phương pháp tính toán theo Quỹ thời gian làm việc 
++ Công thức tổng quát để xác định nhu cầu lao động theo phương pháp này như sau: 
+ 
+Trong đó:  
+NLĐi: Nhu cầu về lao động loại i 
+
+=====PAGE 57=====
+57 
+ 
+ 
+  
+ 
+TLđi : Tổng số công của lao động I theo nhu cầu (giờ công)  
+ 
+  
+ 
+QTGLđi : Quỹ thời gian làm việc của lao động loại i trong năm 
+ 
+  
+ 
+KWlđi: Hệ số tăng năng suất lao động của lao động loại i 
+Nhu cầu lái xe (NLX): 
+ Trong đó: 
+ 
+ 
+ TH: Tổng thời gian làm việc của lái xe trên tuyến 
+TCk: Tổng thời gian chuẩn kết (Thời gian lấy giấy điều độ xe, thời gian vệ sinh  xe, 
+thời gian kiểm tra kỹ thuật xe, thời gian giao nhận xe,…) 
+T#: Tổng thời gian khác (Thời gian xe hỏng dọc đường,…) 
+ QTGLX: Quỹ thời gian làm việc của lái xe trong 1 năm 
+ KWlx: Hệ số tăng năng suất lao động của lái xe 
+Quỹ thời gian làm việc của lái xe trong 1 năm được xác định  như sau:  
+ 
+  
+QTGLX: = [ 365- (DCN + Dlễ + Dphép + Dkhác)] x 8 
+Trong đó: 
+DCN, Dlễ, Dphép, Dkhác : số ngày thứ bảy, chủ nhật, số  ngày lễ, số ngày nghỉ phép và số  ngfay 
+nghỉ khác theo chế độ của lái xe trong 1 năm 
+Nhu cầu thợ bảo dưỡng sửa chữa (NBDSC): 
+ 
+ 
+ 
+   
+Quỹ thời gian làm việc trong 1 năm của thọ BDSC tính tương tự như lái xe 
+Thợ phụ chiếm khoảng 15-20% so với công nhân chính 
+Lao động gián tiếp thường chiếm 8-12% so với tổng lái xe và thợ BDSC 
+Phương pháp này có ưu nhược điểm sau: 
+ Ưu điểm: Độ chính xác cao hơn phương pháp định biên vì gắn được số lao động với khối 
+lượng công việc. 
+ Nhược điểm: Mới chỉ xét đến yếu tố số lượng lao động, chưa xét đến chất lượng công việc và 
+hiệu quả sử dụng lao động. Do đó phương pháp này thường sử dụng để tính toán xác định số 
+
+=====PAGE 58=====
+58 
+ 
+lượng lao động sau đó cân đối lại bằng các phương pháp khác 
+- Tính toán theo quỹ thời gian lao động từng loại 
+- Phương pháp xác định theo định mức lao động tổng hợp 
+Theo phương pháp này, tổng nhu cầu lao động của lao động (NLĐ) được xác định theo định 
+mức lao động tổng hợp tính bình quân cho 10.000 T.KM (hay HK.KM) 
+ 
+-  
+ 
+Phương pháp này thường đùng để kiểm tra lại kết quả tính toán của các phương pháp khác chứ 
+ít được sử dụng 
+- Phương pháp xác định nhu cầu lao động theo năng suất lao động 
+Theo phương pháp này, nhu cầu lao động loại I (NLđi) được xác định trên cơ sở dự kiến yêu cầu 
+về kết quả lao động của lao động loại I và NSLĐ của lao động loại i 
+ 
+ 
+ 
+ 
+- Phương pháp cân đối khả năng về nguồn chi trả lương 
+Đối với các đơn vị kinh doanh thì  nguồn quỹ tiền lương chính là doanh thu. Từ doanh thu kế 
+hoạch ta xác định được: 
++ Quỹ tiền lương tối thiểu (QTLmin) ứng với trường hợp doanh thu sau khi bù đắp chi phí và 
+nộp nghĩa vụ ngân sách, lãi còn lại đạt bằng lãi định mức 
+ 
+ 
++ Quỹ tiền lương tối đa (QLTmax) ứng với các trường hợp doanh thu sau khi bù đắp chi phí và 
+nộp nghĩa vụ ngân sách, lãi còn lại = 0 
+ 
+ 
+ 
+Từ quỹ tiền lương tối thiểu và tối đã và tiền lương bình quân có thể xác định số lao đọng có thể 
+chi trả lương ứng với QTLmin và QTLmax 
+Phương pháp này thường dùng để kiểm tra kết quả xác định nhu cầu lao động của doanh nghiệp 
+được tính toán theo các phương pháp khác 
+9 Tổ chức quản lý tiền lương 
+9.1 Khái niệm tiền lương:  
+
+=====PAGE 59=====
+59 
+ 
+- Theo cơ chế cũ, tiền lương là một phần thu nhập quốc dân được phân phối cho  người lao 
+động theo số lượng và chất lượng lao động 
+- Theo nền kinh tế hàng hóa cơ chế thị trường thì tiền lương là giá cả của hàng hóa sức lao động 
+được hình thành trên thị trường lao động xác định về thời gian và không gian 
+- Tiền lương danh nghĩa: là lương được trả bằng tiền 
+- Tiền lương thực tế: Là lương danh nghĩa được quy đổi ra các vật phẩm cần thiết để tái sản 
+xuất sức lao động theo giá thị trường 
+9.2 Nguyên tắc trả lương 
+- Trả lương theo số lượng và chất lượng lao động 
+- Lao động như nhau cần được trả lương như nhau 
+- Tiền lương trả cho người lao động không được thấp hơn tiền lương tối thiểu do Nhà nước quy 
+định 
+- Tốc độ tăng NSLĐ phải nhanh hơn tốc độ tăng tiền lương bình quân. Nguyên tắc này để đảm 
+bảo tái sản xuất mở rộng 
+- Không ngừng nâng cao đời sống vật chất và tinh thần cho người lao động 
+9.3 Thành phần của tiền lương 
+- Lương chính là lương trả cho người lao động trong thời gian làm việc theo đơn giá tiền lương 
+sản phẩm hoặc lương thời gian 
+- Lương phụ: Là tiền lương trả cho người lao động trong thời gian không làm việc nhưng theo 
+chế độ vẫn được hưởng lương (Chẳng hạn như phép). 
+- Tiền thưởng: à khoản bổ sung cho tiền lương nhằm quán triệt hơn nữa nguyên tắc trả lương 
+theo lao động để giá trị tiền lương đúng bằng gía trị lao động thực tế. Trong doanh nghiệp thường 
+áp dụng các hình thức thưởng sau: 
++ Thưởng sáng kiến 
++ Thưởng do tiết kiệm 
++ Thưởng do nâng cao chất lượng sản phẩm 
+9.4 Các hình thức trả lương 
+
+=====PAGE 60=====
+60 
+ 
+ 
+9.5 Phương pháp xác định Quỹ tiền lương 
+- Phương pháp tính toán trực tiếp 
++ Đối với doanh nghiệp vận tải: 
+ 
+  
+QTL = QTLLX + QTLBDSC + QTLGT + QTL 
+Hoặc:   
+ 
+  
+QTL = QTLchính + QTLphụ + QTL phụ cấp. 
++ Quỹ tiền lương lái xe: 
+Phương pháp 1: Theo đơn giá tiền lương T và T.Km hay (HK & HK.Km) 
+ 
+  
+QTLLX = ( Q  CT + P  C TKM )  (1 + KP ) 
+Đơn giá tiền lương tấn (Hay hành khách) và T.Km (Hay HK.Km) được xác định như sau: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=====PAGE 61=====
+61 
+ 
+ 
+ 
+ 
+Phương pháp 2: Theo đơn giá tiền lương tổng hợp cho 1 T.Km hay (HK & HK.Km) của lái 
+xe 
+ 
+  
+ 
+QTLLX = P  CTL TH + QTLPC 
+Đơn giá tiền lương tổng hợp cho 1T.Km (HK.Km) của lái xe được xác định như sau: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Phương pháp 3: Theo đơn giá tiền lương khoán cho 1đ doanh thu 
+ 
+  
+QTLLX = DT  ĐMTL/1đồng doanh thu 
+Trong đó:  
+ 
+DT : Tổng doanh thu kế hoạch 
+ 
+ĐMTL/1đồng doanh thu: Đơn giá tiền lương khoán của lái xe cho 1 đ doanh thu 
++ Quỹ tiền lương của thợ bảo dưỡng sửa chữa 
+Phương pháp 1:  tính toán trực tiếp 
+ 
+  
+QTLBDSC = TBDSC  CTLGIƠ,CN +  QTLPC 
+Phương pháp 2: Theo đơn giá tiền lương tổng hợp cho thợ BDSC tính bình quân cho 1.000 Km 
+xe chạy. 
+ 
+ 
+ 
+ 
+ 
++ Quỹ tiền lương của lao động gián tiếp 
+ Được xác định theo cấp bậc và chức vụ của lao động theo phòng ban 
+* Ưu điểm của pháp pháp tính toán trực tiếp: độ chính xác cao vì gắn được quỹ tiền lương với 
+hình thức trả lương 
+= 
+Định mức tiền lương thợ cho 1000km xe chạy x ∑Lchg 
+∑QTLBDSC 
+1000 
+
+=====PAGE 62=====
+62 
+ 
+* Nhược điểm: Tính toán phức tạp chưa cân đối với kết quả và hiệu quả SXKD. Kết của tính 
+toán phụ thuộc vào các định mức đã sử dụng 
+- Phương pháp tiền lương bình quân 
+ 
+  
+ 
+QTL = NLĐKH  TLBQKH 
+Hay: 
+ 
+  
+ 
+QTL = NLĐKH  TLBQTH  ITL 
+Phương pháp tiền lương bình quân có ưu nhược điểm sau: 
+* Ưu điểm: Tính toán đơn giản 
+* Nhược điểm: chưa gắn quỹ tiền lương với hình thức trả lương với kết quả và hiệu quả SXKD 
+- Theo định mức tiền lương tổng hợp chung cho các loại lao động 
+ 
+ 
+ 
+Ưu nhược điểm của phương pháp 
+* Ưu điểm: tính toán nhanh 
+* Nhược điểm: khó xác định được định  mức chính xác, chỉ gắn tiền lương với sản phẩm mà 
+chưa gắn tiền lương với kết quả và hiệu quả cuối cùng của SXKD 
++ Phương pháp tăng trưởng bình quân 
+ 
+ 
+ 
+QTLKH = QTLTH  IQTL 
+Trong đó:  
+QTLKH ;QTLTH:  Tổng quĩ tiền lương kế hoạch và thực hiện của kỳ trước. 
+IQTL : Chỉ số tăng trưởng quỹ tiền lương 
+ + Phương pháp phân tích tương quan 
+ 
+ 
+ 
+QTL = f ( x1 , x2 ,.......xn ) 
+Trong đó, x1, x2 ,.......xn là các nhân tố ảnh hưởng đến quĩ tiền lương của doanh nghiệp như: 
+Doanh thu, tiền lương bình quân, số lao động, NSLĐ,... 
++Phương pháp cân đối Quỹ tiền lương và doanh thu 
+ 
+ 
+ 
+DT = c + v + m 
+Như vậy:   v (QTL) = DT - c – m 
+QTLmax (vmax), ứng với lãi = 0. 
+QTL min (vmin), ứng với lãi = lãi định mức 
++ Quan hệ giữa lao động và tiền lương 
+ 
+ 
+ 
+Ktương quan = IWlđ/ITLbq 
+Nếu IWlđ = ITLbq, thì chỉ có tái sản xuất giản đơn (Không có tích luỹ). 
+Nếu IWlđ < ITLbq, thì không đảm bảo được ngay cả tái sản xuất giản đơn. 
+= 
+Định mức tiền lương tổng hợp chung cho 1000T.Km x ∑P 
+∑QTL 
+1000 
+
+=====PAGE 63=====
+63 
+ 
+Nếu IWlđ > ITLbq, thì mới có thể phát triển sản xuất (Tái sản xuất mở rộng và có tích luỹ) 
+Ngoài ra, quĩ tiền lương chi trả thực tế luôn phải cân đối với khả năng chi trả của nguồn Qũy 
+tiền lướng 
+ 
+ 
+ 
+QTL min  QTL  QTL max 
+ 
+ 
+
+=====PAGE 64=====
+64 
+ 
+PHẦN 9 XÁC ĐỊNH CHI PHÍ GIÁ THÀNH VẬN TẢI 
+ 
+1. Một số khái niệm có liên quan 
+- Chi phí sản xuất: là toàn bộ hao phí lao động (Lao động sống và lao động quá khứ) mà 
+một đơn vị SXKD phải bỏ ra cho việc sản xuất và tiêu thụ sản phẩm trong một kỳ nào đó 
+- Chi phí sản xuất: là toàn bộ những phí tổn mà doanh nghiệp phải gánh chịu để sản xuất 
+và tiêu thụ hàng hoá, dịch vụ trong một giai đoạn nhất định 
+- Đầu vào của sản xuất: Là tất cả những yếu tố sản xuất của bất kỳ mặt hàng hoặc dịch vụ 
+nào dùng để sản xuất ra đầu ra 
+- Đầu vào cố định: Là đầu vào mà mức độ sử dụng của nó không thể thay đổi một cách dễ 
+dàng 
+- Đầu vào biến đổi: Là đầu vào mà mức sử dụng của nó có thể thay đổi một cách dễ dàng 
+để thích ứng với những mong muốn thay đổi trong sản xuất 
+- Yếu tố sản xuất cố định: Là yếu tố có mức đầu vào không thể thay đổi 
+- Yếu tố sản xuất biến đổi: Là một yếu tố có mức đầu vào có thể thay đổi dễ dàng 
+- Dài hạn: Là giai đoạn đủ dài để một doanh nghiệp có thể điều chỉnh tất cả các loại đầu vào 
+một cách tối ưu theo sự thay đổi của điều kiện sản xuất. 
+- Ngắn hạn: Là giai đoạn mà trong đó doanh nghiệp chỉ có thể điều chỉnh được một phần 
+nào đó đối với tất cả các yếu tố đầu vào của mình theo sự thay đổi của điều kiện sản xuất. 
+- Chi phí dài hạn: Là chi phí tối thiểu cho việc sản xuất ra một mức sản lượng khi doanh 
+nghiệp sản xuất có khả năng điều chỉnh các yếu tố đầu vào một cách tối ưu 
+- Chi phí ngắn hạn: Là chi phí tối thiểu cho việc sản xuất ra một mức sản lượng khi doanh 
+nghiệp sản xuất chỉ có khả năng điều chỉnh một trong số các yếu tố đầu vào một cách tối ưu 
+- Chi phí cơ hội: Là khoản bị mất mát do không sử dụng nguồn lực (Lao động hoặc vật 
+chất) theo phương thức sử dụng tối ưu nhất 
+- Chi phí biên: Là mức tăng tổng chi phí khi sản lượng tăng thêm 1 đơn vị. 
+2. Phân loại chi phí 
+- Phân loại theo nội dung kinh tế chi phí được phân ra 
++ Chi phí khấu hao máy móc thiết bị (C1) 
++ Chi phí về nguyên, nhiên vật liệu (C2) 
++ Chi phí tiền lương và bảo hiểm xã hội cho người lao động (v) 
++ Các chi phí khác cho sản xuất và tiêu thụ sản phẩm (Ckhác) 
+- Phân loại theo tính chất biến động của chi phí 
++ Chi phí cố định (Định phí) 
++ Chi phí biến đổi (Biến phí) 
+
+=====PAGE 65=====
+65 
+ 
+- Phân loại chi phí theo các giai đoạn của quá trình SXKD 
++ Chi phí chuẩn bị SXKD 
++ Chi phí cho quá trình sản xuất sản phẩm 
++ Chi phí cho việc tiêu thụ sản phẩm (trong lưu thông) 
+- Phân loại theo địa điểm phát sinh chi phí 
+- Phân loại chi phí theo phương pháp phân bổ chi phí 
++ Chi phí ở đội xe 
++ Chi phí ở xưởng 
++ Chi phí ở khâu dịch vụ 
++ Chi phí ở các phòng ban nghiệp vụ 
+- Phân loại theo phương pháp phần bổ chi phí 
++ Chi phí trực tiếp 
++ Chi phí gián tiếp 
+- Phân loại chi phí theo thời điểm chi 
++ Chi phí trích trước 
++ Chi phí chờ phần bổ 
+- Phân loại theo khoản mục chi phí 
++ Tiền lương của lái phụ xe 
++ Các khoản trích theo lương 
++ Chi phí nhiên liệu 
++ Chi phí VLBT 
++ Chi phí trích trước săm lốp 
++ Chi phí cho bảo dưỡng định kỳ và chă sóc thường xuyên 
++ Trích khấu hao cơ bản 
++ Trích trước sửa chữa lớn 
++ Thuế đầu vào 
++ Chi phí bảo hiểm 
++ Lệ phí bến 
++ Chi phí quản lý 
+3. Giá thành sản phẩm 
+3.1. Một số khái niệm 
+- Giá thành sản phẩm: là hao phí  lao động sống và lao động vật hoá được kết tinh trong 
+một đơn vị sản phẩm và được biểu thị bằng đơn vị tiền tệ. 
+- Giá thành: là một trong những chỉ tiêu chất lượng quan trọng, nó phản ánh tổng hợp mọi 
+kết quả hoạt động kinh tế của doanh nghiệp. Bởi lẽ mọi ưu nhược điểm trong quá trình tổ chức 
+
+=====PAGE 66=====
+66 
+ 
+quản lý SXKD, sử dụng các yếu tố đầu vào cũng như các nguồn lực bên trong và bên ngoài 
+doanh nghiệp đều được phản ánh vào giá thành. 
+- Giá thành kế hoạch: Được xây dựng trên cơ sở đầu vào là các yếu tố (Số liệu) dự kiến 
+hoặc dự báo. Nó thường dùng làm công cụ kiểm tra thực tế thực hiện 
+- Giá thành dự toán: Là một loại giá thành tính trước nhưng thường là giá thành không 
+đầy đủ vì nó được xây dựng trên cơ sở định mức dự toán các khoản chi phí chủ yếu chưa xét đầy 
+đủ tất cả các khoản chi phí. Giá thành dự toán được sử dụng dự toán nhu cầu về tài chính 
+- Giá thành hạch toán nội bộ: Được xây dựng để thực hiện hạch toán kinh tế nội bộ trong 
+doanh nghiệp. Thông thường giá thành này chỉ xét đến các khoản chi phí trực tiếp phát sinh từ 
+các bộ phận đó và một phần chi phí do phân bổ bởi vậy nó là giá thành không đầy đủ 
+- Giá thành định mức: là giá thành được xác định trên cơ sở định  mức lao động, vật tư, tài 
+chính hiện hành 
+3.2 Các yếu tố ảnh hưởng đến giá thành vận tải 
+- Nhóm các yếu tố khách quan: Đó là các yếu tố đặc trưng cho môi trường kinh doanh và 
+điều kiện sản xuất 
++ Môi trường kinh doanh chính là cơ chế chính sách của Nhà nước: Chính sách thuế, lệ 
+phí, chế độ bảo hiểm, chế độ khấu hao 
++ Điều kiện sản xuất vận tải: Đường xá, khí hậu, điều kiện về hàng hóa, hành khách vận 
+chuyển,… 
++ Giá cả các yếu tố đầu vào của sản xuất vận tải: Nhiên liệu, săm lốp, vật tư phụ tùng,.. 
+-  Nhóm các yếu tố chủ quan: là những yếu tố hoàn toàn phụ thuộc vào trình độ tổ chức 
+quản lý kinh doanh của doanh nghiệp đó là: 
++ Loại phương tiện và chất lượng phương tiện 
++ Cơ sở vật chất kỹ thuật phục vụ hoạt động của phương tiện.  
++ Cơ sở vật chất kỹ thuật phục vụ hoạt động của phương tiện. Cơ sở bảo dưỡng sửa chữa, 
+dịch vụ cung ứng vật tư kỹ thuạt 
++Trình độ tổ chức quản lý và công tác điều độ phương tiện 
+3.3  Quy trình hạch toán chi phí sản xuất và giá thành sản phẩm 
+ 
+
+=====PAGE 67=====
+67 
+ 
+ 
+ 
+3.4  Phương pháp hạch toán chi phí sản xuất và giá thành sản phẩm 
+3.4.1 Hạch toán giá thành theo định phí và biến phí 
+ 
+3.4.2 Hạch toán giá thành theo chi phí trực tiếp và chi phí gián tiếp 
++ Theo phương pháp này, trước hết cần tập hợp toàn bộ các chi phí sau đó phân ra các loại 
+chi phí trực tiếp (có thể hạch toán trực tiếp cho loại sản phẩm này hay sản phẩm khác) và các 
+loại chi phí gián tiếp có liên quan đồng thời đến nhiều loại sản phẩm của doanh  nghiệp bởi vậy 
+nó được tính vào giá thành của từng loại sản phẩm thông qua việc phân bổ 
++ Muốn phân bổ trước hết phải chọn tiêu thức phân bổ. Phương pháp này thường dùng để 
+hạch toán giá thành thực tế và giá thành hạch toán nội bộ 
+3.4.3 Hạch toán giá thành theo yếu tố chi phí (Theo nội dung kinh tế) 
++ Hao phí lao động sống (V): tiền lương và các khoản trích theo lương cho người lao động 
++ Khấu hao tài sản cố định (C1):  là sản phẩm chi phí để bù đắp lại những khoản đầu tư đã 
+
+=====PAGE 68=====
+68 
+ 
+ứng ra để tạo ra tài sản cố định 
++ Chi phí vật tư phù tùng nguyên nhiên vật liệu (C2) 
++ Các khoản chi phí khác (CK): thuế, lệ phí,…. 
+Công thức xác định: 
+ 
+ 
+3.4.4 Hạch toán gia thành theo khoản mục 
+- Tiền lương của lái phụ xe 
+ Khoản mục này bao gồm các khoản chi trả lương cho lái xe được trực tiếp tham gia vào 
+việc vận chuyển: 
++ Lương cơ bản của lái phụ xe theo thời gian và theo sản phẩm 
++ Các khoản phụ cấp và tiền thưởng từ quỹ tiền lương 
+ Các loại thưởng từ quỹ khuyến khích vật chat và từ nguồn tiết kiệm không được tính 
+vào khoản này 
+ Phương pháp xác định: tính toán trực tiếp;  Theo định mức khoán cho 1 đồng doanh thu 
+; tính theo tiền lương bình quân 
+Tính toán trực tiếp theo đơn giá tiền lương 
+CTLLX = (CT  Q + CT.km  P)  ( 1 + KP) 
+Hoặc :  CTLLX = CTKm
+TH  P  (1+KPT) 
+Trong đó:  
+ CTLLX: Chi phí tiền lương lái xe trong giá thành. 
+ CT; CT.km: Đơn giá tiền lương của lái xe tính cho 1 T & 1 T.Km. 
+ KP: Hệ số lương phụ cấp của lái xe. 
+ CTKm
+TH: Đơn giá tiền lương tổng hợp của lái xe tính cho 1 T.Km. 
+ 
+Theo định mức lương khoán cho 1 đồng doanh thu:  
+CTLLX = ĐMTL/1đ doanh thu x ∑DT 
+Trong đó: ĐMTL/1đ doanh thu: Định mức tiền lương khoán của lái xe cho 1 đ doanh 
+thu. 
+Theo tiền lương bình quân 
+
+=====PAGE 69=====
+69 
+ 
+CTLLX = TLLXBQ x NLX x 12 
+Trong đó:  
+TLLXBQ: Tiền lương bình quân tháng của lái xe 
+NLX: Tổng số lái xe. 
+Tiền lương phụ xe chỉ tính với những tuyến có sử dụng lao động phụ xe. Có thể tính toán 
+trực tiếp hoặc lấy theo tỉ lệ % lương lái xe (Thông thường là 70 - 80%) 
+- Các khoản trích theo lương 
++ Bảo hiểm xã hội 
++ Bảo hiểm y tế 
++ Bảo hiểm thất nghiệp 
++ Kinh phí công đoàn 
+Mức trích theo quy định hiện hành của Nhà nước:  32,5%, trong đó người lao động nộp 
+10.5% và hạch toán 22% vào chi phí sản xuất . Từ ngày 01/07/2023 -30/09/2022: 33% 
+- Chi phí nhiên liệu 
++ Khoản mực này chỉ tính chi phí nhiên liệu cho sản xuất vận tải. Mức tiêu hao nhiên liệu 
+(Qnl) có thể tính toán theo các phương pháp sau: 
++ Theo công thức 3K:  
+ 
+ 
+ 
+ 
++Trong điều kiện khoán cho lái xe không thể xác định rõ số lần quay trở đầu xe, có thể 
+dùng công thức sau: 
+ 
+ 
+ 
+ 
+ 
++ Trường hợp không xác định được hệ số chát tải, có thể tính như sau: 
+ 
+ 
+ 
+ 
+
+=====PAGE 70=====
+70 
+ 
+ 
++ Tính theo định  mức nhiên liệu tổng hợp: 
+ 
+ 
+-  Chi phí vật liêu bôi trơn 
++ Khoản mục chi phí này bao gồm: Chi phí dầu nhờn, Chi phí động cơ, Chi phí dầu phanh, 
+Chi phí dàu chuyên dùng 
++ Mức tiêu hao của các loại vât liệu bôi trơn được định múc theo % mức tiêu hoa nhiên 
+liệu chính. Đối với xe dầu: 4-5%, đối với xe xăng: 3-4% 
++ Công thức xác định: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- Chi phí trích trước săm lốp 
++ Phương pháp 1: Tính theo nhu cầu về lốp (NBL): 
+ 
+ 
+ 
+ 
++ Chi phí săm lốp (CSL) được xác định như sau: 
+CSL = NBL x  NGBL 
+ 
++ Phương pháp 2: Tính theo mức trích trước săm lốp cho 1km xe chạy 
+ 
+ 
+ 
+
+=====PAGE 71=====
+71 
+ 
+CSL =Lchg
+(1) x CSL/1Km 
+ 
+- Chi phí cho bảo dưỡng định kỳ và chăm sóc thường xuyên 
+Khoản mục chi phí này bao gồm: 
++ Chi phí tiền lương và bảo hiểm cho công nhân làm BDSC 
++ Chi phí vật tư phụ tùng thay thế trong BDSC 
++ Chi phí quản lý xưởng: Khấu hao máy móc thiết bị nhà xưởng, chi phí điện nước, lương 
+cho cán bộ quản lý xưởng 
+Phương pháp tính toán trực tiếp: 
+CBDSC = C(TL + BHCN) + C VTPT + CQLX 
+ 
++ Chi phí tiền lương và bảo hiểm cho thợ BDSC được xác định như sau: 
+C(TL + BHCN) = TBDSC  CTLGiờCN  (1 + KBHCN) + CP 
+ 
+ 
++ Chi phí vật tư phụ tùng cho BDSC được tính như sau: 
+ 
+ 
+ 
+ 
++ Chi phí quản lý xưởng thường được lấy theo tỉ lệ % của chi phí tiền lương thợ và vật tư 
+phụ tùng cho BDSC: 
+ C
+QLX = 20  30%  (C
+TL + C
+VTPT) 
+- Trích khấu hao cơ bản 
+Phương pháp khấu hao theo thời gian: 
+ 
+* Ưu điểm: Tính đơn giản, buộc các doanh  nghiệp phải nâng cao mức độ sử dụng phương 
+tiện bởi vì, nếu ít (hoặc không) sử dụng vẫn phải tính khấu hao 
+* Nhược điểm: Độ chính xác không được cao, tách rời mức độ hao mòn và giá trị khấu 
+khao (Phần giá trị của phương tiện chuyển vào giá thành) 
+Khấu hao theo mức độ sử dụng: 
+ 
+
+=====PAGE 72=====
+72 
+ 
+ 
+ 
+* Ưu điểm: Độ chính xác cao, mức khấu hao gắn liền với mức độ sử dụng phương tiện 
+* Nhược điểm: Tính toán phức tạp 
+- Trích trước sửa chữa lớn 
+Tính toán tương tụ như khấu hao cơ bản. Thông thường khoản mục “Trích trước sửa chữa 
+lớn” bằng 50-60% khoảng mục Trích khấu hao cơ bản; 
+- Thuế đầu vào: 
++ Thuế vốn (nếu sử dụng vốn Ngân sách Nhà nước) hay chi phí sử dụng vốn (nếu sử dụng 
+vốn vay) 
++ Thuế đất (hoặc tền thuê sử dụng đất): được tính theo biểu thuế quy định đối với từng vị 
+trí đất và từng khu vực. Thuế đất chỉ đánh vào tiện tích sử dụng trực tiếp cho hoạt động SXKD 
+không tính vào phần đất cho các công trình phúc lợi công cộng 
+- Chi phí bảo hiểm: 
++ Bảo hiểm phương tiện: hiện tính theo 1% giá trị phương tiện 
++ Bảo hiểm hành khách, hành lý, hàng hóa trên xe 
++ Bảo hiểm tải sản: Thường bằng 1% giá trị tài sản 
+- Lệ phí, biến phí: 
++ Phí đường có thu phí 
++ Lệ phí cầu phà: tùy theo quy định cụ thể của từng loại cầu và phà đối với từng loại xe 
++ Lệ phí bến bãi 
++ Lệ phí bán vé (Hiện nay lấy từ 2-5% giá vé) 
++ Phí sử dụng đường bộ 
+- Chi phí quản lý 
+Bao gồm nhiều tiểu khoản mục nhưng để đơn giản người ta phân làm 3 nhóm chi phí chính: 
++ Chi phí duy trì bộ máy quản lý doanh nghiệp 
++ Các chi phí chung cho sản xuất 
++ Các khoản chi phí sản xuất 
+Phương pháp tính toán: 
++ Tính toán trực tiếp 
++ Tính theo tỷ lệ % của các khoản mục chi phí 
++ Tính theo tỷ lệ % của doanh thu 
++ Theo mô hình tương quan 
+Thông thường người ta  thường tính theo tỷ lệ % các khoản  mục chi phí và lấy từ 5-12% 
+khoản mục trên 
+
+=====PAGE 73=====
+73 
+ 
+Giá thành được xác định như sau: 
