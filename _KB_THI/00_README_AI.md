@@ -24,9 +24,9 @@ Công ty (báo cáo): CÔNG TY TNHH THƯƠNG MẠI VÀ VẬN TẢI HT LOGISTICS 
 | 21_KHAI_THAC_CONG_THUC.md | Công thức năng suất phương tiện (đã kiểm chứng) |
 | 22_KHAI_THAC_DE2_tuluan.md | Đề 2 Khai thác dạng TỰ LUẬN: bài giải mẫu |
 | 23_GIA_THANH_CONG_THUC.md | Công thức giá thành/giá cước (Excel CPVT) |
-| 30_THONG_KE_bank.md | 5 bộ Thống kê (A có đáp án; B, C không; D1/D2 đáp án 1-20) |
-| 31_THONG_KE_THIEU_DAP_AN.md | Danh sách câu Thống kê chưa có đáp án (Đề 2 câu 21-40) |
-| 32_THONG_KE_DE2_dapan.md | Đáp án Đề 2 Thống kê: 1-20 có, 21-40 chưa |
+| 30_THONG_KE_bank.md | 5 bộ Thống kê (A,B,C,D1,D2 đều đủ đáp án 1-40) |
+| 31_THONG_KE_THIEU_DAP_AN.md | (không còn câu thiếu; liệt kê câu độ chắc chắn thấp) |
+| 32_THONG_KE_DE2_dapan.md | Đáp án Đề 2 Thống kê: đủ 40/40 |
 | 40_BAO_CAO_THUC_HANH.md | Hướng dẫn hoàn thiện & nộp báo cáo |
 | DAP_AN_BO_SUNG.md | Đáp án người dùng tự bổ sung |
 | tools/ | tra_cuu.py (tìm theo nội dung), tinh_nang_suat.py (máy tính năng suất) |
@@ -35,7 +35,7 @@ Công ty (báo cáo): CÔNG TY TNHH THƯƠNG MẠI VÀ VẬN TẢI HT LOGISTICS 
 ## Tình trạng đáp án (tính đến 27/10/2026)
 - Pháp luật: **400/400 có đáp án**. Đề 2: 40/40.
 - Khai thác: **196/196 có đáp án**; tự luận Đề 2 đã giải.
-- Thống kê: Đề 2 **20/40** (câu 21-40 chưa có). Bộ A 40/40. B, C chưa có; D1/D2 có 1-20.
+- Thống kê: **cả 5 bộ đủ 40/40** (Đề 2 40/40). Câu ⚠ độ chắc chắn thấp: B11, B40, C3, C14, C15, C17, C19, D1/D2-26, D1/D2-33. Tra nhanh theo mã: data/tk_answers.json.
 - Tài liệu gốc ở thư mục cha (`..`): giáo trình "BG_KHAI THAC VAN TAI mới.pdf" (3,6MB) dùng để tra lý thuyết Khai thác nếu cần.
 
 ## QUY TRÌNH CÂU LẠ (đã được người dùng cho phép tìm trên mạng)

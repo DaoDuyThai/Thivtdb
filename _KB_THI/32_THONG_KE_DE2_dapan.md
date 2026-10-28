@@ -1,6 +1,7 @@
 # ĐỀ 2 – THỐNG KÊ (Mã đề 002): ĐÁP ÁN ĐỂ TÍCH
 
-Câu 1-20: có đáp án (khớp bộ A, đã map theo nội dung). Câu 21-40: **D**, trừ câu 29=C, 33=B, 34=A (người dùng chốt sửa 27/10/2026).
+Đủ 40/40. Câu 1-20 = bộ A (đáp án gốc); câu 21-40 = bộ B (đáp án từ file docx Thầy Thành bản có đáp án, đã kiểm lại 28/10/2026; thay thế bản 'toàn D' cũ).
+⚠ Nhiều câu 'đảo' (chọn câu sai/không đúng): 29=C, 33=B, 34=A, 35=B, 39=C. Đề thật có thể xáo A-D → chọn theo NỘI DUNG (xem 30_THONG_KE_bank.md).
 
 | Câu | Đáp án | Nguồn |
 |---|---|---|
@@ -24,25 +25,25 @@ Câu 1-20: có đáp án (khớp bộ A, đã map theo nội dung). Câu 21-40: 
 | 18 | **D** | A18 |
 | 19 | **D** | A19 |
 | 20 | **D** | A20 |
-| 21 | **D** (người dùng cung cấp) | B21 |
-| 22 | **D** (người dùng cung cấp) | B22 |
-| 23 | **D** (người dùng cung cấp) | B23 |
-| 24 | **D** (người dùng cung cấp) | B24 |
-| 25 | **D** (người dùng cung cấp) | B25 |
-| 26 | **D** (người dùng cung cấp) | B26 |
-| 27 | **D** (người dùng cung cấp) | B27 |
-| 28 | **D** (người dùng cung cấp) | B28 |
-| 29 | **C** (đã sửa theo nội dung, theo yêu cầu người dùng) | B29 |
-| 30 | **D** (người dùng cung cấp) | B30 |
-| 31 | **D** (người dùng cung cấp) | B31 |
-| 32 | **D** (người dùng cung cấp) | B32 |
-| 33 | **B** (đã sửa theo nội dung, theo yêu cầu người dùng) | B33 |
-| 34 | **A** (đã sửa theo nội dung, theo yêu cầu người dùng) | B34 |
-| 35 | **D** (người dùng cung cấp) | B35 |
-| 36 | **D** (người dùng cung cấp) | B36 |
-| 37 | **D** (người dùng cung cấp) | B37 |
-| 38 | **D** (người dùng cung cấp) | B15 |
-| 39 | **D** (người dùng cung cấp) | B39 |
-| 40 | **D** (người dùng cung cấp) | B40 |
+| 21 | **D** | B21 |
+| 22 | **D** | B22 |
+| 23 | **D** | B23 |
+| 24 | **D** | B24 |
+| 25 | **D** | B25 |
+| 26 | **D** | B26 |
+| 27 | **D** | B27 |
+| 28 | **D** | B28 |
+| 29 | **C** | B29 |
+| 30 | **D** | B30 |
+| 31 | **D** | B31 |
+| 32 | **D** | B32 |
+| 33 | **B** | B33 |
+| 34 | **A** | B34 |
+| 35 | **B** | B35 |
+| 36 | **D** | B36 |
+| 37 | **D** | B37 |
+| 38 | **D** | B38 |
+| 39 | **C** | B39 |
+| 40 | **D** ⚠ thấp | B40 |
 
-Chuỗi nhanh 1-20: 1D 2D 3D 4D 5C 6D 7D 8C 9D 10D 11D 12D 13A 14B 15C 16D 17D 18D 19D 20D
+Chuỗi nhanh: 1D 2D 3D 4D 5C 6D 7D 8C 9D 10D 11D 12D 13A 14B 15C 16D 17D 18D 19D 20D 21D 22D 23D 24D 25D 26D 27D 28D 29C 30D 31D 32D 33B 34A 35B 36D 37D 38D 39C 40D

@@ -34,4 +34,4 @@
 1. **Tài liệu/AI:** guide.md ghi "❌ Không được sử dụng tài liệu"; hướng dẫn quy trình ghi "kiểm tra mặt bàn và xung quanh tuyệt đối không có tài liệu liên quan"; camera quay toàn bộ quá trình thi. Người dùng cho biết hôm thi được dùng AI/tài liệu → **hãy xác nhận bằng văn bản/tin nhắn với giáo vụ trước khi thi**; nếu bị phát hiện dùng trái quy định có thể bị hủy kết quả.
 2. Khai thác: TN hay tự luận → hỏi giáo vụ. Chuẩn bị cả hai.
 3. Số trang báo cáo: 2 file hướng dẫn ghi khác nhau (10-20 trang vs 20-30 trang) → bản đã làm 16 trang thân bài; nếu giáo vụ yêu cầu 20-30, bổ sung thêm Phần 1 (xem file 40).
-4. Câu Thống kê Đề 2 21-40 chưa có đáp án.
+4. Thống kê Đề 2 đã đủ 40/40 đáp án (21-40 cập nhật 28/10).

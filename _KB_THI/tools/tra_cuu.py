@@ -13,16 +13,22 @@ def load():
     for x in json.load(open(D+'/kt196.json',encoding='utf-8')):
         items.append(dict(src=f"KT-{x['n']} (Khai thác 196)",text=x['q']+' '+' '.join(x['opts'].values()),q=x['q'],ans=x['ans'],anstxt=x['opts'].get(x['ans'],''),note=''))
     S=json.load(open(D+'/tk_sets.json',encoding='utf-8'))
+    AN=json.load(open(D+'/tk_answers.json',encoding='utf-8'))
     for nm in ('A','B','C','D1','D2'):
         for b in S[nm]:
             full=b['head']+' '+' '.join(b['lines'])
-            ans=b.get('ans') if nm=='A' else None; at=b['opts'].get(ans,'') if ans else ''
-            note=''
-            if nm in('D1','D2'):
-                key=S['key'+nm].get(str(b['n']))
-                if key:
-                    opts=[l for l in b['lines']][:4]; i=ord(key)-65
-                    ans=key; at=opts[i] if i<len(opts) else ''
+            v=AN[nm].get(str(b['n'])) or {}
+            ans=v.get('ans'); note=('⚠ ĐỘ CHẮC CHẮN THẤP. ' if v.get('low') else '')+v.get('note','')
+            at=''
+            if ans and len(ans)==1:
+                if nm in('D1','D2'):
+                    opts=b['lines'][:4]; i=ord(ans)-65; at=opts[i] if i<len(opts) else ''
+                else:
+                    at=(b.get('opts') or {}).get(ans,'')
+                    if not at:
+                        for ln in b['lines']:
+                            if ln.strip()[:2].upper()==ans+'.' or ln.strip()[:2].upper()==ans+')': at=ln.strip(); break
+                        if not at and b['lines'][:4]: i=ord(ans)-65; at=b['lines'][i] if i<4 and i<len(b['lines']) else ''
             items.append(dict(src=f"TK-{nm}-{b['n']} (Thống kê)",text=full,q=b['head'],ans=ans,anstxt=at,note=note))
     return items
 def main():

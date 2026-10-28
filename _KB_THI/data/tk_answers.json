@@ -1,0 +1,1012 @@
+{
+ "A": {
+  "1": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "2": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "3": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "4": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "5": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "6": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "7": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "8": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "9": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "10": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "11": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "12": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "13": {
+   "ans": "A",
+   "low": false,
+   "note": ""
+  },
+  "14": {
+   "ans": "B",
+   "low": false,
+   "note": ""
+  },
+  "15": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "16": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "17": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "18": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "19": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "20": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "21": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "22": {
+   "ans": "B",
+   "low": false,
+   "note": ""
+  },
+  "23": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "24": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "25": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "26": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "27": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "28": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "29": {
+   "ans": "A",
+   "low": false,
+   "note": ""
+  },
+  "30": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "31": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "32": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "33": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "34": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "35": {
+   "ans": "B",
+   "low": false,
+   "note": ""
+  },
+  "36": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "37": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "38": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "39": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "40": {
+   "ans": "A",
+   "low": false,
+   "note": ""
+  }
+ },
+ "B": {
+  "1": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "2": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "3": {
+   "ans": "A",
+   "low": false,
+   "note": "Kết quả sản xuất vận tải: HK, Tấn, HK.Km, T.Km."
+  },
+  "4": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "5": {
+   "ans": "B",
+   "low": false,
+   "note": "Số lượng khách hàng không phải nhiệm vụ của thống kê vận tải."
+  },
+  "6": {
+   "ans": "B",
+   "low": false,
+   "note": "Giá cước biểu hiện đầy đủ giá trị (c+v+m); giá thành chỉ phản ánh một phần."
+  },
+  "7": {
+   "ans": "D",
+   "low": false,
+   "note": "Tài sản dài hạn: thu hồi > 12 tháng, gồm cả TSCĐ nên a, b, c đều sai."
+  },
+  "8": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "9": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "10": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "11": {
+   "ans": "D",
+   "low": true,
+   "note": "a và b đúng; c cũng có vẻ đúng nhưng đề không có phương án \"cả 3\", nên chọn d."
+  },
+  "12": {
+   "ans": "B",
+   "low": false,
+   "note": "Phương tiện vận tải đường bộ khấu hao tối thiểu 6 năm, tối đa 10 năm."
+  },
+  "13": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "14": {
+   "ans": "D",
+   "low": false,
+   "note": "TSCĐ: chắc chắn có lợi ích kinh tế, dùng trên 1 năm, nguyên giá xác định tin cậy và từ 30 triệu đồng."
+  },
+  "15": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "16": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "17": {
+   "ans": "D",
+   "low": false,
+   "note": "a, b, c đều là phát biểu bị đảo ngược ý nghĩa nên không có phát biểu nào đúng."
+  },
+  "18": {
+   "ans": "C",
+   "low": false,
+   "note": "Câu hỏi tìm câu SAI: sản xuất vận tải không phát sinh chi phí bán hàng riêng (sản xuất và tiêu thụ đồng thời)."
+  },
+  "19": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "20": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "21": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "22": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "23": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "24": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "25": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "26": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "27": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "28": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "29": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "30": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "31": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "32": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "33": {
+   "ans": "B",
+   "low": false,
+   "note": "Câu hỏi tìm câu KHÔNG đúng: vận tải ô tô tiêu hao nhiên liệu lớn, không phải \"rất ít\"."
+  },
+  "34": {
+   "ans": "A",
+   "low": false,
+   "note": "Câu hỏi tìm câu SAI: nếu tốc độ tăng NSLĐ = tốc độ tăng tiền lương BQ thì chỉ có tái sản xuất giản đơn, không có tích lũy (câu d)."
+  },
+  "35": {
+   "ans": "B",
+   "low": false,
+   "note": "Giá trị sản xuất tính toàn bộ kết quả hoàn thành trong kỳ (kể cả sản phẩm tự sản, tự tiêu, chính và phụ)."
+  },
+  "36": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "37": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "38": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "39": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "40": {
+   "ans": "D",
+   "low": true,
+   "note": "File mới để trống; AI suy luận D (cả 3 ý đúng), chưa xác minh"
+  }
+ },
+ "C": {
+  "1": {
+   "ans": "C",
+   "low": false,
+   "note": "Định nghĩa khớp với \"Thống kê doanh nghiệp\" (nghiên cứu mặt lượng gắn với mặt chất trong và ngoài doanh nghiệp)."
+  },
+  "2": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "3": {
+   "ans": "D",
+   "low": true,
+   "note": "Câu hỏi có vấn đề: cả 3 ý đều là thông tin cần nắm nên chọn d (tất cả đều đúng)."
+  },
+  "4": {
+   "ans": "B",
+   "low": false,
+   "note": ""
+  },
+  "5": {
+   "ans": "B",
+   "low": false,
+   "note": ""
+  },
+  "6": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "7": {
+   "ans": "A",
+   "low": false,
+   "note": "Điền \"Thống kê\" vào chỗ trống."
+  },
+  "8": {
+   "ans": "C",
+   "low": false,
+   "note": "Phạm vi và đối tượng gồm cả hiện tượng bên trong và liên quan trực tiếp/gián tiếp đến kinh doanh."
+  },
+  "9": {
+   "ans": "B",
+   "low": false,
+   "note": ""
+  },
+  "10": {
+   "ans": "A",
+   "low": false,
+   "note": "Thống kê dựa trên phương pháp duy vật biện chứng, không dùng duy tâm."
+  },
+  "11": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "12": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "13": {
+   "ans": "A",
+   "low": false,
+   "note": ""
+  },
+  "14": {
+   "ans": "C",
+   "low": true,
+   "note": "Câu hỏi có vấn đề: A và B đều là ý nghĩa đúng nên chọn C. Độ chắc chắn thấp."
+  },
+  "15": {
+   "ans": "A,B,C",
+   "low": true,
+   "note": "Đề chỉ có 3 phương án, cả 3 đều là nhiệm vụ của thống kê kết quả SXKD."
+  },
+  "16": {
+   "ans": "D",
+   "low": false,
+   "note": "Tổng khấu hao TSCĐ không phải chỉ tiêu kết quả sản xuất kinh doanh."
+  },
+  "17": {
+   "ans": "A",
+   "low": true,
+   "note": "Hạch toán sản lượng với chủ hàng theo khối lượng vận chuyển (tấn). Độ chắc chắn trung bình."
+  },
+  "18": {
+   "ans": "D",
+   "low": false,
+   "note": "Tỷ lệ hoàn thành từng mặt hàng: 100%, 22/23 = 95,65%, 100%, 420/450 = 93,33%; trung bình = 97,2% ≈ 97%."
+  },
+  "19": {
+   "ans": "D",
+   "low": true,
+   "note": "A và B là các khoản doanh thu thuộc giá trị sản xuất, C sai nên chọn \"Đáp án C sai\". Độ chắc chắn trung bình."
+  },
+  "20": {
+   "ans": "A",
+   "low": false,
+   "note": "Chi phí trung gian là chi phí vật chất và dịch vụ, không gồm khấu hao TSCĐ."
+  },
+  "21": {
+   "ans": "A",
+   "low": false,
+   "note": "VA = GO − IC."
+  },
+  "22": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "23": {
+   "ans": "A",
+   "low": false,
+   "note": ""
+  },
+  "24": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "25": {
+   "ans": "D",
+   "low": false,
+   "note": "A và C đúng (A và B trùng nhau)."
+  },
+  "26": {
+   "ans": "B",
+   "low": false,
+   "note": "Cặp A–B: 30/40; A–C: 50/70; B–C: 60/20. Chiều nhẹ = 30+50+20 = 100; chiều nặng = 40+70+60 = 170; hệ số = 100/170 = 58,8%."
+  },
+  "27": {
+   "ans": "A",
+   "low": false,
+   "note": ""
+  },
+  "28": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "29": {
+   "ans": "B",
+   "low": false,
+   "note": "Bình quân tháng 3 = (510 + 530)/2 = 520."
+  },
+  "30": {
+   "ans": "B",
+   "low": false,
+   "note": "Bình quân quý 1 = (530/2 + 510 + 510 + 530/2)/3 ≈ 516,7, gần nhất 520."
+  },
+  "31": {
+   "ans": "B",
+   "low": false,
+   "note": "Bình quân 6 tháng = (530/2 + 510 + 510 + 530 + 520 + 520 + 530/2)/6 = 520."
+  },
+  "32": {
+   "ans": "A",
+   "low": false,
+   "note": ""
+  },
+  "33": {
+   "ans": "B",
+   "low": false,
+   "note": "Cuối kỳ = 180 + 50 + 5 − 10 − 5 − 5 − 10 = 205."
+  },
+  "34": {
+   "ans": "C",
+   "low": false,
+   "note": "Bình quân = (180 + 205)/2 = 192,5."
+  },
+  "35": {
+   "ans": "C",
+   "low": false,
+   "note": "Tốc độ tăng trưởng trong kỳ = 205/180 = 1,14 lần."
+  },
+  "36": {
+   "ans": "D",
+   "low": false,
+   "note": "Qua 2 kỳ = 192,5/170 = 1,13 lần."
+  },
+  "37": {
+   "ans": "A",
+   "low": false,
+   "note": "NSLĐ KH = 4000/200 = 20; TH = 6000/240 = 25. Số lao động cần = 200 × 1,5 = 300 > 240, tiết kiệm 60 người."
+  },
+  "38": {
+   "ans": "B",
+   "low": false,
+   "note": "NSLĐ KH = 25; TH = 6000/250 = 24. Số lao động cần = 200 × 1,2 = 240 < 250, lãng phí 10 người."
+  },
+  "39": {
+   "ans": "D",
+   "low": false,
+   "note": "Hoàn thành KH: giờ xe hành trình 101,4%; lăn bánh 100,9%; khối lượng vận chuyển 5120,1/4570,2 = 112,0% (cao nhất)."
+  },
+  "40": {
+   "ans": "C",
+   "low": false,
+   "note": "NSLĐ Đội 3 cao nhất cả 2 tháng: tháng 1 = 10, tháng 2 = 10,83 (Đội 1: 6 và 5,33; Đội 2: 8,13 và 9,44)."
+  }
+ },
+ "D1": {
+  "1": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "2": {
+   "ans": "B",
+   "low": false,
+   "note": ""
+  },
+  "3": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "4": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "5": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "6": {
+   "ans": "A",
+   "low": false,
+   "note": ""
+  },
+  "7": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "8": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "9": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "10": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "11": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "12": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "13": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "14": {
+   "ans": "B",
+   "low": false,
+   "note": ""
+  },
+  "15": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "16": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "17": {
+   "ans": "A",
+   "low": false,
+   "note": ""
+  },
+  "18": {
+   "ans": "A",
+   "low": false,
+   "note": ""
+  },
+  "19": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "20": {
+   "ans": "B",
+   "low": false,
+   "note": ""
+  },
+  "21": {
+   "ans": "C",
+   "low": false,
+   "note": "VA (phương pháp phân phối) = thu nhập lần đầu của người sản xuất + thu nhập lần đầu của doanh nghiệp + khấu hao TSCĐ."
+  },
+  "22": {
+   "ans": "D",
+   "low": false,
+   "note": "Chi phí dịch vụ: quảng cáo, tuyên truyền... (a, b, c là chi phí vật chất)."
+  },
+  "23": {
+   "ans": "D",
+   "low": false,
+   "note": "Chi phí vật chất: vật rẻ tiền mau hỏng phân bổ trong năm (a, b, c là chi phí dịch vụ)."
+  },
+  "24": {
+   "ans": "C",
+   "low": false,
+   "note": "Công tác phí (vé tàu xe, khách sạn) thuộc chi phí dịch vụ."
+  },
+  "25": {
+   "ans": "A",
+   "low": false,
+   "note": "Câu SAI: VA không bao gồm c (chi phí trung gian), chỉ gồm phần giá trị mới tạo ra (v + m + khấu hao)."
+  },
+  "26": {
+   "ans": "C",
+   "low": true,
+   "note": "Không tìm được nguồn xác nhận; chọn 6 nội dung theo phán đoán. Nên đối chiếu bài giảng của thầy."
+  },
+  "27": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "28": {
+   "ans": "C",
+   "low": false,
+   "note": "5 nhân tố: khối lượng, kết cấu, giá bán, giá thành, thuế (khớp với câu 31 và câu 28 ở Phần 1)."
+  },
+  "29": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "30": {
+   "ans": "C",
+   "low": false,
+   "note": "Hai phương pháp tính khối lượng sản phẩm vật chất: hiện vật và hiện vật quy ước."
+  },
+  "31": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "32": {
+   "ans": "B",
+   "low": false,
+   "note": "Hoạt động kinh doanh dịch vụ sản xuất không tạo ra sản phẩm vật chất."
+  },
+  "33": {
+   "ans": "C",
+   "low": true,
+   "note": "Phán đoán: phương pháp có khả năng tổng hợp và so sánh. Độ chắc chắn thấp."
+  },
+  "34": {
+   "ans": "B",
+   "low": false,
+   "note": "Chỉ số doanh thu = 0,95 × 1,1 = 1,045."
+  },
+  "35": {
+   "ans": "C",
+   "low": false,
+   "note": "Chỉ số giá = 120% / 100% = 120%."
+  },
+  "36": {
+   "ans": "C",
+   "low": false,
+   "note": "Doanh thu bán hàng là chỉ tiêu thống kê (có giá trị đo được); ngành nghề, tên, địa chỉ là tiêu thức thuộc tính."
+  },
+  "37": {
+   "ans": "C",
+   "low": false,
+   "note": "Quy mô doanh nghiệp thể hiện qua tổng giá trị sản xuất."
+  },
+  "38": {
+   "ans": "A",
+   "low": false,
+   "note": "Hoàn thành kế hoạch lao động (kiểm tra giản đơn) = 230 / 200 = 115%."
+  },
+  "39": {
+   "ans": "B",
+   "low": false,
+   "note": "q bình quân = (30×10 + 20×8)/50 = 9,2 T; số chuyến/ngày = 15/5 = 3; W = 9,2 × 0,8 × 3 × 30 × 0,75 = 496,8 tấn/xe/tháng."
+  },
+  "40": {
+   "ans": "B",
+   "low": false,
+   "note": "q bình quân = (20×45 + 10×24)/30 = 38 ghế; W = 38 × 0,8 × 0,9 × 200 × 2 × 30 × 0,75 = 246.240 HK.Km/xe/tháng."
+  }
+ },
+ "D2": {
+  "1": {
+   "ans": "A",
+   "low": false,
+   "note": ""
+  },
+  "2": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "3": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "4": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "5": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "6": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "7": {
+   "ans": "B",
+   "low": false,
+   "note": ""
+  },
+  "8": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "9": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "10": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "11": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "12": {
+   "ans": "A",
+   "low": false,
+   "note": ""
+  },
+  "13": {
+   "ans": "A",
+   "low": false,
+   "note": ""
+  },
+  "14": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "15": {
+   "ans": "B",
+   "low": false,
+   "note": ""
+  },
+  "16": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "17": {
+   "ans": "C",
+   "low": false,
+   "note": ""
+  },
+  "18": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "19": {
+   "ans": "B",
+   "low": false,
+   "note": ""
+  },
+  "20": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "21": {
+   "ans": "C",
+   "low": false,
+   "note": "VA (phương pháp phân phối) = thu nhập lần đầu của người sản xuất + thu nhập lần đầu của doanh nghiệp + khấu hao TSCĐ."
+  },
+  "22": {
+   "ans": "D",
+   "low": false,
+   "note": "Chi phí dịch vụ: quảng cáo, tuyên truyền... (a, b, c là chi phí vật chất)."
+  },
+  "23": {
+   "ans": "D",
+   "low": false,
+   "note": "Chi phí vật chất: vật rẻ tiền mau hỏng phân bổ trong năm (a, b, c là chi phí dịch vụ)."
+  },
+  "24": {
+   "ans": "C",
+   "low": false,
+   "note": "Công tác phí (vé tàu xe, khách sạn) thuộc chi phí dịch vụ."
+  },
+  "25": {
+   "ans": "A",
+   "low": false,
+   "note": "Câu SAI: VA không bao gồm c (chi phí trung gian), chỉ gồm phần giá trị mới tạo ra (v + m + khấu hao)."
+  },
+  "26": {
+   "ans": "C",
+   "low": true,
+   "note": "Không tìm được nguồn xác nhận; chọn 6 nội dung theo phán đoán. Nên đối chiếu bài giảng của thầy."
+  },
+  "27": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "28": {
+   "ans": "C",
+   "low": false,
+   "note": "5 nhân tố: khối lượng, kết cấu, giá bán, giá thành, thuế (khớp với câu 31 và câu 28 ở Phần 1)."
+  },
+  "29": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "30": {
+   "ans": "C",
+   "low": false,
+   "note": "Hai phương pháp tính khối lượng sản phẩm vật chất: hiện vật và hiện vật quy ước."
+  },
+  "31": {
+   "ans": "D",
+   "low": false,
+   "note": ""
+  },
+  "32": {
+   "ans": "B",
+   "low": false,
+   "note": "Hoạt động kinh doanh dịch vụ sản xuất không tạo ra sản phẩm vật chất."
+  },
+  "33": {
+   "ans": "C",
+   "low": true,
+   "note": "Phán đoán: phương pháp có khả năng tổng hợp và so sánh. Độ chắc chắn thấp."
+  },
+  "34": {
+   "ans": "B",
+   "low": false,
+   "note": "Chỉ số doanh thu = 0,95 × 1,1 = 1,045."
+  },
+  "35": {
+   "ans": "C",
+   "low": false,
+   "note": "Chỉ số giá = 120% / 100% = 120%."
+  },
+  "36": {
+   "ans": "C",
+   "low": false,
+   "note": "Doanh thu bán hàng là chỉ tiêu thống kê (có giá trị đo được); ngành nghề, tên, địa chỉ là tiêu thức thuộc tính."
+  },
+  "37": {
+   "ans": "C",
+   "low": false,
+   "note": "Quy mô doanh nghiệp thể hiện qua tổng giá trị sản xuất."
+  },
+  "38": {
+   "ans": "A",
+   "low": false,
+   "note": "Hoàn thành kế hoạch lao động (kiểm tra giản đơn) = 230 / 200 = 115%."
+  },
+  "39": {
+   "ans": "B",
+   "low": false,
+   "note": "Chính là câu 40 của Phần 3 (HK.Km): 246.240 HK.Km/xe/tháng."
+  },
+  "40": {
+   "ans": "B",
+   "low": false,
+   "note": "Chính là câu 39 của Phần 3 (tấn): 496,8 tấn/xe/tháng."
+  }
+ }
+}
