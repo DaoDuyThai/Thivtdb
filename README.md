@@ -17,7 +17,7 @@ Repo chứa **ngân hàng đáp án đã số hóa** (Pháp luật 400 câu, Kha
 
 **Bước 1 – Tải repo**
 ```bash
-git clone https://github.com/<tên-bạn>/Thivtdb.git
+git clone https://github.com/DaoDuyThai/Thivtdb.git
 ```
 (hoặc bấm *Code → Download ZIP* rồi giải nén).
 
